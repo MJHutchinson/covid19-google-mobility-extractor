@@ -36,4 +36,4 @@ Google identifies countries by a 2 letter code. The file codes_to_names.txt maps
 If there's anything I've missed, or you would like the data in a different format, let me know, or open a pull request/issue!
 
 ## Acknowlagments
-The code in this repo is in part based of [this Reddit post](https://www.reddit.com/r/datasets/comments/fuo64p/google_covid19_mobility_reports_time_series_data/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) .
+The code in this repo is in part based of [this Reddit post](https://www.reddit.com/r/datasets/comments/fuo64p/google_covid19_mobility_reports_time_series_data/?utm_source=share&utm_medium=ios_app&utm_name=iossmf).
