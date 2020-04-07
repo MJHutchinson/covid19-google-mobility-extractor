@@ -26,6 +26,11 @@ Each JSON file contains a table with columns:
 
 State refers to the larger size area, country a smaller region of this. For most places this is the country and then the regions within it. For US states this is the state and the counties in each state (there are files for each US state, and for the US itself, broken down by state).
 
+## Example
+Here is an example of the data extracted for the United Kingdom. Red line is the nation overall, gray are individual counties.
+
+![GB Plots](plots/GB_plot.png)
+
 ## Running yourself
 If you would like to extract the data yourself, simply run ./download_pdfs.sh and ./make_data.sh. You may need to update the date in these files when Google updates their reports.
 
