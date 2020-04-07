@@ -60,7 +60,7 @@ The data is also available in csv format. The paths are the same, with the `.csv
 If you would like to extract the data yourself, simply run [download_pdfs.sh](download_pdfs.sh) and [make_data.sh](make_data.sh). You may need to update the date in these files when Google updates their reports.
 
 ### Country Codes
-Google identifies countries by a 2 letter ISO code. The file [codes_to_names.txt](codes_to_names.txt) maps between these and country names.
+Google identifies countries by a 2 letter ISO code. The file [codes_to_names.csv](codes_to_names.csv) maps between these and country names.
 
 ## Any Questions?
 If there's anything I've missed, or you would like the data in a different format, let me know, or open a pull request/issue!
