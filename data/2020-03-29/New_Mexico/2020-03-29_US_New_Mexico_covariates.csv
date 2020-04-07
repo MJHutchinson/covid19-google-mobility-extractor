@@ -1,0 +1,986 @@
+state,county,date,grocery/pharmacy,parks,residential,retail/recreation,transitstations,workplace
+New Mexico,Cibola County,2020-02-16,-13.889,,,19.276,13.805,1.319
+New Mexico,Cibola County,2020-02-17,-20.255,,,17.948,13.563,-25.126
+New Mexico,Cibola County,2020-02-18,-18.275,,,9.59,-3.129,6.25
+New Mexico,Cibola County,2020-02-19,,,,10.482,3.662,4.596
+New Mexico,Cibola County,2020-02-20,-8.17,,,,4.452,1.547
+New Mexico,Cibola County,2020-02-21,-12.255,,,6.494,7.055,11.51
+New Mexico,Cibola County,2020-02-22,-20.461,,,5.741,2.55,4.433
+New Mexico,Cibola County,2020-02-23,-33.565,,,10.75,8.785,3.956
+New Mexico,Cibola County,2020-02-24,-10.61,,,7.39,9.766,4.711
+New Mexico,Cibola County,2020-02-25,-25.585,,,6.614,8.047,3.646
+New Mexico,Cibola County,2020-02-26,1.052,,,23.585,4.883,1.021
+New Mexico,Cibola County,2020-02-27,3.064,,,10.537,9.348,2.063
+New Mexico,Cibola County,2020-02-28,-1.751,,,17.664,18.26,10.935
+New Mexico,Cibola County,2020-02-29,-17.671,,,10.389,10.198,-4.433
+New Mexico,Cibola County,2020-03-01,-3.472,,,40.406,20.917,3.956
+New Mexico,Cibola County,2020-03-02,-1.929,,,23.578,11.936,1.57
+New Mexico,Cibola County,2020-03-03,-5.482,,,31.085,10.283,3.646
+New Mexico,Cibola County,2020-03-04,10.522,,,26.861,15.055,0.511
+New Mexico,Cibola County,2020-03-05,8.17,,,15.655,19.587,2.578
+New Mexico,Cibola County,2020-03-06,-2.626,,,13.508,18.26,5.755
+New Mexico,Cibola County,2020-03-07,-9.301,,,14.217,13.84,-1.108
+New Mexico,Cibola County,2020-03-08,-26.62,,,25.949,17.989,5.274
+New Mexico,Cibola County,2020-03-09,-8.681,,,21.467,16.819,-2.094
+New Mexico,Cibola County,2020-03-10,-10.051,,,14.881,14.306,1.042
+New Mexico,Cibola County,2020-03-11,10.522,,,19.982,7.324,-0.511
+New Mexico,Cibola County,2020-03-12,42.892,,,21.977,14.245,
+New Mexico,Cibola County,2020-03-13,28.887,,,11.69,21.58,0.576
+New Mexico,Cibola County,2020-03-14,16.741,,,6.288,20.032,-3.324
+New Mexico,Cibola County,2020-03-15,9.259,,,26.505,18.825,-5.274
+New Mexico,Cibola County,2020-03-16,17.361,,,20.763,16.819,-20.938
+New Mexico,Cibola County,2020-03-17,19.189,,,14.881,15.647,-26.042
+New Mexico,Cibola County,2020-03-18,29.461,,,-2.293,12.207,-30.127
+New Mexico,Cibola County,2020-03-19,19.404,,,-20.171,12.019,-38.16
+New Mexico,Cibola County,2020-03-20,19.258,,,-15.586,15.77,-28.775
+New Mexico,Cibola County,2020-03-21,15.811,,,-18.865,9.834,-28.812
+New Mexico,Cibola County,2020-03-22,19.676,,,-10.75,10.459,-22.416
+New Mexico,Cibola County,2020-03-23,13.503,,,-15.484,-4.34,-37.165
+New Mexico,Cibola County,2020-03-24,-14.62,,,-24.802,-8.047,-41.146
+New Mexico,Cibola County,2020-03-25,-3.157,,,-36.688,-9.766,-46.977
+New Mexico,Cibola County,2020-03-26,-9.191,,,-43.353,-8.013,-48.474
+New Mexico,Cibola County,2020-03-27,2.626,,,-34.549,-19.92,-40.861
+New Mexico,Cibola County,2020-03-28,-17.671,,,-32.262,-4.006,-34.353
+New Mexico,Cibola County,2020-03-29,-7.523,,,-28.173,-17.152,-31.646
+New Mexico,Colfax County,2020-02-16,1.108,,,30.048,,
+New Mexico,Colfax County,2020-02-17,1.145,,,14.077,,
+New Mexico,Colfax County,2020-02-18,7.353,,,5.315,,
+New Mexico,Colfax County,2020-02-19,,,,-1.911,,
+New Mexico,Colfax County,2020-02-20,-8.193,,,2.48,,
+New Mexico,Colfax County,2020-02-21,7.149,,,2.834,,
+New Mexico,Colfax County,2020-02-22,-3.005,,,-13.982,,
+New Mexico,Colfax County,2020-02-23,-4.433,,,-1.002,,
+New Mexico,Colfax County,2020-02-24,-4.579,,,3.754,,
+New Mexico,Colfax County,2020-02-25,-3.676,,,2.126,,
+New Mexico,Colfax County,2020-02-26,3.592,,,18.157,,
+New Mexico,Colfax County,2020-02-27,-2.341,,,9.094,,
+New Mexico,Colfax County,2020-02-28,2.042,,,11.338,,
+New Mexico,Colfax County,2020-02-29,-9.014,,,0.699,,
+New Mexico,Colfax County,2020-03-01,-3.324,,,24.038,,
+New Mexico,Colfax County,2020-03-02,-1.145,,,4.692,,
+New Mexico,Colfax County,2020-03-03,18.382,,,37.734,,
+New Mexico,Colfax County,2020-03-04,4.789,,,16.246,,
+New Mexico,Colfax County,2020-03-05,5.852,,,3.307,,
+New Mexico,Colfax County,2020-03-06,,,,15.59,,
+New Mexico,Colfax County,2020-03-07,1.002,,,30.761,,
+New Mexico,Colfax County,2020-03-08,4.433,,,51.082,,
+New Mexico,Colfax County,2020-03-09,19.46,,,59.122,,
+New Mexico,Colfax County,2020-03-10,28.186,,,47.832,,
+New Mexico,Colfax County,2020-03-11,29.933,,,43.96,,
+New Mexico,Colfax County,2020-03-12,40.964,,,24.802,,
+New Mexico,Colfax County,2020-03-13,32.68,,,16.298,,
+New Mexico,Colfax County,2020-03-14,30.048,,,28.663,,
+New Mexico,Colfax County,2020-03-15,19.947,,,31.05,,
+New Mexico,Colfax County,2020-03-16,33.196,,,25.338,,
+New Mexico,Colfax County,2020-03-17,40.441,,,27.636,,
+New Mexico,Colfax County,2020-03-18,25.144,,,,,
+New Mexico,Colfax County,2020-03-19,19.897,,,-28.935,,
+New Mexico,Colfax County,2020-03-20,-1.021,,,-38.974,,
+New Mexico,Colfax County,2020-03-21,-11.018,,,-42.645,,
+New Mexico,Colfax County,2020-03-22,-13.298,,,-43.069,,
+New Mexico,Colfax County,2020-03-23,10.302,,,-37.538,,
+New Mexico,Colfax County,2020-03-24,-6.127,,,-41.454,,
+New Mexico,Colfax County,2020-03-25,-14.368,,,-41.093,,
+New Mexico,Colfax County,2020-03-26,-19.897,,,-51.257,,
+New Mexico,Colfax County,2020-03-27,-22.467,,,-46.06,,
+New Mexico,Colfax County,2020-03-28,-28.045,,,-60.822,,
+New Mexico,Colfax County,2020-03-29,-29.92,,,-64.103,,
+New Mexico,Curry County,2020-02-16,6.294,,,8.35,6.649,-3.531
+New Mexico,Curry County,2020-02-17,-2.222,,,4.569,5.482,-35.691
+New Mexico,Curry County,2020-02-18,3.985,,,4.156,-1.766,4.661
+New Mexico,Curry County,2020-02-19,1.353,,,1.781,9.137,4.191
+New Mexico,Curry County,2020-02-20,-3.213,,,-1.931,9.301,1.009
+New Mexico,Curry County,2020-02-21,-1.184,,,-0.618,9.921,2.934
+New Mexico,Curry County,2020-02-22,0.493,,,1.184,-1.796,8.13
+New Mexico,Curry County,2020-02-23,2.203,,,5.52,4.433,3.531
+New Mexico,Curry County,2020-02-24,3.889,,,7.963,-3.655,3.528
+New Mexico,Curry County,2020-02-25,1.708,,,7.144,,1.621
+New Mexico,Curry County,2020-02-26,10.552,,,20.223,3.655,1.397
+New Mexico,Curry County,2020-02-27,10.176,,,19.675,26.042,3.432
+New Mexico,Curry County,2020-02-28,9.233,,,18.116,8.267,4.192
+New Mexico,Curry County,2020-02-29,8.865,,,22.813,1.796,7.114
+New Mexico,Curry County,2020-03-01,19.826,,,26.042,4.433,5.297
+New Mexico,Curry County,2020-03-02,8.056,,,20.886,9.137,5.603
+New Mexico,Curry County,2020-03-03,20.492,,,20.781,10.593,1.621
+New Mexico,Curry County,2020-03-04,6.764,,,16.153,12.792,3.193
+New Mexico,Curry County,2020-03-05,9.372,,,16.053,14.881,3.634
+New Mexico,Curry County,2020-03-06,6.866,,,11.425,6.614,2.306
+New Mexico,Curry County,2020-03-07,6.895,,,13.021,5.388,5.589
+New Mexico,Curry County,2020-03-08,5.035,,,10.473,11.082,1.177
+New Mexico,Curry County,2020-03-09,10.833,,,17.361,14.62,2.905
+New Mexico,Curry County,2020-03-10,14.23,,,18.573,8.828,1.216
+New Mexico,Curry County,2020-03-11,10.281,,,15.263,18.275,-8.182
+New Mexico,Curry County,2020-03-12,30.527,,,12.915,20.461,0.807
+New Mexico,Curry County,2020-03-13,26.515,,,-2.264,11.574,-6.288
+New Mexico,Curry County,2020-03-14,12.313,,,2.26,25.144,3.557
+New Mexico,Curry County,2020-03-15,6.294,,,-6.793,11.082,-4.708
+New Mexico,Curry County,2020-03-16,15.556,,,3.002,5.482,-20.958
+New Mexico,Curry County,2020-03-17,20.207,,,-7.533,-5.297,-23.914
+New Mexico,Curry County,2020-03-18,14.34,,,-8.394,3.655,-23.547
+New Mexico,Curry County,2020-03-19,18.209,,,-20.037,-1.86,-26.244
+New Mexico,Curry County,2020-03-20,10.89,,,-25.527,-9.921,-27.037
+New Mexico,Curry County,2020-03-21,-5.418,,,-35.727,-19.756,-12.195
+New Mexico,Curry County,2020-03-22,-1.888,,,-31.42,-11.082,-19.421
+New Mexico,Curry County,2020-03-23,10.556,,,-19.841,-14.62,-30.503
+New Mexico,Curry County,2020-03-24,-0.854,,,-35.848,-19.421,-38.1
+New Mexico,Curry County,2020-03-25,-14.069,,,-38.792,-16.447,-39.711
+New Mexico,Curry County,2020-03-26,-17.406,,,-36.935,-7.44,-40.577
+New Mexico,Curry County,2020-03-27,-21.307,,,-44.672,-33.069,-40.241
+New Mexico,Curry County,2020-03-28,-18.716,,,-42.614,-26.94,-17.276
+New Mexico,Curry County,2020-03-29,-17.309,,,-39.204,-39.894,-26.483
+New Mexico,Doña Ana County,2020-02-16,5.824,32.602,-1.09,12.866,-5.04,1.253
+New Mexico,Doña Ana County,2020-02-17,1.656,30.242,5.106,4.709,1.725,-27.052
+New Mexico,Doña Ana County,2020-02-18,1.565,28.617,-1.813,5.26,-5.06,4.662
+New Mexico,Doña Ana County,2020-02-19,2.614,-1.011,-0.899,3.11,-3.105,6.056
+New Mexico,Doña Ana County,2020-02-20,1.352,3.005,-0.3,4.627,-3.228,2.408
+New Mexico,Doña Ana County,2020-02-21,0.411,-19.258,0.47,0.903,,-0.102
+New Mexico,Doña Ana County,2020-02-22,4.237,14.983,-0.853,6.922,8.731,-0.243
+New Mexico,Doña Ana County,2020-02-23,-1.248,-35.782,0.61,8.711,5.376,0.783
+New Mexico,Doña Ana County,2020-02-24,3.312,11.201,-0.976,4.535,0.69,6.289
+New Mexico,Doña Ana County,2020-02-25,-2.426,-8.013,-1.011,5.874,-0.298,5.439
+New Mexico,Doña Ana County,2020-02-26,7.764,,-2.219,12.782,2.823,6.444
+New Mexico,Doña Ana County,2020-02-27,5.482,9.014,-0.739,14.727,2.347,-1.558
+New Mexico,Doña Ana County,2020-02-28,9.383,-1.751,0.25,12.237,5.335,-5.759
+New Mexico,Doña Ana County,2020-02-29,12.288,14.983,-2.246,14.555,11.44,0.365
+New Mexico,Doña Ana County,2020-03-01,10.234,-3.976,-0.987,20.155,9.745,3.289
+New Mexico,Doña Ana County,2020-03-02,10.645,14.561,-1.484,12.349,6.554,6.738
+New Mexico,Doña Ana County,2020-03-03,2.896,-22.894,0.012,7.65,0.595,4.468
+New Mexico,Doña Ana County,2020-03-04,11.685,12.136,-1.311,17.429,-2.541,6.008
+New Mexico,Doña Ana County,2020-03-05,8.712,20.032,-1.479,13.848,2.934,3.164
+New Mexico,Doña Ana County,2020-03-06,7.191,-1.751,-1.282,8.815,0.562,5.402
+New Mexico,Doña Ana County,2020-03-07,14.548,17.123,-3.439,16.065,12.946,4.497
+New Mexico,Doña Ana County,2020-03-08,1.997,-38.963,1.104,11.044,3.696,0.47
+New Mexico,Doña Ana County,2020-03-09,10.961,32.482,-1.62,10.849,7.588,5.54
+New Mexico,Doña Ana County,2020-03-10,9.391,36.63,-1.944,11.27,2.083,4.274
+New Mexico,Doña Ana County,2020-03-11,18.22,26.294,-1.854,11.244,1.129,4.99
+New Mexico,Doña Ana County,2020-03-12,31.167,1.002,-0.606,12.512,1.761,1.18
+New Mexico,Doña Ana County,2020-03-13,38.831,-16.632,1.81,2.409,-4.212,-0.102
+New Mexico,Doña Ana County,2020-03-14,23.164,24.971,1.902,-0.427,7.828,-0.365
+New Mexico,Doña Ana County,2020-03-15,15.392,31.807,2.739,-0.474,6.048,-2.82
+New Mexico,Doña Ana County,2020-03-16,23.499,42.563,5.965,-1.988,5.864,-20.564
+New Mexico,Doña Ana County,2020-03-17,20.505,16.026,7.821,-8.982,-7.738,-23.456
+New Mexico,Doña Ana County,2020-03-18,12.915,-30.34,11.603,-18.01,-1.411,-26.599
+New Mexico,Doña Ana County,2020-03-19,15.771,21.034,12.309,-20.82,-5.869,-31.779
+New Mexico,Doña Ana County,2020-03-20,15.409,10.504,13.774,-29.21,-8.985,-30.628
+New Mexico,Doña Ana County,2020-03-21,4.167,14.269,10.165,-35.263,-12.645,-19.083
+New Mexico,Doña Ana County,2020-03-22,0.083,31.807,9.369,-34.917,-23.185,-24.749
+New Mexico,Doña Ana County,2020-03-23,7.097,22.401,13.246,-27.699,-22.765,-36.236
+New Mexico,Doña Ana County,2020-03-24,-3.444,12.592,15.612,-37.705,-21.131,-41.812
+New Mexico,Doña Ana County,2020-03-25,-13.684,-9.102,18.029,-41.865,-29.076,-44.961
+New Mexico,Doña Ana County,2020-03-26,-19.301,-18.029,19.92,-42.748,-25.528,-47.22
+New Mexico,Doña Ana County,2020-03-27,-21.71,-45.518,22.584,-48.401,-35.939,-46.121
+New Mexico,Doña Ana County,2020-03-28,-21.54,-27.112,14.483,-46.543,-28.902,-32.21
+New Mexico,Doña Ana County,2020-03-29,-20.134,-15.903,12.807,-43.081,-35.282,-34.305
+New Mexico,Guadalupe County,2020-02-16,,,,,19.38,
+New Mexico,Guadalupe County,2020-02-17,,,,,19.811,
+New Mexico,Guadalupe County,2020-02-18,,,,,9.419,
+New Mexico,Guadalupe County,2020-02-19,,,,,1.383,
+New Mexico,Guadalupe County,2020-02-20,,,,,8.844,
+New Mexico,Guadalupe County,2020-02-21,,,,,12.726,
+New Mexico,Guadalupe County,2020-02-22,,,,,0.85,
+New Mexico,Guadalupe County,2020-02-23,,,,,9.69,
+New Mexico,Guadalupe County,2020-02-24,,,,,3.195,
+New Mexico,Guadalupe County,2020-02-25,,,,,7.203,
+New Mexico,Guadalupe County,2020-02-26,,,,,13.827,
+New Mexico,Guadalupe County,2020-02-27,,,,,8.353,
+New Mexico,Guadalupe County,2020-02-28,,,,,1.885,
+New Mexico,Guadalupe County,2020-02-29,,,,,5.952,
+New Mexico,Guadalupe County,2020-03-01,,,,,29.07,
+New Mexico,Guadalupe County,2020-03-02,,,,,10.225,
+New Mexico,Guadalupe County,2020-03-03,,,,,24.379,
+New Mexico,Guadalupe County,2020-03-04,,,,,16.132,
+New Mexico,Guadalupe County,2020-03-05,,,,,9.827,
+New Mexico,Guadalupe County,2020-03-06,,,,,5.656,
+New Mexico,Guadalupe County,2020-03-07,,,,,28.486,
+New Mexico,Guadalupe County,2020-03-08,,,,,26.163,
+New Mexico,Guadalupe County,2020-03-09,,,,,22.367,
+New Mexico,Guadalupe County,2020-03-10,,,,,16.068,
+New Mexico,Guadalupe County,2020-03-11,,,,,17.054,
+New Mexico,Guadalupe County,2020-03-12,,,,,19.654,
+New Mexico,Guadalupe County,2020-03-13,,,,,25.452,
+New Mexico,Guadalupe County,2020-03-14,,,,,42.092,
+New Mexico,Guadalupe County,2020-03-15,,,,,39.729,
+New Mexico,Guadalupe County,2020-03-16,,,,,32.592,
+New Mexico,Guadalupe County,2020-03-17,,,,,38.231,
+New Mexico,Guadalupe County,2020-03-18,,,,,34.108,
+New Mexico,Guadalupe County,2020-03-19,,,,,24.076,
+New Mexico,Guadalupe County,2020-03-20,,,,,22.153,
+New Mexico,Guadalupe County,2020-03-21,,,,,22.109,
+New Mexico,Guadalupe County,2020-03-22,,,,,15.988,
+New Mexico,Guadalupe County,2020-03-23,,,,,-3.195,
+New Mexico,Guadalupe County,2020-03-24,,,,,-0.554,
+New Mexico,Guadalupe County,2020-03-25,,,,,-3.226,
+New Mexico,Guadalupe County,2020-03-26,,,,,-5.896,
+New Mexico,Guadalupe County,2020-03-27,,,,,-12.255,
+New Mexico,Guadalupe County,2020-03-28,,,,,-6.803,
+New Mexico,Guadalupe County,2020-03-29,,,,,-9.69,
+New Mexico,Hidalgo County,2020-02-16,,,,,-0.521,
+New Mexico,Hidalgo County,2020-02-17,,,,,5.112,
+New Mexico,Hidalgo County,2020-02-18,,,,,-4.883,
+New Mexico,Hidalgo County,2020-02-19,,,,,-0.54,
+New Mexico,Hidalgo County,2020-02-20,,,,,-2.591,
+New Mexico,Hidalgo County,2020-02-21,,,,,-8.568,
+New Mexico,Hidalgo County,2020-02-22,,,,,-5.841,
+New Mexico,Hidalgo County,2020-02-24,,,,,-2.556,
+New Mexico,Hidalgo County,2020-02-25,,,,,-1.628,
+New Mexico,Hidalgo County,2020-02-26,,,,,1.619,
+New Mexico,Hidalgo County,2020-02-27,,,,,3.109,
+New Mexico,Hidalgo County,2020-02-28,,,,,-9.019,
+New Mexico,Hidalgo County,2020-03-01,,,,,2.604,
+New Mexico,Hidalgo County,2020-03-03,,,,,-4.883,
+New Mexico,Hidalgo County,2020-03-04,,,,,4.858,
+New Mexico,Hidalgo County,2020-03-06,,,,,-6.764,
+New Mexico,Hidalgo County,2020-03-07,,,,,6.328,
+New Mexico,Hidalgo County,2020-03-08,,,,,5.729,
+New Mexico,Hidalgo County,2020-03-09,,,,,7.03,
+New Mexico,Hidalgo County,2020-03-10,,,,,7.053,
+New Mexico,Hidalgo County,2020-03-11,,,,,6.477,
+New Mexico,Hidalgo County,2020-03-12,,,,,3.628,
+New Mexico,Hidalgo County,2020-03-13,,,,,-3.157,
+New Mexico,Hidalgo County,2020-03-14,,,,,6.815,
+New Mexico,Hidalgo County,2020-03-15,,,,,5.208,
+New Mexico,Hidalgo County,2020-03-16,,,,,4.473,
+New Mexico,Hidalgo County,2020-03-17,,,,,8.681,
+New Mexico,Hidalgo County,2020-03-18,,,,,10.794,
+New Mexico,Hidalgo County,2020-03-19,,,,,10.365,
+New Mexico,Hidalgo County,2020-03-20,,,,,-18.488,
+New Mexico,Hidalgo County,2020-03-21,,,,,-3.894,
+New Mexico,Hidalgo County,2020-03-22,,,,,-8.333,
+New Mexico,Hidalgo County,2020-03-23,,,,,-27.48,
+New Mexico,Hidalgo County,2020-03-24,,,,,-12.478,
+New Mexico,Hidalgo County,2020-03-25,,,,,-9.715,
+New Mexico,Hidalgo County,2020-03-26,,,,,-26.43,
+New Mexico,Hidalgo County,2020-03-27,,,,,-41.937,
+New Mexico,Hidalgo County,2020-03-28,,,,,-26.285,
+New Mexico,Hidalgo County,2020-03-29,,,,,-32.292,
+New Mexico,Lea County,2020-02-16,4.711,38.377,-2.267,3.264,0.592,-4.814
+New Mexico,Lea County,2020-02-17,-1.085,17.045,3.257,1.368,-4.101,-20.312
+New Mexico,Lea County,2020-02-18,1.229,8.523,-1.071,0.848,-0.384,1.708
+New Mexico,Lea County,2020-02-19,-2.145,6.453,0.487,0.57,7.952,1.68
+New Mexico,Lea County,2020-02-20,-1.857,-6.51,0.667,-2.697,4.324,0.681
+New Mexico,Lea County,2020-02-21,-0.7,-1.844,-1.295,-6.888,0.783,0.35
+New Mexico,Lea County,2020-02-22,,4.823,-0.613,-4.16,4.823,4.296
+New Mexico,Lea County,2020-02-23,-2.443,-8.772,1.105,-4.805,5.919,-3.939
+New Mexico,Lea County,2020-02-24,4.03,4.735,-0.693,-2.052,0.82,2.431
+New Mexico,Lea County,2020-02-25,-0.922,4.735,-0.784,-5.274,-4.613,2.391
+New Mexico,Lea County,2020-02-26,9.498,-10.14,-1.317,2.564,3.181,2.52
+New Mexico,Lea County,2020-02-27,17.954,14.881,-2.369,8.929,4.324,3.745
+New Mexico,Lea County,2020-02-28,15.401,14.749,-3.056,2.709,-1.175,2.101
+New Mexico,Lea County,2020-02-29,14.967,13.503,-2.832,5.44,-10.61,4.653
+New Mexico,Lea County,2020-03-01,17.274,6.579,-1.563,7.253,,0.875
+New Mexico,Lea County,2020-03-02,12.556,-5.682,-1.426,4.3,-3.691,4.688
+New Mexico,Lea County,2020-03-03,12.291,-11.364,0.145,8.1,-5.766,2.22
+New Mexico,Lea County,2020-03-04,11.795,-28.577,5.609,14.148,-11.132,-1.68
+New Mexico,Lea County,2020-03-05,17.645,-1.86,-2.022,10.231,-9.434,4.255
+New Mexico,Lea County,2020-03-06,12.601,6.453,-3.142,1.393,-2.35,3.151
+New Mexico,Lea County,2020-03-07,15.572,11.574,-2.738,4.48,-4.823,7.159
+New Mexico,Lea County,2020-03-08,15.355,-9.868,-0.677,0.181,-0.592,-1.751
+New Mexico,Lea County,2020-03-09,18.136,-4.735,-1.426,7.524,-0.82,3.125
+New Mexico,Lea County,2020-03-10,14.903,11.364,-3.099,3.579,-4.613,3.928
+New Mexico,Lea County,2020-03-11,21.293,7.375,-1.646,5.982,,3.024
+New Mexico,Lea County,2020-03-12,36.373,-9.301,-1.373,8.65,-3.538,2.894
+New Mexico,Lea County,2020-03-13,26.462,-19.358,1.117,-4.798,-8.224,-1.576
+New Mexico,Lea County,2020-03-14,20.712,12.539,1.448,-6.32,-13.021,-1.79
+New Mexico,Lea County,2020-03-15,12.214,-28.509,3.724,-13.78,-10.062,-5.69
+New Mexico,Lea County,2020-03-16,18.446,-5.682,4.737,-3.029,-9.432,-11.979
+New Mexico,Lea County,2020-03-17,16.286,-12.311,5.498,-13.186,-9.994,-15.369
+New Mexico,Lea County,2020-03-18,19.761,,6.222,-12.059,-7.554,-15.793
+New Mexico,Lea County,2020-03-19,17.645,-15.811,8.632,-22.6,-11.792,-18.382
+New Mexico,Lea County,2020-03-20,16.521,-11.062,8.181,-27.706,-12.14,-20.658
+New Mexico,Lea County,2020-03-21,1.814,-31.829,11.67,-40.483,-20.255,-15.034
+New Mexico,Lea County,2020-03-22,5.409,-7.675,8.305,-42.791,-21.899,-16.194
+New Mexico,Lea County,2020-03-23,11.936,-14.205,10.405,-28.045,-22.556,-24.653
+New Mexico,Lea County,2020-03-24,-5.838,-5.682,12.009,-39.84,-26.138,-29.884
+New Mexico,Lea County,2020-03-25,-5.515,-16.593,13.756,-37.508,-24.253,-32.762
+New Mexico,Lea County,2020-03-26,-5.572,-13.021,14.332,-37.388,-28.302,-32.169
+New Mexico,Lea County,2020-03-27,-12.881,-16.593,15.144,-43.88,-29.37,-33.438
+New Mexico,Lea County,2020-03-28,-12.397,-26.042,13.202,-46.963,-40.992,-19.688
+New Mexico,Lea County,2020-03-29,-9.597,-25.219,,-45.511,-34.92,-27.136
+New Mexico,Lincoln County,2020-02-16,-0.521,,,34.256,,-1.211
+New Mexico,Lincoln County,2020-02-17,-3.698,,,12.031,,-13.441
+New Mexico,Lincoln County,2020-02-18,-5.482,,,4.167,,3.317
+New Mexico,Lincoln County,2020-02-19,-10.081,,,6.085,,5.896
+New Mexico,Lincoln County,2020-02-20,-7.345,,,6.903,,1.871
+New Mexico,Lincoln County,2020-02-21,0.548,,,5.052,,1.894
+New Mexico,Lincoln County,2020-02-22,-15.415,,,-17.027,,-4.209
+New Mexico,Lincoln County,2020-02-23,-25.0,,,-12.584,,-2.422
+New Mexico,Lincoln County,2020-02-24,-9.862,,,-9.096,,4.704
+New Mexico,Lincoln County,2020-02-25,-10.965,,,-5.903,,1.327
+New Mexico,Lincoln County,2020-02-26,-8.065,,,14.676,,-0.655
+New Mexico,Lincoln County,2020-02-27,0.668,,,10.668,,1.871
+New Mexico,Lincoln County,2020-02-28,3.838,,,6.736,,
+New Mexico,Lincoln County,2020-02-29,-11.678,,,-11.685,,-1.052
+New Mexico,Lincoln County,2020-03-01,-14.583,,,-6.059,,6.056
+New Mexico,Lincoln County,2020-03-02,-11.095,,,-7.629,,4.704
+New Mexico,Lincoln County,2020-03-03,3.427,,,-2.431,,-0.663
+New Mexico,Lincoln County,2020-03-04,-5.376,,,6.085,,2.621
+New Mexico,Lincoln County,2020-03-05,2.003,,,2.824,,-1.871
+New Mexico,Lincoln County,2020-03-06,3.838,,,0.481,,-1.894
+New Mexico,Lincoln County,2020-03-07,-5.605,,,-13.021,,3.157
+New Mexico,Lincoln County,2020-03-08,-13.542,,,-0.932,,-6.056
+New Mexico,Lincoln County,2020-03-09,12.327,,,29.93,,2.688
+New Mexico,Lincoln County,2020-03-10,21.245,,,48.264,,2.654
+New Mexico,Lincoln County,2020-03-11,27.554,,,53.694,,3.931
+New Mexico,Lincoln County,2020-03-12,48.745,,,46.749,,2.495
+New Mexico,Lincoln County,2020-03-13,40.022,,,19.967,,-5.682
+New Mexico,Lincoln County,2020-03-14,21.02,,,-2.337,,-1.052
+New Mexico,Lincoln County,2020-03-15,9.375,,,7.224,,-7.267
+New Mexico,Lincoln County,2020-03-16,43.146,,,25.528,,-10.753
+New Mexico,Lincoln County,2020-03-17,40.433,,,29.861,,-13.27
+New Mexico,Lincoln County,2020-03-18,8.737,,,4.653,,-19.654
+New Mexico,Lincoln County,2020-03-19,38.729,,,-7.53,,-22.455
+New Mexico,Lincoln County,2020-03-20,25.219,,,-27.425,,-25.884
+New Mexico,Lincoln County,2020-03-21,-16.816,,,-59.261,,-30.513
+New Mexico,Lincoln County,2020-03-22,-21.354,,,-56.628,,-39.971
+New Mexico,Lincoln County,2020-03-23,9.862,,,-37.119,,-30.242
+New Mexico,Lincoln County,2020-03-24,-4.797,,,-40.625,,-36.492
+New Mexico,Lincoln County,2020-03-25,-9.409,,,-42.239,,-39.308
+New Mexico,Lincoln County,2020-03-26,-12.019,,,-50.515,,-43.663
+New Mexico,Lincoln County,2020-03-27,-24.123,,,-58.699,,-46.086
+New Mexico,Lincoln County,2020-03-28,-42.975,,,-75.12,,-44.192
+New Mexico,Lincoln County,2020-03-29,-42.188,,,-74.338,,-49.661
+New Mexico,Los Alamos County,2020-02-16,-5.896,,,-5.734,,
+New Mexico,Los Alamos County,2020-02-17,-4.921,,,-28.137,,
+New Mexico,Los Alamos County,2020-02-18,13.774,,,-2.685,,
+New Mexico,Los Alamos County,2020-02-19,3.041,,,-3.049,,
+New Mexico,Los Alamos County,2020-02-20,1.578,,,-3.949,,
+New Mexico,Los Alamos County,2020-02-21,5.208,,,0.476,,
+New Mexico,Los Alamos County,2020-02-22,6.453,,,-5.934,,
+New Mexico,Los Alamos County,2020-02-23,-1.965,,,-2.867,,
+New Mexico,Los Alamos County,2020-02-24,12.303,,,1.796,,
+New Mexico,Los Alamos County,2020-02-25,6.887,,,-8.054,,
+New Mexico,Los Alamos County,2020-02-26,5.322,,,-2.033,,
+New Mexico,Los Alamos County,2020-02-27,15.783,,,-0.987,,
+New Mexico,Los Alamos County,2020-02-28,12.649,,,0.476,,
+New Mexico,Los Alamos County,2020-02-29,8.296,,,-2.637,,
+New Mexico,Los Alamos County,2020-03-01,10.81,,,-0.956,,
+New Mexico,Los Alamos County,2020-03-02,10.663,,,10.776,,
+New Mexico,Los Alamos County,2020-03-03,18.079,,,4.832,,
+New Mexico,Los Alamos County,2020-03-04,4.562,,,4.573,,
+New Mexico,Los Alamos County,2020-03-05,10.259,,,7.405,,
+New Mexico,Los Alamos County,2020-03-06,10.417,,,0.476,,
+New Mexico,Los Alamos County,2020-03-07,8.296,,,-9.23,,
+New Mexico,Los Alamos County,2020-03-08,8.844,,,-0.956,,
+New Mexico,Los Alamos County,2020-03-09,12.303,,,2.395,,
+New Mexico,Los Alamos County,2020-03-10,15.496,,,1.074,,
+New Mexico,Los Alamos County,2020-03-11,19.009,,,2.541,,
+New Mexico,Los Alamos County,2020-03-12,39.457,,,6.418,,
+New Mexico,Los Alamos County,2020-03-13,26.042,,,-4.281,,
+New Mexico,Los Alamos County,2020-03-14,7.375,,,-9.889,,
+New Mexico,Los Alamos County,2020-03-15,-3.931,,,-9.557,,
+New Mexico,Los Alamos County,2020-03-16,13.944,,,-29.334,,
+New Mexico,Los Alamos County,2020-03-17,8.609,,,-39.197,,
+New Mexico,Los Alamos County,2020-03-18,-10.645,,,-48.272,,
+New Mexico,Los Alamos County,2020-03-19,-6.313,,,-57.267,,
+New Mexico,Los Alamos County,2020-03-20,-5.208,,,-57.553,,
+New Mexico,Los Alamos County,2020-03-21,-15.671,,,-59.335,,
+New Mexico,Los Alamos County,2020-03-22,-26.533,,,-63.073,,
+New Mexico,Los Alamos County,2020-03-23,-5.741,,,-50.886,,
+New Mexico,Los Alamos County,2020-03-24,-18.939,,,-62.822,,
+New Mexico,Los Alamos County,2020-03-25,-31.934,,,-68.598,,
+New Mexico,Los Alamos County,2020-03-26,-37.879,,,-72.077,,
+New Mexico,Los Alamos County,2020-03-27,-29.762,,,-67.542,,
+New Mexico,Los Alamos County,2020-03-28,-29.499,,,-58.017,,
+New Mexico,Los Alamos County,2020-03-29,-34.395,,,-72.63,,
+New Mexico,Luna County,2020-02-16,5.752,,,7.9,9.47,2.706
+New Mexico,Luna County,2020-02-17,0.582,,,6.11,6.361,-25.289
+New Mexico,Luna County,2020-02-18,5.237,,,5.631,-1.417,0.531
+New Mexico,Luna County,2020-02-19,0.585,,,10.719,7.538,4.167
+New Mexico,Luna County,2020-02-20,8.333,,,4.506,6.048,2.083
+New Mexico,Luna County,2020-02-21,3.141,,,-3.768,1.871,-3.415
+New Mexico,Luna County,2020-02-22,2.943,,,-0.234,3.011,-9.69
+New Mexico,Luna County,2020-02-23,-9.586,,,3.511,16.754,-8.117
+New Mexico,Luna County,2020-02-24,5.237,,,9.893,1.59,10.236
+New Mexico,Luna County,2020-02-25,,,,5.912,10.629,2.126
+New Mexico,Luna County,2020-02-26,-0.585,,,12.093,13.021,1.562
+New Mexico,Luna County,2020-02-27,7.738,,,8.217,4.704,5.208
+New Mexico,Luna County,2020-02-28,6.805,,,15.293,12.475,3.985
+New Mexico,Luna County,2020-02-29,15.89,,,12.612,14.451,3.634
+New Mexico,Luna County,2020-03-01,12.142,,,21.945,19.668,2.706
+New Mexico,Luna County,2020-03-02,5.819,,,13.966,2.385,12.645
+New Mexico,Luna County,2020-03-03,0.582,,,17.736,4.96,3.72
+New Mexico,Luna County,2020-03-04,9.949,,,19.514,15.077,-1.562
+New Mexico,Luna County,2020-03-05,10.119,,,15.373,3.36,3.125
+New Mexico,Luna County,2020-03-06,12.563,,,10.417,4.99,
+New Mexico,Luna County,2020-03-07,9.416,,,13.546,15.655,6.056
+New Mexico,Luna County,2020-03-08,-1.278,,,9.656,25.495,-6.764
+New Mexico,Luna County,2020-03-09,17.458,,,23.277,12.723,10.838
+New Mexico,Luna County,2020-03-10,0.582,,,16.047,6.378,
+New Mexico,Luna County,2020-03-11,14.045,,,16.216,13.706,
+New Mexico,Luna County,2020-03-12,27.976,,,23.06,16.801,-0.521
+New Mexico,Luna County,2020-03-13,30.884,,,10.195,9.98,-2.277
+New Mexico,Luna County,2020-03-14,36.488,,,10.51,20.472,3.634
+New Mexico,Luna County,2020-03-15,23.645,,,11.704,28.409,-6.764
+New Mexico,Luna County,2020-03-16,18.622,,,3.783,19.879,-14.451
+New Mexico,Luna County,2020-03-17,11.639,,,-2.815,26.927,-25.51
+New Mexico,Luna County,2020-03-18,14.045,,,-9.07,22.615,-28.125
+New Mexico,Luna County,2020-03-19,24.405,,,-14.578,18.817,-32.292
+New Mexico,Luna County,2020-03-20,14.657,,,-25.488,2.495,-30.738
+New Mexico,Luna County,2020-03-21,14.124,,,-21.954,5.419,-8.479
+New Mexico,Luna County,2020-03-22,-0.639,,,-26.919,-3.642,-17.587
+New Mexico,Luna County,2020-03-23,4.074,,,-23.859,-13.518,-19.87
+New Mexico,Luna County,2020-03-24,-2.91,,,-31.25,5.669,-33.482
+New Mexico,Luna County,2020-03-25,-7.022,,,-34.356,-2.741,-36.458
+New Mexico,Luna County,2020-03-26,-14.286,,,-37.903,-13.441,-35.938
+New Mexico,Luna County,2020-03-27,-16.75,,,-42.996,-26.821,-35.861
+New Mexico,Luna County,2020-03-28,-10.593,,,-37.836,-19.268,-15.746
+New Mexico,Luna County,2020-03-29,-16.616,,,-42.427,-22.582,-22.998
+New Mexico,Overall,2020-02-16,9.123,32.771,-1.355,10.189,6.576,1.086
+New Mexico,Overall,2020-02-17,5.843,35.127,4.331,7.64,7.358,-26.327
+New Mexico,Overall,2020-02-18,5.761,15.413,-0.644,3.694,4.247,2.866
+New Mexico,Overall,2020-02-19,4.23,5.152,-0.25,1.976,2.525,3.208
+New Mexico,Overall,2020-02-20,4.043,8.509,-0.123,4.242,4.621,1.269
+New Mexico,Overall,2020-02-21,5.599,-0.397,-1.218,2.882,2.883,4.683
+New Mexico,Overall,2020-02-22,2.542,-9.147,0.239,1.641,-1.238,0.413
+New Mexico,Overall,2020-02-23,1.008,-24.714,0.793,1.779,1.425,0.604
+New Mexico,Overall,2020-02-24,5.282,9.2,-0.999,4.221,4.796,3.41
+New Mexico,Overall,2020-02-25,2.947,-3.129,0.026,4.132,3.988,3.065
+New Mexico,Overall,2020-02-26,8.738,6.384,-1.349,12.231,5.633,3.257
+New Mexico,Overall,2020-02-27,10.31,24.244,-1.181,13.512,10.832,1.22
+New Mexico,Overall,2020-02-28,13.952,15.198,-2.659,11.693,8.832,4.79
+New Mexico,Overall,2020-02-29,12.961,26.215,-2.55,12.446,7.24,2.797
+New Mexico,Overall,2020-03-01,15.274,16.929,-1.871,17.169,11.015,4.466
+New Mexico,Overall,2020-03-02,12.677,18.639,-1.785,12.176,8.884,4.106
+New Mexico,Overall,2020-03-03,15.486,11.125,-0.785,13.648,7.977,3.026
+New Mexico,Overall,2020-03-04,13.214,19.823,-0.955,12.891,7.089,3.109
+New Mexico,Overall,2020-03-05,13.443,32.171,-1.436,12.489,8.348,1.864
+New Mexico,Overall,2020-03-06,12.293,20.561,-2.428,8.271,8.1,5.092
+New Mexico,Overall,2020-03-07,13.833,37.404,-2.507,10.501,11.813,3.308
+New Mexico,Overall,2020-03-08,9.331,-3.802,-0.211,8.628,9.262,1.75
+New Mexico,Overall,2020-03-09,14.938,46.956,-1.61,12.012,10.083,1.628
+New Mexico,Overall,2020-03-10,13.921,35.229,-0.974,11.804,9.427,1.105
+New Mexico,Overall,2020-03-11,20.874,29.903,-0.948,12.394,8.449,0.602
+New Mexico,Overall,2020-03-12,36.79,28.208,0.244,13.388,9.64,-4.392
+New Mexico,Overall,2020-03-13,39.221,-13.31,2.85,0.859,2.654,-6.028
+New Mexico,Overall,2020-03-14,24.193,20.009,2.288,-5.114,8.383,-2.067
+New Mexico,Overall,2020-03-15,16.334,19.283,2.734,-7.091,6.193,-4.557
+New Mexico,Overall,2020-03-16,25.106,35.844,5.394,-2.271,3.543,-20.347
+New Mexico,Overall,2020-03-17,21.73,12.863,8.93,-11.083,3.263,-25.001
+New Mexico,Overall,2020-03-18,19.225,-6.832,10.95,-15.485,-2.088,-28.226
+New Mexico,Overall,2020-03-19,16.56,-1.982,13.46,-23.919,-5.516,-33.362
+New Mexico,Overall,2020-03-20,14.782,-1.689,13.085,-27.931,-10.067,-31.401
+New Mexico,Overall,2020-03-21,2.527,-9.473,10.468,-37.235,-10.336,-23.104
+New Mexico,Overall,2020-03-22,-2.537,9.687,8.318,-36.545,-15.728,-26.103
+New Mexico,Overall,2020-03-23,12.363,3.943,12.537,-25.538,-19.785,-36.208
+New Mexico,Overall,2020-03-24,-7.177,4.635,16.846,-38.749,-18.906,-42.707
+New Mexico,Overall,2020-03-25,-12.218,-6.048,17.77,-40.565,-23.21,-44.412
+New Mexico,Overall,2020-03-26,-14.758,-18.067,19.245,-41.395,-25.988,-46.646
+New Mexico,Overall,2020-03-27,-12.99,-27.813,19.162,-42.735,-32.719,-43.76
+New Mexico,Overall,2020-03-28,-18.059,-28.42,13.645,-46.585,-29.247,-33.172
+New Mexico,Overall,2020-03-29,-18.124,-12.221,10.86,-43.562,-30.799,-33.707
+New Mexico,Quay County,2020-02-16,5.869,,,17.655,4.979,
+New Mexico,Quay County,2020-02-17,2.815,,,-8.681,15.191,
+New Mexico,Quay County,2020-02-18,10.417,,,5.274,-2.264,
+New Mexico,Quay County,2020-02-19,11.261,,,-12.875,0.744,
+New Mexico,Quay County,2020-02-20,1.389,,,-14.719,4.134,
+New Mexico,Quay County,2020-02-21,2.604,,,-7.219,8.235,
+New Mexico,Quay County,2020-02-22,-6.43,,,-7.184,5.011,
+New Mexico,Quay County,2020-02-23,5.869,,,-10.593,3.447,
+New Mexico,Quay County,2020-02-24,4.223,,,2.48,,
+New Mexico,Quay County,2020-02-25,,,,9.23,8.605,
+New Mexico,Quay County,2020-02-26,4.223,,,9.363,4.092,
+New Mexico,Quay County,2020-02-27,9.722,,,,5.787,
+New Mexico,Quay County,2020-02-28,16.927,,,12.376,11.528,
+New Mexico,Quay County,2020-02-29,14.146,,,35.92,11.097,
+New Mexico,Quay County,2020-03-01,11.737,,,47.669,11.489,
+New Mexico,Quay County,2020-03-02,7.038,,,16.121,13.563,
+New Mexico,Quay County,2020-03-03,23.81,,,27.69,6.793,
+New Mexico,Quay County,2020-03-04,16.892,,,9.363,3.348,
+New Mexico,Quay County,2020-03-05,12.5,,,16.984,7.854,
+New Mexico,Quay County,2020-03-06,14.323,,,4.125,12.764,
+New Mexico,Quay County,2020-03-07,9.002,,,25.144,25.057,
+New Mexico,Quay County,2020-03-08,2.934,,,21.186,10.34,
+New Mexico,Quay County,2020-03-09,11.261,,,13.641,17.361,
+New Mexico,Quay County,2020-03-10,19.345,,,13.186,7.699,
+New Mexico,Quay County,2020-03-11,15.484,,,8.193,6.696,
+New Mexico,Quay County,2020-03-12,30.556,,,15.851,8.681,
+New Mexico,Quay County,2020-03-13,36.458,,,9.282,21.821,
+New Mexico,Quay County,2020-03-14,39.866,,,34.722,32.216,
+New Mexico,Quay County,2020-03-15,24.941,,,15.89,21.063,
+New Mexico,Quay County,2020-03-16,30.968,,,14.881,20.616,
+New Mexico,Quay County,2020-03-17,29.762,,,11.867,25.815,
+New Mexico,Quay County,2020-03-18,40.822,,,8.193,18.973,
+New Mexico,Quay County,2020-03-19,29.167,,,-12.455,21.495,
+New Mexico,Quay County,2020-03-20,26.042,,,-20.627,23.88,
+New Mexico,Quay County,2020-03-21,10.288,,,-15.565,28.279,
+New Mexico,Quay County,2020-03-22,7.336,,,-1.766,8.042,
+New Mexico,Quay County,2020-03-23,16.892,,,-18.601,,
+New Mexico,Quay County,2020-03-24,10.417,,,-19.778,4.529,
+New Mexico,Quay County,2020-03-25,-2.815,,,-30.431,-8.185,
+New Mexico,Quay County,2020-03-26,4.167,,,-35.1,-5.374,
+New Mexico,Quay County,2020-03-27,-6.51,,,-43.317,-5.352,
+New Mexico,Quay County,2020-03-28,-9.002,,,-25.144,2.148,
+New Mexico,Quay County,2020-03-29,-4.401,,,-10.593,-7.659,
+New Mexico,Rio Arriba County,2020-02-16,10.753,,,14.812,,2.042
+New Mexico,Rio Arriba County,2020-02-17,5.308,,,12.46,,-38.286
+New Mexico,Rio Arriba County,2020-02-18,8.308,,,6.737,,3.349
+New Mexico,Rio Arriba County,2020-02-19,-1.894,,,1.225,,4.898
+New Mexico,Rio Arriba County,2020-02-20,-2.943,,,,,2.93
+New Mexico,Rio Arriba County,2020-02-21,1.636,,,3.058,,3.707
+New Mexico,Rio Arriba County,2020-02-22,7.102,,,5.229,,3.472
+New Mexico,Rio Arriba County,2020-02-23,2.016,,,7.284,,
+New Mexico,Rio Arriba County,2020-02-24,6.635,,,-0.498,,5.864
+New Mexico,Rio Arriba County,2020-02-25,7.03,,,6.219,,5.694
+New Mexico,Rio Arriba County,2020-02-26,6.944,,,9.314,,3.592
+New Mexico,Rio Arriba County,2020-02-27,12.359,,,14.343,,2.93
+New Mexico,Rio Arriba County,2020-02-28,12.544,,,13.25,,5.19
+New Mexico,Rio Arriba County,2020-02-29,15.388,,,22.381,,1.736
+New Mexico,Rio Arriba County,2020-03-01,20.833,,,23.796,,9.191
+New Mexico,Rio Arriba County,2020-03-02,21.895,,,11.463,,2.759
+New Mexico,Rio Arriba County,2020-03-03,14.698,,,24.876,,3.014
+New Mexico,Rio Arriba County,2020-03-04,18.308,,,16.176,,0.653
+New Mexico,Rio Arriba County,2020-03-05,12.947,,,15.989,,1.302
+New Mexico,Rio Arriba County,2020-03-06,11.453,,,9.989,,2.595
+New Mexico,Rio Arriba County,2020-03-07,11.245,,,15.897,,3.472
+New Mexico,Rio Arriba County,2020-03-08,8.065,,,13.84,,-3.064
+New Mexico,Rio Arriba County,2020-03-09,15.924,,,12.46,,-3.449
+New Mexico,Rio Arriba County,2020-03-10,14.059,,,15.547,,-3.349
+New Mexico,Rio Arriba County,2020-03-11,18.939,,,12.99,,-6.204
+New Mexico,Rio Arriba County,2020-03-12,37.076,,,16.695,,-12.37
+New Mexico,Rio Arriba County,2020-03-13,32.723,,,-0.815,,-15.94
+New Mexico,Rio Arriba County,2020-03-14,28.409,,,2.301,,0.868
+New Mexico,Rio Arriba County,2020-03-15,16.129,,,-0.728,,-3.064
+New Mexico,Rio Arriba County,2020-03-16,28.53,,,0.997,,-15.177
+New Mexico,Rio Arriba County,2020-03-17,19.811,,,1.814,,-21.101
+New Mexico,Rio Arriba County,2020-03-18,20.202,,,-4.167,,-29.389
+New Mexico,Rio Arriba County,2020-03-19,1.766,,,-12.698,,-33.854
+New Mexico,Rio Arriba County,2020-03-20,5.454,,,-19.366,,-31.139
+New Mexico,Rio Arriba County,2020-03-21,4.735,,,-14.642,,-25.174
+New Mexico,Rio Arriba County,2020-03-22,-0.672,,,-14.569,,-28.595
+New Mexico,Rio Arriba County,2020-03-23,28.53,,,-6.479,,-35.182
+New Mexico,Rio Arriba County,2020-03-24,-4.473,,,-19.952,,-46.557
+New Mexico,Rio Arriba County,2020-03-25,-11.364,,,-30.637,,-48.328
+New Mexico,Rio Arriba County,2020-03-26,-17.067,,,-29.157,,-52.734
+New Mexico,Rio Arriba County,2020-03-27,-16.907,,,-32.004,,-48.191
+New Mexico,Rio Arriba County,2020-03-28,-18.939,,,-30.853,,-34.722
+New Mexico,Rio Arriba County,2020-03-29,-20.833,,,-31.08,,-38.807
+New Mexico,Roosevelt County,2020-02-16,2.003,,,8.198,,4.664
+New Mexico,Roosevelt County,2020-02-17,2.717,,,-4.639,,-30.281
+New Mexico,Roosevelt County,2020-02-18,8.762,,,9.766,,5.297
+New Mexico,Roosevelt County,2020-02-19,0.906,,,-3.858,,
+New Mexico,Roosevelt County,2020-02-20,,,,-4.357,,4.096
+New Mexico,Roosevelt County,2020-02-21,6.614,,,1.447,,5.208
+New Mexico,Roosevelt County,2020-02-22,5.833,,,3.551,,10.823
+New Mexico,Roosevelt County,2020-02-23,-1.002,,,9.645,,1.555
+New Mexico,Roosevelt County,2020-02-24,,,,-6.748,,4.845
+New Mexico,Roosevelt County,2020-02-25,0.974,,,-0.93,,3.531
+New Mexico,Roosevelt County,2020-02-26,2.717,,,14.146,,2.302
+New Mexico,Roosevelt County,2020-02-27,8.152,,,16.239,,6.437
+New Mexico,Roosevelt County,2020-02-28,9.921,,,14.468,,14.323
+New Mexico,Roosevelt County,2020-02-29,11.667,,,27.225,,10.823
+New Mexico,Roosevelt County,2020-03-01,13.021,,,26.042,,15.547
+New Mexico,Roosevelt County,2020-03-02,4.529,,,17.502,,9.084
+New Mexico,Roosevelt County,2020-03-03,13.629,,,30.227,,5.297
+New Mexico,Roosevelt County,2020-03-04,11.775,,,11.145,,4.029
+New Mexico,Roosevelt County,2020-03-05,11.775,,,6.931,,4.096
+New Mexico,Roosevelt County,2020-03-06,9.921,,,14.829,,9.766
+New Mexico,Roosevelt County,2020-03-07,4.167,,,10.259,,5.411
+New Mexico,Roosevelt County,2020-03-08,,,,1.447,,-3.109
+New Mexico,Roosevelt County,2020-03-09,7.246,,,-2.109,,-16.352
+New Mexico,Roosevelt County,2020-03-10,9.735,,,5.115,,-20.009
+New Mexico,Roosevelt County,2020-03-11,3.623,,,3.001,,-19.567
+New Mexico,Roosevelt County,2020-03-12,19.022,,,3.169,,-19.897
+New Mexico,Roosevelt County,2020-03-13,12.401,,,-8.681,,-16.927
+New Mexico,Roosevelt County,2020-03-14,12.5,,,3.551,,1.353
+New Mexico,Roosevelt County,2020-03-15,-2.003,,,-12.539,,-10.883
+New Mexico,Roosevelt County,2020-03-16,13.587,,,-2.952,,-15.746
+New Mexico,Roosevelt County,2020-03-17,20.444,,,-6.51,,-23.54
+New Mexico,Roosevelt County,2020-03-18,8.152,,,-10.717,,-25.898
+New Mexico,Roosevelt County,2020-03-19,21.739,,,-17.823,,-28.675
+New Mexico,Roosevelt County,2020-03-20,15.708,,,-19.17,,-23.438
+New Mexico,Roosevelt County,2020-03-21,9.167,,,-22.491,,-13.528
+New Mexico,Roosevelt County,2020-03-22,-3.005,,,-21.701,,-21.766
+New Mexico,Roosevelt County,2020-03-23,13.587,,,-21.086,,-26.042
+New Mexico,Roosevelt County,2020-03-24,-4.868,,,-26.972,,-34.722
+New Mexico,Roosevelt County,2020-03-25,-10.87,,,-35.58,,-33.379
+New Mexico,Roosevelt County,2020-03-26,-14.493,,,-38.023,,-35.112
+New Mexico,Roosevelt County,2020-03-27,-19.841,,,-35.446,,-31.25
+New Mexico,Roosevelt County,2020-03-28,-17.5,,,-32.355,,-20.292
+New Mexico,Roosevelt County,2020-03-29,-24.038,,,-32.793,,-23.321
+New Mexico,San Juan County,2020-02-16,18.689,42.393,-1.776,10.948,2.003,0.566
+New Mexico,San Juan County,2020-02-17,21.696,41.978,3.782,5.016,,-33.791
+New Mexico,San Juan County,2020-02-18,27.965,26.389,-1.573,4.38,,1.785
+New Mexico,San Juan County,2020-02-19,21.404,17.587,-0.481,6.025,5.04,1.494
+New Mexico,San Juan County,2020-02-20,20.14,43.86,-1.868,12.032,8.538,0.965
+New Mexico,San Juan County,2020-02-21,17.558,54.061,-2.111,7.138,18.55,0.471
+New Mexico,San Juan County,2020-02-22,12.463,15.514,-0.434,2.049,11.393,-0.441
+New Mexico,San Juan County,2020-02-23,11.88,-16.957,0.336,8.323,-20.032,0.566
+New Mexico,San Juan County,2020-02-24,17.106,32.649,-2.046,1.839,7.062,3.444
+New Mexico,San Juan County,2020-02-25,25.154,20.833,0.006,9.883,-9.191,2.053
+New Mexico,San Juan County,2020-02-26,30.965,27.056,-1.864,21.171,11.761,0.703
+New Mexico,San Juan County,2020-02-27,23.341,32.895,-2.559,23.899,30.738,2.018
+New Mexico,San Juan County,2020-02-28,24.863,48.787,-3.359,19.673,27.112,1.98
+New Mexico,San Juan County,2020-02-29,29.272,56.516,-3.837,22.665,21.159,3.972
+New Mexico,San Juan County,2020-03-01,29.12,46.027,-2.962,30.603,6.01,4.529
+New Mexico,San Juan County,2020-03-02,27.537,54.415,-3.882,16.887,17.655,5.399
+New Mexico,San Juan County,2020-03-03,40.394,38.889,-2.724,25.045,1.532,3.66
+New Mexico,San Juan County,2020-03-04,30.965,48.701,-2.581,19.876,10.081,0.967
+New Mexico,San Juan County,2020-03-05,27.876,61.678,-3.164,20.438,23.907,2.369
+New Mexico,San Juan County,2020-03-06,20.032,60.654,-3.853,14.855,18.55,0.848
+New Mexico,San Juan County,2020-03-07,23.898,116.356,-4.402,15.556,19.531,7.283
+New Mexico,San Juan County,2020-03-08,22.891,27.859,-2.115,17.03,4.006,4.529
+New Mexico,San Juan County,2020-03-09,29.206,79.291,-3.61,10.645,14.124,4.189
+New Mexico,San Juan County,2020-03-10,36.843,16.667,-2.117,10.782,-4.596,2.053
+New Mexico,San Juan County,2020-03-11,42.666,25.703,-1.188,13.514,-1.68,1.319
+New Mexico,San Juan County,2020-03-12,49.349,37.007,-2.433,17.086,6.831,0.439
+New Mexico,San Juan County,2020-03-13,53.38,27.69,0.911,8.878,5.708,-6.976
+New Mexico,San Juan County,2020-03-14,34.875,52.083,0.796,-0.711,-6.51,-0.441
+New Mexico,San Juan County,2020-03-15,29.7,69.041,0.586,1.537,-8.013,-3.963
+New Mexico,San Juan County,2020-03-16,39.219,82.4,2.362,-0.892,,-23.738
+New Mexico,San Juan County,2020-03-17,44.093,43.056,7.639,-7.075,-22.978,-28.028
+New Mexico,San Juan County,2020-03-18,43.094,22.998,8.595,-3.491,-5.04,-29.36
+New Mexico,San Juan County,2020-03-19,28.276,1.371,12.695,-14.065,-13.661,-35.366
+New Mexico,San Juan County,2020-03-20,30.402,11.867,13.308,-18.692,-27.112,-37.236
+New Mexico,San Juan County,2020-03-21,10.863,-12.19,10.525,-35.419,-29.297,-21.849
+New Mexico,San Juan County,2020-03-22,2.173,-3.634,7.776,-35.597,-42.067,-22.645
+New Mexico,San Juan County,2020-03-23,23.086,,10.605,-25.136,-24.718,-35.653
+New Mexico,San Juan County,2020-03-24,9.914,5.556,16.605,-36.837,-39.828,-41.685
+New Mexico,San Juan County,2020-03-25,2.568,-5.411,17.349,-35.923,-31.922,-44.392
+New Mexico,San Juan County,2020-03-26,-3.735,-8.224,17.908,-35.546,-32.445,-46.511
+New Mexico,San Juan County,2020-03-27,-5.892,-18.46,20.214,-40.819,-49.943,-46.474
+New Mexico,San Juan County,2020-03-28,-14.064,-25.488,14.691,-49.01,-48.828,-30.235
+New Mexico,San Juan County,2020-03-29,-15.792,2.422,10.805,-43.408,-40.064,-27.174
+New Mexico,San Miguel County,2020-02-16,7.234,,,14.706,9.47,-1.371
+New Mexico,San Miguel County,2020-02-17,7.267,,,4.223,23.734,-21.248
+New Mexico,San Miguel County,2020-02-18,-11.503,,,6.709,12.842,5.456
+New Mexico,San Miguel County,2020-02-19,-8.892,,,-2.759,-7.911,3.345
+New Mexico,San Miguel County,2020-02-20,-8.578,,,-3.339,2.541,1.447
+New Mexico,San Miguel County,2020-02-21,0.543,,,0.289,1.132,5.157
+New Mexico,San Miguel County,2020-02-22,-12.387,,,-7.246,6.72,-2.341
+New Mexico,San Miguel County,2020-02-23,-7.234,,,5.719,-8.286,
+New Mexico,San Miguel County,2020-02-24,-1.817,,,2.463,3.956,8.292
+New Mexico,San Miguel County,2020-02-25,-9.586,,,-1.766,5.708,3.472
+New Mexico,San Miguel County,2020-02-26,,,,18.626,-2.637,4.3
+New Mexico,San Miguel County,2020-02-27,1.838,,,15.358,6.352,1.929
+New Mexico,San Miguel County,2020-02-28,16.819,,,17.024,14.719,3.61
+New Mexico,San Miguel County,2020-02-29,1.689,,,5.435,32.482,3.511
+New Mexico,San Miguel County,2020-03-01,16.638,,,28.391,4.735,1.371
+New Mexico,San Miguel County,2020-03-02,5.451,,,11.965,6.593,5.182
+New Mexico,San Miguel County,2020-03-03,21.089,,,18.008,,3.472
+New Mexico,San Miguel County,2020-03-04,12.068,,,16.556,5.274,1.433
+New Mexico,San Miguel County,2020-03-05,11.029,,,14.022,10.163,
+New Mexico,San Miguel County,2020-03-06,10.308,,,11.253,14.719,
+New Mexico,San Miguel County,2020-03-07,6.757,,,15.399,32.482,4.682
+New Mexico,San Miguel County,2020-03-08,6.51,,,15.931,24.858,
+New Mexico,San Miguel County,2020-03-09,13.324,,,9.502,10.549,1.036
+New Mexico,San Miguel County,2020-03-10,12.142,,,10.24,11.416,-3.968
+New Mexico,San Miguel County,2020-03-11,12.703,,,13.107,10.549,-11.468
+New Mexico,San Miguel County,2020-03-12,28.799,,,18.029,15.244,-17.843
+New Mexico,San Miguel County,2020-03-13,21.159,,,-7.214,19.248,-21.143
+New Mexico,San Miguel County,2020-03-14,16.329,,,-0.604,21.281,-7.022
+New Mexico,San Miguel County,2020-03-15,12.297,,,-2.042,11.837,-9.594
+New Mexico,San Miguel County,2020-03-16,16.957,,,-2.111,19.778,-17.62
+New Mexico,San Miguel County,2020-03-17,17.255,,,-6.356,24.258,-24.306
+New Mexico,San Miguel County,2020-03-18,14.609,,,-7.933,10.549,-26.758
+New Mexico,San Miguel County,2020-03-19,11.029,,,-23.037,3.811,-29.9
+New Mexico,San Miguel County,2020-03-20,5.968,,,-26.258,-1.132,-29.909
+New Mexico,San Miguel County,2020-03-21,-0.563,,,-28.986,-5.6,-21.067
+New Mexico,San Miguel County,2020-03-22,7.234,,,-22.876,-4.735,-17.818
+New Mexico,San Miguel County,2020-03-23,6.662,,,-20.763,-9.23,-29.54
+New Mexico,San Miguel County,2020-03-24,-10.225,,,-31.78,-11.416,-42.163
+New Mexico,San Miguel County,2020-03-25,-13.974,,,-38.286,-18.46,-41.093
+New Mexico,San Miguel County,2020-03-26,-22.672,,,-39.73,-25.407,-44.367
+New Mexico,San Miguel County,2020-03-27,-19.531,,,-40.397,-29.438,-39.191
+New Mexico,San Miguel County,2020-03-28,-24.775,,,-38.949,-40.323,-23.408
+New Mexico,San Miguel County,2020-03-29,-23.148,,,-30.229,-42.614,-30.154
+New Mexico,Sandoval County,2020-02-16,17.159,42.194,-1.1,15.237,14.648,0.936
+New Mexico,Sandoval County,2020-02-17,9.781,74.838,4.826,16.69,5.144,-29.495
+New Mexico,Sandoval County,2020-02-18,7.206,23.81,-0.232,6.097,2.706,2.901
+New Mexico,Sandoval County,2020-02-19,3.828,15.47,-0.772,5.35,3.811,2.683
+New Mexico,Sandoval County,2020-02-20,8.215,17.007,-0.619,7.042,6.275,2.754
+New Mexico,Sandoval County,2020-02-21,10.446,4.569,-1.066,9.94,15.215,1.929
+New Mexico,Sandoval County,2020-02-22,7.711,7.44,0.304,9.544,12.86,0.567
+New Mexico,Sandoval County,2020-02-23,8.319,-33.623,0.582,5.504,14.648,1.873
+New Mexico,Sandoval County,2020-02-24,5.379,23.261,-0.97,5.13,,2.901
+New Mexico,Sandoval County,2020-02-25,5.732,-0.992,0.175,5.905,,2.631
+New Mexico,Sandoval County,2020-02-26,10.05,16.502,-1.593,13.651,11.433,2.415
+New Mexico,Sandoval County,2020-02-27,12.158,31.888,-1.28,14.872,11.295,2.418
+New Mexico,Sandoval County,2020-02-28,18.097,30.154,-2.491,10.387,10.534,3.001
+New Mexico,Sandoval County,2020-02-29,18.04,77.381,-2.815,10.817,18.004,4.537
+New Mexico,Sandoval County,2020-03-01,27.038,31.646,-1.759,21.262,24.414,4.916
+New Mexico,Sandoval County,2020-03-02,14.671,29.328,-1.549,10.456,-2.572,2.97
+New Mexico,Sandoval County,2020-03-03,18.016,43.651,-0.824,17.457,13.528,2.024
+New Mexico,Sandoval County,2020-03-04,10.209,50.536,-1.828,11.622,7.622,1.945
+New Mexico,Sandoval County,2020-03-05,17.58,79.719,-0.95,16.693,5.02,0.94
+New Mexico,Sandoval County,2020-03-06,14.419,53.911,-1.225,9.343,7.022,-2.501
+New Mexico,Sandoval County,2020-03-07,19.204,98.958,-2.065,11.18,12.86,2.08
+New Mexico,Sandoval County,2020-03-08,17.679,0.659,-0.494,11.761,9.766,3.043
+New Mexico,Sandoval County,2020-03-09,17.117,61.691,-1.647,10.521,9.002,0.898
+New Mexico,Sandoval County,2020-03-10,14.249,51.587,-0.648,24.261,9.47,0.945
+New Mexico,Sandoval County,2020-03-11,21.216,41.254,-1.055,23.059,12.703,0.335
+New Mexico,Sandoval County,2020-03-12,47.154,57.398,-0.209,20.275,2.51,-1.41
+New Mexico,Sandoval County,2020-03-13,50.906,-1.827,3.356,5.467,-3.511,-6.216
+New Mexico,Sandoval County,2020-03-14,37.244,55.06,3.456,-6.272,-5.144,-5.672
+New Mexico,Sandoval County,2020-03-15,29.465,36.261,3.518,-4.461,8.138,-6.788
+New Mexico,Sandoval County,2020-03-16,32.44,57.646,7.0,0.52,-5.144,-24.453
+New Mexico,Sandoval County,2020-03-17,24.076,34.722,11.655,-7.573,-6.764,-29.617
+New Mexico,Sandoval County,2020-03-18,21.535,12.376,13.435,-12.667,-12.703,-34.61
+New Mexico,Sandoval County,2020-03-19,18.073,6.378,16.927,-21.125,-23.845,-38.819
+New Mexico,Sandoval County,2020-03-20,14.124,14.62,16.689,-21.966,-30.431,-40.866
+New Mexico,Sandoval County,2020-03-21,8.002,28.274,11.513,-30.995,-33.436,-30.059
+New Mexico,Sandoval County,2020-03-22,0.52,23.734,9.045,-28.909,-24.414,-35.346
+New Mexico,Sandoval County,2020-03-23,15.16,14.159,15.099,-17.339,-27.006,-43.242
+New Mexico,Sandoval County,2020-03-24,-8.517,21.825,20.319,-33.246,-29.762,-50.667
+New Mexico,Sandoval County,2020-03-25,-15.952,18.564,20.447,-36.833,-36.839,-52.989
+New Mexico,Sandoval County,2020-03-26,-13.801,-9.566,22.428,-36.847,-48.946,-54.938
+New Mexico,Sandoval County,2020-03-27,-12.065,-15.534,22.385,-36.826,-43.305,-54.941
+New Mexico,Sandoval County,2020-03-28,-16.294,1.488,14.567,-40.994,-51.44,-44.805
+New Mexico,Sandoval County,2020-03-29,-13.866,3.296,11.281,-35.051,-29.297,-44.007
+New Mexico,Santa Fe County,2020-02-16,10.635,57.107,-1.982,12.88,9.921,2.808
+New Mexico,Santa Fe County,2020-02-17,9.687,76.341,4.087,11.152,9.827,-23.215
+New Mexico,Santa Fe County,2020-02-18,10.15,49.383,-0.738,1.003,7.011,3.234
+New Mexico,Santa Fe County,2020-02-19,6.72,31.999,-0.198,,0.956,2.853
+New Mexico,Santa Fe County,2020-02-20,5.729,20.139,-0.2,-1.459,6.879,2.307
+New Mexico,Santa Fe County,2020-02-21,6.664,9.784,-0.736,1.153,5.123,8.843
+New Mexico,Santa Fe County,2020-02-22,2.409,-4.918,1.023,-0.731,8.418,-0.591
+New Mexico,Santa Fe County,2020-02-23,-0.545,-16.392,1.633,-5.316,,-2.553
+New Mexico,Santa Fe County,2020-02-24,2.139,9.275,-0.432,1.453,1.965,2.57
+New Mexico,Santa Fe County,2020-02-25,5.075,1.543,0.129,0.836,8.013,3.483
+New Mexico,Santa Fe County,2020-02-26,6.591,7.489,-0.758,5.508,10.512,2.527
+New Mexico,Santa Fe County,2020-02-27,11.068,38.889,-0.525,7.018,17.689,2.967
+New Mexico,Santa Fe County,2020-02-28,12.977,35.106,-2.057,7.595,17.077,9.495
+New Mexico,Santa Fe County,2020-02-29,11.587,38.448,-2.378,8.005,13.678,4.529
+New Mexico,Santa Fe County,2020-03-01,14.316,24.852,-2.167,14.48,29.762,2.808
+New Mexico,Santa Fe County,2020-03-02,14.09,26.398,-0.978,7.349,9.827,3.769
+New Mexico,Santa Fe County,2020-03-03,22.837,29.321,-0.893,7.103,21.034,3.4
+New Mexico,Santa Fe County,2020-03-04,16.026,39.488,-1.688,7.209,24.847,2.527
+New Mexico,Santa Fe County,2020-03-05,19.141,40.972,-1.368,7.333,19.654,2.802
+New Mexico,Santa Fe County,2020-03-06,16.134,44.314,-1.833,5.595,22.199,8.471
+New Mexico,Santa Fe County,2020-03-07,16.061,44.26,-1.983,7.935,28.409,0.788
+New Mexico,Santa Fe County,2020-03-08,13.362,26.438,0.074,7.607,18.601,1.532
+New Mexico,Santa Fe County,2020-03-09,15.6,77.055,-0.996,11.194,0.983,0.685
+New Mexico,Santa Fe County,2020-03-10,20.299,55.556,-0.675,8.566,29.046,0.581
+New Mexico,Santa Fe County,2020-03-11,29.725,59.913,-0.607,7.533,28.67,-1.549
+New Mexico,Santa Fe County,2020-03-12,53.255,51.389,0.53,8.319,22.602,-2.225
+New Mexico,Santa Fe County,2020-03-13,50.505,-10.935,4.36,-5.222,5.977,-1.024
+New Mexico,Santa Fe County,2020-03-14,26.73,4.024,3.916,-10.163,10.522,-5.12
+New Mexico,Santa Fe County,2020-03-15,14.861,14.277,3.855,-19.753,-3.72,-6.638
+New Mexico,Santa Fe County,2020-03-16,27.426,42.808,7.502,-12.433,,-25.185
+New Mexico,Santa Fe County,2020-03-17,27.377,33.951,10.564,-22.73,-11.018,-29.442
+New Mexico,Santa Fe County,2020-03-18,20.678,-6.127,13.539,-26.892,-16.246,-34.722
+New Mexico,Santa Fe County,2020-03-19,14.453,-4.861,16.542,-35.603,-20.637,-39.887
+New Mexico,Santa Fe County,2020-03-20,10.99,-20.718,16.966,-39.13,-33.299,-36.491
+New Mexico,Santa Fe County,2020-03-21,-4.13,-30.848,12.648,-46.463,-38.931,-35.838
+New Mexico,Santa Fe County,2020-03-22,-9.408,-6.874,9.58,-48.582,-35.962,-38.041
+New Mexico,Santa Fe County,2020-03-23,11.071,-3.567,15.172,-33.497,-31.447,-43.688
+New Mexico,Santa Fe County,2020-03-24,-16.693,2.315,20.183,-50.349,-42.067,-50.673
+New Mexico,Santa Fe County,2020-03-25,-19.774,-18.382,21.041,-52.043,-42.049,-52.817
+New Mexico,Santa Fe County,2020-03-26,-17.578,-31.25,22.458,-52.359,-44.222,-54.308
+New Mexico,Santa Fe County,2020-03-27,-13.678,-31.653,21.95,-51.541,-47.814,-49.337
+New Mexico,Santa Fe County,2020-03-28,-23.862,-44.707,16.055,-57.426,-49.453,-44.896
+New Mexico,Santa Fe County,2020-03-29,-23.587,-23.794,12.061,-54.417,-53.323,-45.445
+New Mexico,Sierra County,2020-02-16,,,,5.297,,-2.042
+New Mexico,Sierra County,2020-02-17,,,,9.137,,-21.281
+New Mexico,Sierra County,2020-02-18,,,,8.528,,
+New Mexico,Sierra County,2020-02-19,,,,13.613,,-1.096
+New Mexico,Sierra County,2020-02-20,,,,12.523,,-2.042
+New Mexico,Sierra County,2020-02-21,,,,0.484,,2.17
+New Mexico,Sierra County,2020-02-22,,,,-1.058,,7.862
+New Mexico,Sierra County,2020-02-23,,,,1.177,,-2.042
+New Mexico,Sierra County,2020-02-24,,,,8.528,,5.6
+New Mexico,Sierra County,2020-02-25,,,,,,2.148
+New Mexico,Sierra County,2020-02-26,,,,11.837,,3.289
+New Mexico,Sierra County,2020-02-27,,,,12.523,,-4.085
+New Mexico,Sierra County,2020-02-28,,,,11.143,,5.425
+New Mexico,Sierra County,2020-02-29,,,,24.323,,1.965
+New Mexico,Sierra County,2020-03-01,,,,11.77,,4.085
+New Mexico,Sierra County,2020-03-02,,,,12.792,,7.841
+New Mexico,Sierra County,2020-03-03,,,,15.838,,2.148
+New Mexico,Sierra County,2020-03-04,,,,15.388,,4.386
+New Mexico,Sierra County,2020-03-05,,,,16.507,,
+New Mexico,Sierra County,2020-03-06,,,,14.535,,
+New Mexico,Sierra County,2020-03-07,,,,23.794,,17.689
+New Mexico,Sierra County,2020-03-08,,,,8.239,,
+New Mexico,Sierra County,2020-03-09,,,,14.011,,3.36
+New Mexico,Sierra County,2020-03-10,,,,10.356,,1.074
+New Mexico,Sierra County,2020-03-11,,,,17.164,,
+New Mexico,Sierra County,2020-03-12,,,,30.738,,
+New Mexico,Sierra County,2020-03-13,,,,12.112,,-9.766
+New Mexico,Sierra County,2020-03-14,,,,7.403,,9.827
+New Mexico,Sierra County,2020-03-15,,,,6.474,,4.085
+New Mexico,Sierra County,2020-03-16,,,,6.701,,-10.081
+New Mexico,Sierra County,2020-03-17,,,,-1.218,,-18.256
+New Mexico,Sierra County,2020-03-18,,,,-11.245,,-20.833
+New Mexico,Sierra County,2020-03-19,,,,-15.369,,-25.531
+New Mexico,Sierra County,2020-03-20,,,,-25.194,,-22.786
+New Mexico,Sierra County,2020-03-21,,,,-28.025,,-5.896
+New Mexico,Sierra County,2020-03-22,,,,-34.134,,-22.467
+New Mexico,Sierra County,2020-03-23,,,,-23.148,,-23.521
+New Mexico,Sierra County,2020-03-24,,,,-29.849,,-34.364
+New Mexico,Sierra County,2020-03-25,,,,-34.328,,-31.798
+New Mexico,Sierra County,2020-03-26,,,,-39.276,,-38.807
+New Mexico,Sierra County,2020-03-27,,,,-43.605,,-35.807
+New Mexico,Sierra County,2020-03-28,,,,-41.244,,-19.654
+New Mexico,Sierra County,2020-03-29,,,,-45.315,,-24.51
+New Mexico,Socorro County,2020-02-16,15.914,,,8.643,,7.184
+New Mexico,Socorro County,2020-02-17,7.234,,,10.195,,-23.986
+New Mexico,Socorro County,2020-02-18,2.894,,,4.876,,2.572
+New Mexico,Socorro County,2020-02-19,,,,1.715,,-1.294
+New Mexico,Socorro County,2020-02-20,8.117,,,3.551,,2.588
+New Mexico,Socorro County,2020-02-21,4.902,,,8.121,,13.315
+New Mexico,Socorro County,2020-02-22,,,,10.543,,13.661
+New Mexico,Socorro County,2020-02-23,-5.787,,,2.274,,10.776
+New Mexico,Socorro County,2020-02-24,13.021,,,11.525,,6.853
+New Mexico,Socorro County,2020-02-25,,,,1.773,,-0.643
+New Mexico,Socorro County,2020-02-26,6.764,,,15.432,,5.823
+New Mexico,Socorro County,2020-02-27,16.234,,,13.021,,1.941
+New Mexico,Socorro County,2020-02-28,19.608,,,21.893,,17.231
+New Mexico,Socorro County,2020-02-29,8.892,,,15.182,,8.538
+New Mexico,Socorro County,2020-03-01,17.361,,,18.65,,10.776
+New Mexico,Socorro County,2020-03-02,18.808,,,20.39,,8.224
+New Mexico,Socorro County,2020-03-03,27.488,,,24.379,,1.929
+New Mexico,Socorro County,2020-03-04,16.234,,,18.433,,3.882
+New Mexico,Socorro County,2020-03-05,10.823,,,15.388,,1.941
+New Mexico,Socorro County,2020-03-06,12.255,,,16.243,,2.35
+New Mexico,Socorro County,2020-03-07,15.244,,,18.134,,13.661
+New Mexico,Socorro County,2020-03-08,17.361,,,9.552,,5.388
+New Mexico,Socorro County,2020-03-09,26.042,,,22.163,,4.112
+New Mexico,Socorro County,2020-03-10,18.808,,,25.709,,-5.787
+New Mexico,Socorro County,2020-03-11,31.115,,,19.719,,-5.176
+New Mexico,Socorro County,2020-03-12,33.82,,,11.837,,-5.823
+New Mexico,Socorro County,2020-03-13,34.314,,,3.178,,-4.699
+New Mexico,Socorro County,2020-03-14,33.028,,,-7.169,,-11.954
+New Mexico,Socorro County,2020-03-15,13.021,,,-19.105,,-5.388
+New Mexico,Socorro County,2020-03-16,15.914,,,-11.082,,-28.098
+New Mexico,Socorro County,2020-03-17,20.255,,,-19.504,,-36.651
+New Mexico,Socorro County,2020-03-18,22.998,,,-20.576,,-38.82
+New Mexico,Socorro County,2020-03-19,39.232,,,-29.593,,-40.761
+New Mexico,Socorro County,2020-03-20,24.51,,,-29.308,,-35.244
+New Mexico,Socorro County,2020-03-21,15.244,,,-33.738,,-23.907
+New Mexico,Socorro County,2020-03-22,2.894,,,-39.119,,-26.94
+New Mexico,Socorro County,2020-03-23,39.062,,,-26.152,,-39.748
+New Mexico,Socorro County,2020-03-24,-2.894,,,-41.667,,-53.369
+New Mexico,Socorro County,2020-03-25,-4.058,,,-41.152,,-49.819
+New Mexico,Socorro County,2020-03-26,2.706,,,-41.824,,-51.76
+New Mexico,Socorro County,2020-03-27,-8.578,,,-44.138,,-42.293
+New Mexico,Socorro County,2020-03-28,-3.811,,,-40.064,,-30.738
+New Mexico,Socorro County,2020-03-29,-8.681,,,-43.668,,-37.716
+New Mexico,Taos County,2020-02-16,24.386,,,40.476,,6.01
+New Mexico,Taos County,2020-02-17,9.75,,,8.378,,-17.761
+New Mexico,Taos County,2020-02-18,15.571,,,11.733,,5.28
+New Mexico,Taos County,2020-02-19,5.787,,,-2.404,,0.91
+New Mexico,Taos County,2020-02-20,13.219,,,12.563,,6.019
+New Mexico,Taos County,2020-02-21,6.127,,,13.996,,7.37
+New Mexico,Taos County,2020-02-22,3.788,,,7.653,,
+New Mexico,Taos County,2020-02-23,10.838,,,13.393,,2.003
+New Mexico,Taos County,2020-02-24,8.723,,,2.793,,4.32
+New Mexico,Taos County,2020-02-25,8.054,,,6.868,,7.68
+New Mexico,Taos County,2020-02-26,8.944,,,9.615,,3.639
+New Mexico,Taos County,2020-02-27,11.104,,,9.16,,6.481
+New Mexico,Taos County,2020-02-28,13.669,,,13.537,,4.914
+New Mexico,Taos County,2020-02-29,5.682,,,4.464,,1.694
+New Mexico,Taos County,2020-03-01,19.87,,,17.262,,5.008
+New Mexico,Taos County,2020-03-02,11.289,,,9.495,,4.32
+New Mexico,Taos County,2020-03-03,18.256,,,17.457,,6.72
+New Mexico,Taos County,2020-03-04,9.996,,,9.348,,1.365
+New Mexico,Taos County,2020-03-05,13.219,,,13.086,,5.556
+New Mexico,Taos County,2020-03-06,9.427,,,12.39,,4.422
+New Mexico,Taos County,2020-03-07,8.523,,,6.165,,5.928
+New Mexico,Taos County,2020-03-08,22.881,,,20.536,,5.008
+New Mexico,Taos County,2020-03-09,21.552,,,23.738,,2.4
+New Mexico,Taos County,2020-03-10,25.773,,,27.473,,4.32
+New Mexico,Taos County,2020-03-11,28.409,,,16.026,,-2.729
+New Mexico,Taos County,2020-03-12,44.945,,,16.227,,-3.704
+New Mexico,Taos County,2020-03-13,33.937,,,-0.229,,-4.914
+New Mexico,Taos County,2020-03-14,19.886,,,-8.291,,3.388
+New Mexico,Taos County,2020-03-15,20.472,,,3.571,,1.002
+New Mexico,Taos County,2020-03-16,26.683,,,3.91,,-21.121
+New Mexico,Taos County,2020-03-17,19.33,,,-12.019,,-24.962
+New Mexico,Taos County,2020-03-18,7.891,,,-29.647,,-29.112
+New Mexico,Taos County,2020-03-19,-2.644,,,-43.97,,-37.963
+New Mexico,Taos County,2020-03-20,1.414,,,-39.923,,-35.869
+New Mexico,Taos County,2020-03-21,-12.311,,,-63.988,,-40.65
+New Mexico,Taos County,2020-03-22,-17.461,,,-55.655,,-47.075
+New Mexico,Taos County,2020-03-23,-0.513,,,-36.863,,-36.002
+New Mexico,Taos County,2020-03-24,-16.108,,,-46.932,,-41.763
+New Mexico,Taos County,2020-03-25,-22.096,,,-51.282,,-47.307
+New Mexico,Taos County,2020-03-26,-23.266,,,-58.626,,-50.926
+New Mexico,Taos County,2020-03-27,-20.739,,,-56.213,,-47.661
+New Mexico,Taos County,2020-03-28,-30.777,,,-68.452,,-53.354
+New Mexico,Taos County,2020-03-29,-30.106,,,-61.905,,-54.087
+New Mexico,Torrance County,2020-02-16,7.31,,,-5.388,0.879,2.003
+New Mexico,Torrance County,2020-02-17,1.796,,,1.796,2.354,-27.728
+New Mexico,Torrance County,2020-02-18,3.472,,,,-0.503,5.064
+New Mexico,Torrance County,2020-02-19,3.205,,,1.427,2.284,5.135
+New Mexico,Torrance County,2020-02-20,,,,-14.881,3.472,-1.478
+New Mexico,Torrance County,2020-02-21,3.255,,,2.604,5.256,3.255
+New Mexico,Torrance County,2020-02-22,-8.267,,,-8.224,0.408,1.796
+New Mexico,Torrance County,2020-02-23,-7.31,,,-23.348,-7.032,-4.006
+New Mexico,Torrance County,2020-02-24,1.796,,,1.796,1.766,5.246
+New Mexico,Torrance County,2020-02-25,-5.208,,,8.013,0.503,2.17
+New Mexico,Torrance County,2020-02-26,,,,38.527,6.853,2.934
+New Mexico,Torrance County,2020-02-27,5.208,,,16.369,10.913,2.955
+New Mexico,Torrance County,2020-02-28,8.138,,,16.927,6.69,8.138
+New Mexico,Torrance County,2020-02-29,18.188,,,9.594,13.889,3.592
+New Mexico,Torrance County,2020-03-01,20.102,,,19.756,9.23,4.006
+New Mexico,Torrance County,2020-03-02,1.796,,,34.124,14.713,1.499
+New Mexico,Torrance County,2020-03-03,20.833,,,60.897,11.574,2.17
+New Mexico,Torrance County,2020-03-04,6.41,,,14.269,8.681,5.135
+New Mexico,Torrance County,2020-03-05,13.889,,,34.97,12.401,4.433
+New Mexico,Torrance County,2020-03-06,6.51,,,10.417,9.079,4.883
+New Mexico,Torrance County,2020-03-07,6.614,,,16.447,13.072,-3.592
+New Mexico,Torrance County,2020-03-08,9.137,,,17.96,10.109,-4.006
+New Mexico,Torrance County,2020-03-09,7.184,,,17.96,7.651,1.499
+New Mexico,Torrance County,2020-03-10,13.889,,,12.821,9.561,2.17
+New Mexico,Torrance County,2020-03-11,20.833,,,7.135,5.482,5.135
+New Mexico,Torrance County,2020-03-12,32.986,,,1.488,16.369,2.216
+New Mexico,Torrance County,2020-03-13,58.594,,,1.302,8.123,-4.069
+New Mexico,Torrance County,2020-03-14,42.989,,,8.224,17.565,-3.592
+New Mexico,Torrance County,2020-03-15,49.342,,,8.98,10.988,-8.013
+New Mexico,Torrance County,2020-03-16,59.267,,,8.98,14.713,-23.981
+New Mexico,Torrance County,2020-03-17,43.403,,,1.603,23.651,-26.042
+New Mexico,Torrance County,2020-03-18,19.231,,,-14.269,21.93,-27.876
+New Mexico,Torrance County,2020-03-19,17.361,,,-22.321,22.321,-32.506
+New Mexico,Torrance County,2020-03-20,27.669,,,-26.042,23.891,-28.483
+New Mexico,Torrance County,2020-03-21,28.108,,,-35.636,20.833,-19.756
+New Mexico,Torrance County,2020-03-22,14.62,,,-19.756,5.714,-32.051
+New Mexico,Torrance County,2020-03-23,39.511,,,-28.736,8.828,-32.974
+New Mexico,Torrance County,2020-03-24,3.472,,,-20.833,5.535,-38.339
+New Mexico,Torrance County,2020-03-25,-8.013,,,-34.247,1.827,-39.613
+New Mexico,Torrance County,2020-03-26,-10.417,,,-35.714,2.48,-41.371
+New Mexico,Torrance County,2020-03-27,-1.628,,,-39.062,-0.478,-37.435
+New Mexico,Torrance County,2020-03-28,-4.96,,,-35.636,-4.493,-26.94
+New Mexico,Torrance County,2020-03-29,-7.31,,,-25.144,-8.79,-26.042
+New Mexico,Valencia County,2020-02-16,13.493,24.941,-1.352,4.901,,1.235
+New Mexico,Valencia County,2020-02-17,5.538,15.369,4.937,5.061,13.021,-28.569
+New Mexico,Valencia County,2020-02-18,10.785,8.138,-0.356,3.517,3.222,2.406
+New Mexico,Valencia County,2020-02-19,13.889,-1.578,-0.846,3.982,5.482,1.113
+New Mexico,Valencia County,2020-02-20,11.43,7.774,0.423,7.914,15.191,0.843
+New Mexico,Valencia County,2020-02-21,5.952,4.281,0.398,1.788,8.762,3.492
+New Mexico,Valencia County,2020-02-22,4.006,-8.286,1.84,-1.225,-9.47,-1.408
+New Mexico,Valencia County,2020-02-23,4.588,-10.27,1.195,0.288,9.002,-0.412
+New Mexico,Valencia County,2020-02-24,11.603,22.199,-0.396,4.534,3.255,4.395
+New Mexico,Valencia County,2020-02-25,6.05,,0.364,1.034,6.443,4.529
+New Mexico,Valencia County,2020-02-26,17.895,-3.157,-1.446,19.492,12.061,2.503
+New Mexico,Valencia County,2020-02-27,14.287,7.774,-1.25,16.125,17.361,0.843
+New Mexico,Valencia County,2020-02-28,18.315,9.989,-1.951,13.813,22.391,5.922
+New Mexico,Valencia County,2020-02-29,21.446,21.307,-1.515,14.205,6.313,1.76
+New Mexico,Valencia County,2020-03-01,20.24,32.277,-1.869,20.372,12.86,1.647
+New Mexico,Valencia County,2020-03-02,18.196,10.246,-1.235,18.556,5.425,4.395
+New Mexico,Valencia County,2020-03-03,24.463,6.51,-1.585,19.551,15.034,3.114
+New Mexico,Valencia County,2020-03-04,23.771,20.518,-1.656,21.483,4.386,2.225
+New Mexico,Valencia County,2020-03-05,19.742,6.219,-1.42,16.125,9.766,1.827
+New Mexico,Valencia County,2020-03-06,13.278,17.123,-1.268,7.963,27.259,4.555
+New Mexico,Valencia County,2020-03-07,20.268,33.144,-2.226,11.674,5.261,2.111
+New Mexico,Valencia County,2020-03-08,7.016,-13.204,-0.675,7.399,,-0.412
+New Mexico,Valencia County,2020-03-09,20.306,40.984,-0.008,12.546,8.681,-16.262
+New Mexico,Valencia County,2020-03-10,13.152,39.062,0.451,11.896,2.148,-16.559
+New Mexico,Valencia County,2020-03-11,21.1,9.47,1.35,11.737,15.351,-16.55
+New Mexico,Valencia County,2020-03-12,39.744,9.328,2.39,16.125,15.191,-18.556
+New Mexico,Valencia County,2020-03-13,38.233,-24.258,5.433,2.031,,-20.803
+New Mexico,Valencia County,2020-03-14,32.287,4.735,3.166,1.306,-7.365,-3.519
+New Mexico,Valencia County,2020-03-15,27.256,26.408,2.437,1.538,-2.572,-5.352
+New Mexico,Valencia County,2020-03-16,29.8,23.907,5.371,6.01,-4.34,-22.562
+New Mexico,Valencia County,2020-03-17,28.146,-8.138,9.048,-4.862,-13.96,-26.891
+New Mexico,Valencia County,2020-03-18,32.585,-17.361,11.15,-4.821,,-29.345
+New Mexico,Valencia County,2020-03-19,27.795,-18.657,12.906,-18.103,-3.255,-34.3
+New Mexico,Valencia County,2020-03-20,15.11,-9.989,14.417,-27.057,-10.709,-34.621
+New Mexico,Valencia County,2020-03-21,14.847,-18.939,11.065,-30.368,-23.148,-23.578
+New Mexico,Valencia County,2020-03-22,7.826,11.737,8.006,-32.096,-12.86,-30.468
+New Mexico,Valencia County,2020-03-23,27.426,1.708,11.915,-20.876,-21.701,-38.238
+New Mexico,Valencia County,2020-03-24,-3.42,-11.393,16.115,-37.136,-25.773,-43.733
+New Mexico,Valencia County,2020-03-25,-5.075,-6.313,16.524,-36.05,-26.316,-44.643
+New Mexico,Valencia County,2020-03-26,-10.391,-21.766,17.947,-41.152,-20.616,-46.671
+New Mexico,Valencia County,2020-03-27,-9.615,-35.674,18.882,-42.17,-31.153,-44.187
+New Mexico,Valencia County,2020-03-28,-7.777,-36.695,13.314,-40.001,-42.088,-31.32
+New Mexico,Valencia County,2020-03-29,-7.826,-10.27,,-40.072,-21.862,-34.173

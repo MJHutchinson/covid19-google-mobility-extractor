@@ -1,0 +1,388 @@
+state,county,date,grocery/pharmacy,retail/recreation,transitstations,workplace
+North Dakota,Grand Forks County,2020-02-16,5.947,19.787,5.531,3.506
+North Dakota,Grand Forks County,2020-02-17,5.631,15.477,3.774,-19.502
+North Dakota,Grand Forks County,2020-02-18,-6.324,2.683,0.744,2.79
+North Dakota,Grand Forks County,2020-02-19,-4.513,7.304,-1.389,1.986
+North Dakota,Grand Forks County,2020-02-20,-7.267,7.946,8.389,2.006
+North Dakota,Grand Forks County,2020-02-21,3.96,2.601,6.764,4.354
+North Dakota,Grand Forks County,2020-02-22,15.764,25.104,19.879,0.418
+North Dakota,Grand Forks County,2020-02-23,7.865,13.033,22.124,2.504
+North Dakota,Grand Forks County,2020-02-24,-3.167,0.649,8.303,4.439
+North Dakota,Grand Forks County,2020-02-25,-2.976,2.96,3.72,4.34
+North Dakota,Grand Forks County,2020-02-26,6.393,14.242,-5.556,3.055
+North Dakota,Grand Forks County,2020-02-27,-3.807,14.669,9.088,3.704
+North Dakota,Grand Forks County,2020-02-28,3.655,11.156,1.353,-0.67
+North Dakota,Grand Forks County,2020-02-29,21.946,12.965,9.542,2.092
+North Dakota,Grand Forks County,2020-03-01,17.457,16.648,20.28,0.501
+North Dakota,Grand Forks County,2020-03-02,5.279,2.966,10.568,3.012
+North Dakota,Grand Forks County,2020-03-03,5.952,8.603,1.488,1.86
+North Dakota,Grand Forks County,2020-03-04,9.025,8.125,2.083,2.597
+North Dakota,Grand Forks County,2020-03-05,0.346,4.191,13.283,3.395
+North Dakota,Grand Forks County,2020-03-06,7.615,4.517,12.175,2.847
+North Dakota,Grand Forks County,2020-03-07,21.946,17.859,13.518,2.092
+North Dakota,Grand Forks County,2020-03-08,9.784,14.745,8.296,1.002
+North Dakota,Grand Forks County,2020-03-09,2.463,4.541,12.832,4.281
+North Dakota,Grand Forks County,2020-03-10,12.649,7.586,8.929,3.565
+North Dakota,Grand Forks County,2020-03-11,17.674,12.507,6.25,1.069
+North Dakota,Grand Forks County,2020-03-12,27.339,12.399,12.584,3.704
+North Dakota,Grand Forks County,2020-03-13,23.453,-0.684,1.353,5.024
+North Dakota,Grand Forks County,2020-03-14,19.782,-3.623,-4.771,-0.418
+North Dakota,Grand Forks County,2020-03-15,23.596,-6.279,2.765,-3.506
+North Dakota,Grand Forks County,2020-03-16,32.728,-7.877,,-17.282
+North Dakota,Grand Forks County,2020-03-17,35.714,-8.511,-11.905,-18.446
+North Dakota,Grand Forks County,2020-03-18,22.939,-20.632,-20.833,-24.591
+North Dakota,Grand Forks County,2020-03-19,2.076,-36.585,-18.177,-31.019
+North Dakota,Grand Forks County,2020-03-20,16.447,-41.407,-27.733,-30.647
+North Dakota,Grand Forks County,2020-03-21,-1.545,-56.119,-41.349,-24.264
+North Dakota,Grand Forks County,2020-03-22,-21.677,-51.655,-41.482,-28.546
+North Dakota,Grand Forks County,2020-03-23,-7.742,-41.333,-21.89,-28.697
+North Dakota,Grand Forks County,2020-03-24,-10.789,-40.89,-23.065,-32.087
+North Dakota,Grand Forks County,2020-03-25,-2.256,-38.526,-33.333,-33.602
+North Dakota,Grand Forks County,2020-03-26,-6.575,-39.816,-29.362,-34.105
+North Dakota,Grand Forks County,2020-03-27,-4.569,-43.049,-31.791,-31.652
+North Dakota,Grand Forks County,2020-03-28,-14.837,-54.53,-38.963,-26.355
+North Dakota,Grand Forks County,2020-03-29,-20.526,-48.421,-39.639,-29.046
+North Dakota,McKenzie County,2020-02-16,-4.006,1.947,5.869,6.51
+North Dakota,McKenzie County,2020-02-17,3.235,8.185,2.023,-18.577
+North Dakota,McKenzie County,2020-02-18,-2.495,2.138,-3.623,
+North Dakota,McKenzie County,2020-02-19,-7.873,-12.153,8.601,5.376
+North Dakota,McKenzie County,2020-02-20,8.158,8.062,0.947,4.735
+North Dakota,McKenzie County,2020-02-21,2.315,7.214,-7.246,5.708
+North Dakota,McKenzie County,2020-02-22,2.525,-3.519,,-6.2
+North Dakota,McKenzie County,2020-02-23,9.348,10.709,,-6.51
+North Dakota,McKenzie County,2020-02-24,1.941,-2.976,1.011,
+North Dakota,McKenzie County,2020-02-25,-0.624,-13.746,-4.529,-1.965
+North Dakota,McKenzie County,2020-02-26,1.817,-9.838,-5.734,7.392
+North Dakota,McKenzie County,2020-02-27,0.628,0.322,2.841,4.735
+North Dakota,McKenzie County,2020-02-28,,8.945,-1.812,4.994
+North Dakota,McKenzie County,2020-02-29,,4.223,-1.24,4.96
+North Dakota,McKenzie County,2020-03-01,-1.335,17.523,-13.204,1.628
+North Dakota,McKenzie County,2020-03-02,-1.294,9.673,-2.023,3.981
+North Dakota,McKenzie County,2020-03-03,4.366,-5.193,-16.304,2.621
+North Dakota,McKenzie County,2020-03-04,-1.817,-4.63,,8.065
+North Dakota,McKenzie County,2020-03-05,5.02,13.222,0.947,8.117
+North Dakota,McKenzie County,2020-03-06,7.523,4.04,-0.906,-2.14
+North Dakota,McKenzie County,2020-03-07,10.732,5.631,-1.24,-1.24
+North Dakota,McKenzie County,2020-03-08,1.335,10.709,-5.869,3.255
+North Dakota,McKenzie County,2020-03-09,7.117,1.488,-1.011,1.327
+North Dakota,McKenzie County,2020-03-10,4.366,-3.36,-8.152,3.931
+North Dakota,McKenzie County,2020-03-11,-1.211,-4.051,-4.778,3.36
+North Dakota,McKenzie County,2020-03-12,11.295,-6.772,-2.841,2.029
+North Dakota,McKenzie County,2020-03-13,6.944,-12.408,-12.681,2.854
+North Dakota,McKenzie County,2020-03-14,1.894,-14.077,-4.96,-1.24
+North Dakota,McKenzie County,2020-03-15,-2.671,-5.841,-11.737,1.628
+North Dakota,McKenzie County,2020-03-16,11.646,-14.881,-9.102,-7.298
+North Dakota,McKenzie County,2020-03-17,5.614,-18.023,-15.399,-11.792
+North Dakota,McKenzie County,2020-03-18,-1.817,-36.458,-14.335,-10.753
+North Dakota,McKenzie County,2020-03-19,6.903,-28.702,-16.098,-12.852
+North Dakota,McKenzie County,2020-03-20,4.63,-47.611,-29.891,-13.556
+North Dakota,McKenzie County,2020-03-21,-6.313,-47.86,-23.562,-22.321
+North Dakota,McKenzie County,2020-03-22,-14.022,-45.755,-23.474,-16.276
+North Dakota,McKenzie County,2020-03-23,-5.823,-33.482,-18.204,-16.587
+North Dakota,McKenzie County,2020-03-24,-14.346,-49.792,-24.457,-19.654
+North Dakota,McKenzie County,2020-03-25,-16.957,-51.505,-29.625,-18.145
+North Dakota,McKenzie County,2020-03-26,-13.178,-37.732,-30.303,-20.292
+North Dakota,McKenzie County,2020-03-27,-9.838,-49.342,-30.797,-17.123
+North Dakota,McKenzie County,2020-03-28,-10.732,-42.934,-32.242,-18.601
+North Dakota,McKenzie County,2020-03-29,-15.358,-41.861,-26.408,-14.648
+North Dakota,Morton County,2020-02-16,4.883,3.459,,2.395
+North Dakota,Morton County,2020-02-17,-9.594,6.023,,-26.559
+North Dakota,Morton County,2020-02-18,-8.446,-1.664,,-0.344
+North Dakota,Morton County,2020-02-19,-2.815,1.612,,1.691
+North Dakota,Morton County,2020-02-20,5.708,-0.318,,-0.337
+North Dakota,Morton County,2020-02-21,3.634,3.759,,-1.081
+North Dakota,Morton County,2020-02-22,11.111,10.266,,-1.894
+North Dakota,Morton County,2020-02-23,17.904,10.378,,3.592
+North Dakota,Morton County,2020-02-24,-6.853,-0.709,,2.759
+North Dakota,Morton County,2020-02-25,1.408,0.666,,1.375
+North Dakota,Morton County,2020-02-26,1.408,9.997,,3.044
+North Dakota,Morton County,2020-02-27,-2.854,13.021,,1.686
+North Dakota,Morton County,2020-02-28,6.056,16.914,,2.523
+North Dakota,Morton County,2020-02-29,2.778,13.772,,
+North Dakota,Morton County,2020-03-01,24.414,8.841,,-1.197
+North Dakota,Morton County,2020-03-02,2.741,13.109,,2.759
+North Dakota,Morton County,2020-03-03,9.854,8.32,,3.782
+North Dakota,Morton County,2020-03-04,9.854,6.45,,1.353
+North Dakota,Morton County,2020-03-05,17.123,7.304,,1.348
+North Dakota,Morton County,2020-03-06,3.634,12.618,,1.081
+North Dakota,Morton County,2020-03-07,23.611,12.019,,-1.894
+North Dakota,Morton County,2020-03-08,-6.51,1.922,,4.789
+North Dakota,Morton County,2020-03-09,,11.692,,1.38
+North Dakota,Morton County,2020-03-10,5.631,11.648,,4.813
+North Dakota,Morton County,2020-03-11,9.854,8.385,,5.411
+North Dakota,Morton County,2020-03-12,14.269,14.926,,0.337
+North Dakota,Morton County,2020-03-13,27.859,13.155,,-12.615
+North Dakota,Morton County,2020-03-14,29.167,1.002,,-2.841
+North Dakota,Morton County,2020-03-15,19.531,-4.228,,-10.776
+North Dakota,Morton County,2020-03-16,31.524,-3.189,,-16.901
+North Dakota,Morton County,2020-03-17,28.153,-5.658,,-16.845
+North Dakota,Morton County,2020-03-18,45.045,-24.51,,-19.616
+North Dakota,Morton County,2020-03-19,17.123,-36.839,,-26.294
+North Dakota,Morton County,2020-03-20,27.859,-42.955,,-32.079
+North Dakota,Morton County,2020-03-21,18.056,-54.337,,-28.409
+North Dakota,Morton County,2020-03-22,9.766,-43.819,,-26.341
+North Dakota,Morton County,2020-03-23,5.482,-39.328,,-32.423
+North Dakota,Morton County,2020-03-24,1.408,-44.595,,-36.441
+North Dakota,Morton County,2020-03-25,-9.854,-42.892,,-36.864
+North Dakota,Morton County,2020-03-26,,-44.144,,-38.093
+North Dakota,Morton County,2020-03-27,-1.211,-39.465,,-37.125
+North Dakota,Morton County,2020-03-28,18.056,-42.568,,-26.515
+North Dakota,Morton County,2020-03-29,1.628,-34.594,,-25.144
+North Dakota,Ramsey County,2020-02-16,,15.783,,
+North Dakota,Ramsey County,2020-02-17,,-1.99,,
+North Dakota,Ramsey County,2020-02-18,,-4.674,,
+North Dakota,Ramsey County,2020-02-19,,9.726,,
+North Dakota,Ramsey County,2020-02-20,,14.836,,
+North Dakota,Ramsey County,2020-02-21,,7.011,,
+North Dakota,Ramsey County,2020-02-22,,29.568,,
+North Dakota,Ramsey County,2020-02-23,,11.048,,
+North Dakota,Ramsey County,2020-02-24,,5.971,,
+North Dakota,Ramsey County,2020-02-25,,2.671,,
+North Dakota,Ramsey County,2020-02-26,,13.805,,
+North Dakota,Ramsey County,2020-02-27,,11.364,,
+North Dakota,Ramsey County,2020-02-28,,12.019,,
+North Dakota,Ramsey County,2020-02-29,,16.276,,
+North Dakota,Ramsey County,2020-03-01,,26.042,,
+North Dakota,Ramsey County,2020-03-02,,7.298,,
+North Dakota,Ramsey County,2020-03-03,,10.016,,
+North Dakota,Ramsey County,2020-03-04,,10.668,,
+North Dakota,Ramsey County,2020-03-05,,23.99,,
+North Dakota,Ramsey County,2020-03-06,,0.501,,
+North Dakota,Ramsey County,2020-03-07,,5.425,,
+North Dakota,Ramsey County,2020-03-08,,14.205,,
+North Dakota,Ramsey County,2020-03-09,,15.924,,
+North Dakota,Ramsey County,2020-03-10,,16.693,,
+North Dakota,Ramsey County,2020-03-11,,13.178,,
+North Dakota,Ramsey County,2020-03-12,,29.672,,
+North Dakota,Ramsey County,2020-03-13,,4.507,,
+North Dakota,Ramsey County,2020-03-14,,9.223,,
+North Dakota,Ramsey County,2020-03-15,,3.157,,
+North Dakota,Ramsey County,2020-03-16,,-7.298,,
+North Dakota,Ramsey County,2020-03-17,,-7.345,,
+North Dakota,Ramsey County,2020-03-18,,-16.943,,
+North Dakota,Ramsey County,2020-03-19,,-22.096,,
+North Dakota,Ramsey County,2020-03-20,,-38.061,,
+North Dakota,Ramsey County,2020-03-21,,-52.626,,
+North Dakota,Ramsey County,2020-03-22,,-46.559,,
+North Dakota,Ramsey County,2020-03-23,,-38.482,,
+North Dakota,Ramsey County,2020-03-24,,-39.396,,
+North Dakota,Ramsey County,2020-03-25,,-36.396,,
+North Dakota,Ramsey County,2020-03-26,,-41.667,,
+North Dakota,Ramsey County,2020-03-27,,-44.571,,
+North Dakota,Ramsey County,2020-03-28,,-45.03,,
+North Dakota,Ramsey County,2020-03-29,,-41.035,,
+North Dakota,Richland County,2020-02-16,,1.327,,-2.003
+North Dakota,Richland County,2020-02-17,,-8.681,,-22.135
+North Dakota,Richland County,2020-02-18,,-13.96,,-0.62
+North Dakota,Richland County,2020-02-19,,4.505,,
+North Dakota,Richland County,2020-02-20,,,,3.195
+North Dakota,Richland County,2020-02-21,,1.766,,5.064
+North Dakota,Richland County,2020-02-22,,13.021,,7.576
+North Dakota,Richland County,2020-02-23,,0.663,,-6.01
+North Dakota,Richland County,2020-02-24,,7.44,,2.604
+North Dakota,Richland County,2020-02-25,,-7.517,,-3.72
+North Dakota,Richland County,2020-02-26,,5.068,,3.157
+North Dakota,Richland County,2020-02-27,,8.81,,2.556
+North Dakota,Richland County,2020-02-28,,3.09,,4.34
+North Dakota,Richland County,2020-02-29,,15.914,,-5.682
+North Dakota,Richland County,2020-03-01,,13.933,,4.006
+North Dakota,Richland County,2020-03-02,,6.2,,5.208
+North Dakota,Richland County,2020-03-03,,6.443,,-1.86
+North Dakota,Richland County,2020-03-04,,12.387,,3.157
+North Dakota,Richland County,2020-03-05,,1.814,,0.639
+North Dakota,Richland County,2020-03-06,,-3.09,,3.617
+North Dakota,Richland County,2020-03-07,,12.539,,-1.894
+North Dakota,Richland County,2020-03-08,,7.962,,
+North Dakota,Richland County,2020-03-09,,11.471,,7.161
+North Dakota,Richland County,2020-03-10,,8.591,,
+North Dakota,Richland County,2020-03-11,,1.126,,5.051
+North Dakota,Richland County,2020-03-12,,15.029,,1.917
+North Dakota,Richland County,2020-03-13,,5.297,,0.723
+North Dakota,Richland County,2020-03-14,,14.468,,-9.47
+North Dakota,Richland County,2020-03-15,,-1.327,,-12.019
+North Dakota,Richland County,2020-03-16,,1.24,,-14.323
+North Dakota,Richland County,2020-03-17,,-15.034,,-16.741
+North Dakota,Richland County,2020-03-18,,-25.901,,-20.202
+North Dakota,Richland County,2020-03-19,,-32.649,,-23.006
+North Dakota,Richland County,2020-03-20,,-38.4,,-23.148
+North Dakota,Richland County,2020-03-21,,-42.438,,-22.727
+North Dakota,Richland County,2020-03-22,,-43.126,,-32.051
+North Dakota,Richland County,2020-03-23,,-34.722,,-26.042
+North Dakota,Richland County,2020-03-24,,-45.103,,-29.762
+North Dakota,Richland County,2020-03-25,,-38.288,,-28.409
+North Dakota,Richland County,2020-03-26,,-42.496,,-27.48
+North Dakota,Richland County,2020-03-27,,-33.104,,-31.105
+North Dakota,Richland County,2020-03-28,,-41.474,,-26.515
+North Dakota,Richland County,2020-03-29,,-43.79,,-24.038
+North Dakota,Stark County,2020-02-16,,-1.848,,-1.286
+North Dakota,Stark County,2020-02-17,4.464,2.957,,-18.668
+North Dakota,Stark County,2020-02-18,-1.467,0.219,,-1.096
+North Dakota,Stark County,2020-02-19,,3.898,,0.728
+North Dakota,Stark County,2020-02-20,-2.934,5.869,,1.84
+North Dakota,Stark County,2020-02-21,4.058,0.34,,-2.691
+North Dakota,Stark County,2020-02-22,5.708,7.517,,2.921
+North Dakota,Stark County,2020-02-23,7.891,8.315,,5.144
+North Dakota,Stark County,2020-02-24,7.44,-0.227,,1.493
+North Dakota,Stark County,2020-02-25,,0.877,,
+North Dakota,Stark County,2020-02-26,14.881,9.529,,2.914
+North Dakota,Stark County,2020-02-27,4.401,7.755,,4.417
+North Dakota,Stark County,2020-02-28,6.764,6.627,,0.769
+North Dakota,Stark County,2020-02-29,18.55,10.56,,3.894
+North Dakota,Stark County,2020-03-01,4.735,6.929,,5.144
+North Dakota,Stark County,2020-03-02,10.417,6.596,,4.48
+North Dakota,Stark County,2020-03-03,17.606,7.237,,3.289
+North Dakota,Stark County,2020-03-04,-4.464,10.178,,2.55
+North Dakota,Stark County,2020-03-05,8.803,10.27,,3.313
+North Dakota,Stark County,2020-03-06,13.528,8.496,,-8.456
+North Dakota,Stark County,2020-03-07,15.696,10.202,,-5.841
+North Dakota,Stark County,2020-03-08,4.735,6.467,,1.286
+North Dakota,Stark County,2020-03-09,8.929,8.87,,4.854
+North Dakota,Stark County,2020-03-10,24.941,10.526,,3.289
+North Dakota,Stark County,2020-03-11,19.345,8.879,,4.371
+North Dakota,Stark County,2020-03-12,29.343,15.929,,1.104
+North Dakota,Stark County,2020-03-13,37.879,6.287,,0.769
+North Dakota,Stark County,2020-03-14,45.662,-2.685,,-2.921
+North Dakota,Stark County,2020-03-15,28.409,-8.315,,-2.572
+North Dakota,Stark County,2020-03-16,53.571,0.91,,-7.094
+North Dakota,Stark County,2020-03-17,50.616,,,-11.696
+North Dakota,Stark County,2020-03-18,38.69,-14.293,,-15.297
+North Dakota,Stark County,2020-03-19,36.678,-21.378,,-15.091
+North Dakota,Stark County,2020-03-20,43.29,-30.247,,-23.831
+North Dakota,Stark County,2020-03-21,29.966,-34.901,,-18.497
+North Dakota,Stark County,2020-03-22,7.891,-36.493,,-15.432
+North Dakota,Stark County,2020-03-23,14.881,-26.155,,-21.655
+North Dakota,Stark County,2020-03-24,10.27,-31.36,,-23.392
+North Dakota,Stark County,2020-03-25,7.44,-31.402,,-24.767
+North Dakota,Stark County,2020-03-26,2.934,-31.439,,-24.293
+North Dakota,Stark County,2020-03-27,21.645,-33.986,,-29.597
+North Dakota,Stark County,2020-03-28,14.269,-35.796,,-20.444
+North Dakota,Stark County,2020-03-29,18.939,-30.257,,-10.288
+North Dakota,Stutsman County,2020-02-16,-3.788,10.554,,5.297
+North Dakota,Stutsman County,2020-02-17,-5.388,4.26,,-15.734
+North Dakota,Stutsman County,2020-02-18,-5.04,3.961,,0.534
+North Dakota,Stutsman County,2020-02-19,-3.415,,,0.526
+North Dakota,Stutsman County,2020-02-20,3.531,5.669,,3.778
+North Dakota,Stutsman County,2020-02-21,-8.446,5.671,,3.571
+North Dakota,Stutsman County,2020-02-22,,16.616,,
+North Dakota,Stutsman County,2020-02-23,17.045,33.04,,3.531
+North Dakota,Stutsman County,2020-02-24,-3.592,1.162,,2.713
+North Dakota,Stutsman County,2020-02-25,-16.801,12.278,,2.671
+North Dakota,Stutsman County,2020-02-26,-10.246,7.467,,
+North Dakota,Stutsman County,2020-02-27,,3.189,,1.079
+North Dakota,Stutsman County,2020-02-28,-5.631,6.566,,2.381
+North Dakota,Stutsman County,2020-02-29,26.882,15.337,,7.336
+North Dakota,Stutsman County,2020-03-01,9.47,22.485,,7.062
+North Dakota,Stutsman County,2020-03-02,1.796,5.421,,0.543
+North Dakota,Stutsman County,2020-03-03,-8.401,16.635,,1.068
+North Dakota,Stutsman County,2020-03-04,-5.123,11.574,,0.526
+North Dakota,Stutsman County,2020-03-05,-8.828,9.566,,0.54
+North Dakota,Stutsman County,2020-03-06,-1.408,12.536,,4.762
+North Dakota,Stutsman County,2020-03-07,10.081,23.326,,-1.467
+North Dakota,Stutsman County,2020-03-08,-3.788,32.81,,3.531
+North Dakota,Stutsman County,2020-03-09,7.184,8.132,,1.085
+North Dakota,Stutsman County,2020-03-10,-1.68,17.427,,0.534
+North Dakota,Stutsman County,2020-03-11,13.661,8.961,,-1.578
+North Dakota,Stutsman County,2020-03-12,21.186,15.944,,-12.953
+North Dakota,Stutsman County,2020-03-13,5.631,6.566,,-11.905
+North Dakota,Stutsman County,2020-03-14,11.761,3.515,,5.869
+North Dakota,Stutsman County,2020-03-15,17.045,4.589,,3.531
+North Dakota,Stutsman County,2020-03-16,16.164,2.323,,-17.904
+North Dakota,Stutsman County,2020-03-17,13.441,-4.357,,-13.355
+North Dakota,Stutsman County,2020-03-18,20.492,-14.561,,-15.257
+North Dakota,Stutsman County,2020-03-19,22.952,-30.471,,-18.351
+North Dakota,Stutsman County,2020-03-20,8.446,-29.549,,-19.643
+North Dakota,Stutsman County,2020-03-21,3.36,-42.817,,-22.007
+North Dakota,Stutsman County,2020-03-22,-18.939,-35.793,,-14.124
+North Dakota,Stutsman County,2020-03-23,-7.184,-39.498,,-23.329
+North Dakota,Stutsman County,2020-03-24,-30.242,-33.666,,-26.175
+North Dakota,Stutsman County,2020-03-25,-10.246,-33.976,,-28.409
+North Dakota,Stutsman County,2020-03-26,-15.89,-35.077,,-28.605
+North Dakota,Stutsman County,2020-03-27,-15.484,-34.324,,-26.19
+North Dakota,Stutsman County,2020-03-28,-1.68,-33.87,,-14.671
+North Dakota,Stutsman County,2020-03-29,-15.152,-26.156,,-15.89
+North Dakota,Ward County,2020-02-16,1.722,13.052,16.667,4.529
+North Dakota,Ward County,2020-02-17,1.596,7.298,-1.145,-32.46
+North Dakota,Ward County,2020-02-18,-4.152,-2.26,,1.986
+North Dakota,Ward County,2020-02-19,-3.008,1.294,6.72,3.08
+North Dakota,Ward County,2020-02-20,,3.125,-3.157,4.34
+North Dakota,Ward County,2020-02-21,-3.024,7.504,,1.328
+North Dakota,Ward County,2020-02-22,8.094,12.234,3.324,5.208
+North Dakota,Ward County,2020-02-23,11.191,14.652,18.056,3.397
+North Dakota,Ward County,2020-02-24,-7.583,3.317,1.145,3.484
+North Dakota,Ward County,2020-02-25,-1.51,2.798,6.2,3.069
+North Dakota,Ward County,2020-02-26,-3.008,8.842,3.36,4.71
+North Dakota,Ward County,2020-02-27,4.496,15.208,3.157,5.425
+North Dakota,Ward County,2020-02-28,2.016,21.53,13.587,5.313
+North Dakota,Ward County,2020-02-29,16.892,27.166,15.514,7.576
+North Dakota,Ward County,2020-03-01,13.344,16.745,19.444,6.793
+North Dakota,Ward County,2020-03-02,0.399,7.851,3.434,4.952
+North Dakota,Ward County,2020-03-03,0.755,7.317,7.44,4.513
+North Dakota,Ward County,2020-03-04,2.256,9.166,6.72,5.616
+North Dakota,Ward County,2020-03-05,6.37,7.396,7.365,5.245
+North Dakota,Ward County,2020-03-06,1.68,14.205,6.793,2.087
+North Dakota,Ward County,2020-03-07,9.15,31.124,8.865,5.208
+North Dakota,Ward County,2020-03-08,11.191,19.331,22.222,6.227
+North Dakota,Ward County,2020-03-09,-1.596,6.303,-1.145,3.668
+North Dakota,Ward County,2020-03-10,7.171,6.026,8.681,3.611
+North Dakota,Ward County,2020-03-11,10.153,9.813,12.321,4.167
+North Dakota,Ward County,2020-03-12,25.854,8.229,-6.313,-5.787
+North Dakota,Ward County,2020-03-13,19.489,6.968,10.19,-12.902
+North Dakota,Ward County,2020-03-14,17.244,4.048,-14.406,4.261
+North Dakota,Ward County,2020-03-15,9.9,-12.067,,3.397
+North Dakota,Ward County,2020-03-16,28.736,-5.971,-14.881,-8.619
+North Dakota,Ward County,2020-03-17,22.645,-13.021,,-9.568
+North Dakota,Ward County,2020-03-18,22.563,-18.655,-10.081,-11.594
+North Dakota,Ward County,2020-03-19,20.983,-26.771,-23.148,-19.17
+North Dakota,Ward County,2020-03-20,17.809,-36.092,-27.174,-22.389
+North Dakota,Ward County,2020-03-21,-3.167,-47.046,-45.434,-17.519
+North Dakota,Ward County,2020-03-22,-10.761,-45.558,-30.556,-19.814
+North Dakota,Ward County,2020-03-23,-6.386,-37.044,-38.919,-26.775
+North Dakota,Ward County,2020-03-24,-8.681,-35.296,-29.762,-26.719
+North Dakota,Ward County,2020-03-25,-9.401,-35.585,-32.482,-26.63
+North Dakota,Ward County,2020-03-26,-5.621,-34.062,-37.879,-28.031
+North Dakota,Ward County,2020-03-27,-3.36,-34.484,-36.232,-29.599
+North Dakota,Ward County,2020-03-28,-9.854,-42.008,-52.083,-25.095
+North Dakota,Ward County,2020-03-29,-12.052,-39.278,-36.111,-24.343
+North Dakota,Williams County,2020-02-16,-2.516,8.88,-7.022,0.659
+North Dakota,Williams County,2020-02-17,-4.509,3.643,-8.401,-14.881
+North Dakota,Williams County,2020-02-18,2.648,-5.208,,3.327
+North Dakota,Williams County,2020-02-19,0.441,-1.377,6.775,1.761
+North Dakota,Williams County,2020-02-20,1.766,2.6,-6.41,2.013
+North Dakota,Williams County,2020-02-21,0.407,4.167,0.807,4.495
+North Dakota,Williams County,2020-02-22,2.765,4.973,2.083,5.906
+North Dakota,Williams County,2020-02-23,2.013,11.954,-10.534,1.978
+North Dakota,Williams County,2020-02-24,-0.902,0.166,-7.56,7.972
+North Dakota,Williams County,2020-02-25,-0.441,-0.153,-13.441,5.375
+North Dakota,Williams County,2020-02-26,,4.283,-5.081,2.264
+North Dakota,Williams County,2020-02-27,-2.648,5.813,-12.019,2.768
+North Dakota,Williams County,2020-02-28,-0.814,8.333,-4.845,7.403
+North Dakota,Williams County,2020-02-29,3.226,8.899,1.042,7.517
+North Dakota,Williams County,2020-03-01,1.51,11.441,-7.022,4.615
+North Dakota,Williams County,2020-03-02,1.804,8.115,-6.72,10.895
+North Dakota,Williams County,2020-03-03,2.207,1.685,-5.04,4.863
+North Dakota,Williams County,2020-03-04,-2.648,4.13,-2.541,4.277
+North Dakota,Williams County,2020-03-05,2.207,7.648,-12.821,5.032
+North Dakota,Williams County,2020-03-06,-1.221,5.914,-19.38,5.023
+North Dakota,Williams County,2020-03-07,1.844,6.02,-6.25,4.296
+North Dakota,Williams County,2020-03-08,-1.006,4.44,-9.363,1.319
+North Dakota,Williams County,2020-03-09,-1.353,3.478,-7.56,8.238
+North Dakota,Williams County,2020-03-10,2.207,4.749,-1.68,4.095
+North Dakota,Williams County,2020-03-11,2.648,4.283,5.081,3.523
+North Dakota,Williams County,2020-03-12,12.359,5.965,-12.821,3.774
+North Dakota,Williams County,2020-03-13,17.497,8.468,-2.422,3.966
+North Dakota,Williams County,2020-03-14,17.054,-4.973,-6.25,1.074
+North Dakota,Williams County,2020-03-15,4.529,-11.954,-12.875,-4.615
+North Dakota,Williams County,2020-03-16,17.136,-2.484,-7.56,-10.364
+North Dakota,Williams County,2020-03-17,6.621,-8.732,-13.441,-12.797
+North Dakota,Williams County,2020-03-18,6.621,-16.673,-16.938,-15.6
+North Dakota,Williams County,2020-03-19,10.152,-20.497,-25.641,-18.619
+North Dakota,Williams County,2020-03-20,8.952,-26.882,-20.995,-19.829
+North Dakota,Williams County,2020-03-21,2.305,-42.399,-17.708,-16.108
+North Dakota,Williams County,2020-03-22,-4.529,-37.056,-17.556,-15.164
+North Dakota,Williams County,2020-03-23,-7.666,-28.319,-19.321,-16.21
+North Dakota,Williams County,2020-03-24,-6.621,-33.088,-18.481,-19.963
+North Dakota,Williams County,2020-03-25,-18.097,-35.946,-21.172,-21.89
+North Dakota,Williams County,2020-03-26,-11.035,-31.51,-20.032,-21.638
+North Dakota,Williams County,2020-03-27,-4.476,-28.226,-23.417,-20.093
+North Dakota,Williams County,2020-03-28,-8.296,-37.688,-19.792,-18.793
+North Dakota,Williams County,2020-03-29,-6.542,-31.592,-25.749,-21.756

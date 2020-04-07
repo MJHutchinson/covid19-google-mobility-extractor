@@ -1,0 +1,387 @@
+state,county,date,grocery/pharmacy,parks,residential,retail/recreation,transitstations,workplace
+Nevada,Carson City,2020-02-16,5.208,,,10.753,,4.289
+Nevada,Carson City,2020-02-17,0.609,,,3.776,,-41.145
+Nevada,Carson City,2020-02-18,7.485,,,3.188,,-0.569
+Nevada,Carson City,2020-02-19,3.815,,,-0.181,,0.566
+Nevada,Carson City,2020-02-20,3.676,,,1.874,,0.565
+Nevada,Carson City,2020-02-21,9.16,,,2.198,,3.691
+Nevada,Carson City,2020-02-22,7.003,,,-0.148,,1.44
+Nevada,Carson City,2020-02-23,10.417,,,5.856,,0.613
+Nevada,Carson City,2020-02-24,2.741,,,-2.855,,2.609
+Nevada,Carson City,2020-02-25,7.485,,,3.75,,-1.897
+Nevada,Carson City,2020-02-26,11.444,,,7.234,,2.076
+Nevada,Carson City,2020-02-27,10.723,,,7.052,,1.695
+Nevada,Carson City,2020-02-28,7.852,,,0.586,,4.306
+Nevada,Carson City,2020-02-29,16.048,,,3.116,,-0.96
+Nevada,Carson City,2020-03-01,3.581,,,-5.76,,0.613
+Nevada,Carson City,2020-03-02,14.924,,,5.618,,4.014
+Nevada,Carson City,2020-03-03,16.218,,,9.376,,2.656
+Nevada,Carson City,2020-03-04,8.509,,,6.239,,1.698
+Nevada,Carson City,2020-03-05,18.689,,,9.729,,1.319
+Nevada,Carson City,2020-03-06,15.18,,,0.147,,5.536
+Nevada,Carson City,2020-03-07,15.465,,,1.335,,3.36
+Nevada,Carson City,2020-03-08,14.648,,,8.161,,2.451
+Nevada,Carson City,2020-03-09,14.924,,,-0.737,,1.806
+Nevada,Carson City,2020-03-10,15.594,,,5.719,,1.518
+Nevada,Carson City,2020-03-11,13.204,,,4.612,,-1.132
+Nevada,Carson City,2020-03-12,27.88,,,9.462,,-0.942
+Nevada,Carson City,2020-03-13,33.763,,,2.124,,-7.792
+Nevada,Carson City,2020-03-14,30.345,,,-10.684,,-4.8
+Nevada,Carson City,2020-03-15,28.32,,,-10.081,,-3.064
+Nevada,Carson City,2020-03-16,42.337,,,-7.644,,-17.662
+Nevada,Carson City,2020-03-17,33.683,,,-14.251,,-20.871
+Nevada,Carson City,2020-03-18,20.54,,,-24.595,,-26.23
+Nevada,Carson City,2020-03-19,11.642,,,-30.973,,-35.978
+Nevada,Carson City,2020-03-20,9.684,,,-32.964,,-34.449
+Nevada,Carson City,2020-03-21,-0.875,,,-42.661,,-33.602
+Nevada,Carson City,2020-03-22,-11.068,,,-38.402,,-33.701
+Nevada,Carson City,2020-03-23,-12.792,,,-38.314,,-36.729
+Nevada,Carson City,2020-03-24,-7.485,,,-36.566,,-41.743
+Nevada,Carson City,2020-03-25,-14.671,,,-38.61,,-42.459
+Nevada,Carson City,2020-03-26,-9.498,,,-37.4,,-42.759
+Nevada,Carson City,2020-03-27,-7.59,,,-39.63,,-41.831
+Nevada,Carson City,2020-03-28,-5.544,,,-44.664,,-38.402
+Nevada,Carson City,2020-03-29,-13.672,,,-37.922,,-36.765
+Nevada,Churchill County,2020-02-16,2.717,,,4.557,,-4.63
+Nevada,Churchill County,2020-02-17,-3.444,,,7.173,,-39.815
+Nevada,Churchill County,2020-02-18,1.736,,,8.438,,-0.443
+Nevada,Churchill County,2020-02-19,4.101,,,7.254,,2.179
+Nevada,Churchill County,2020-02-20,6.51,,,12.952,,1.743
+Nevada,Churchill County,2020-02-21,4.139,,,15.177,,
+Nevada,Churchill County,2020-02-22,3.887,,,9.561,,-0.965
+Nevada,Churchill County,2020-02-23,10.87,,,25.065,,3.472
+Nevada,Churchill County,2020-02-24,7.748,,,26.821,,2.778
+Nevada,Churchill County,2020-02-25,,,,13.094,,0.887
+Nevada,Churchill County,2020-02-26,8.202,,,22.922,,2.179
+Nevada,Churchill County,2020-02-27,12.207,,,20.668,,2.179
+Nevada,Churchill County,2020-02-28,13.107,,,22.075,,-0.914
+Nevada,Churchill County,2020-02-29,12.438,,,22.142,,-1.929
+Nevada,Churchill County,2020-03-01,1.812,,,21.81,,-2.315
+Nevada,Churchill County,2020-03-02,14.635,,,32.123,,3.704
+Nevada,Churchill County,2020-03-03,21.701,,,25.023,,2.216
+Nevada,Churchill County,2020-03-04,4.921,,,20.601,,1.743
+Nevada,Churchill County,2020-03-05,8.138,,,20.944,,2.179
+Nevada,Churchill County,2020-03-06,11.727,,,20.925,,0.914
+Nevada,Churchill County,2020-03-07,13.215,,,18.871,,-0.965
+Nevada,Churchill County,2020-03-08,11.775,,,24.089,,4.63
+Nevada,Churchill County,2020-03-09,14.635,,,29.316,,3.241
+Nevada,Churchill County,2020-03-10,17.361,,,16.585,,3.103
+Nevada,Churchill County,2020-03-11,10.663,,,17.119,,0.872
+Nevada,Churchill County,2020-03-12,24.414,,,21.219,,0.872
+Nevada,Churchill County,2020-03-13,26.904,,,21.155,,0.914
+Nevada,Churchill County,2020-03-14,34.981,,,17.11,,-0.965
+Nevada,Churchill County,2020-03-15,31.703,,,12.044,,
+Nevada,Churchill County,2020-03-16,37.879,,,15.594,,-13.426
+Nevada,Churchill County,2020-03-17,34.722,,,3.201,,-17.73
+Nevada,Churchill County,2020-03-18,23.786,,,-11.316,,-20.049
+Nevada,Churchill County,2020-03-19,12.207,,,-21.219,,-27.458
+Nevada,Churchill County,2020-03-20,15.866,,,-21.155,,-27.869
+Nevada,Churchill County,2020-03-21,19.434,,,-20.129,,-27.971
+Nevada,Churchill County,2020-03-22,,,,-17.253,,-23.148
+Nevada,Churchill County,2020-03-23,-2.583,,,-22.143,,-30.093
+Nevada,Churchill County,2020-03-24,6.076,,,-25.023,,-32.358
+Nevada,Churchill County,2020-03-25,-9.843,,,-29.596,,-32.688
+Nevada,Churchill County,2020-03-26,-1.628,,,-25.904,,-34.432
+Nevada,Churchill County,2020-03-27,-4.139,,,-26.444,,-33.352
+Nevada,Churchill County,2020-03-28,,,,-26.167,,-26.042
+Nevada,Churchill County,2020-03-29,-11.775,,,-28.32,,-28.935
+Nevada,Elko County,2020-02-16,16.865,,,4.135,2.657,0.551
+Nevada,Elko County,2020-02-17,15.083,,,2.228,7.659,-31.793
+Nevada,Elko County,2020-02-18,26.402,,,2.367,13.249,1.74
+Nevada,Elko County,2020-02-19,20.015,,,-1.257,9.269,2.722
+Nevada,Elko County,2020-02-20,25.593,,,3.427,14.684,2.222
+Nevada,Elko County,2020-02-21,32.602,,,0.527,12.572,1.349
+Nevada,Elko County,2020-02-22,26.677,,,4.275,27.516,2.457
+Nevada,Elko County,2020-02-23,31.25,,,10.436,21.258,2.756
+Nevada,Elko County,2020-02-24,36.293,,,5.385,15.319,3.619
+Nevada,Elko County,2020-02-25,30.722,,,3.824,4.112,-0.249
+Nevada,Elko County,2020-02-26,27.293,,,7.184,12.8,4.206
+Nevada,Elko County,2020-02-27,33.226,,,10.451,16.061,0.741
+Nevada,Elko County,2020-02-28,33.795,,,-1.185,15.715,0.81
+Nevada,Elko County,2020-02-29,30.064,,,7.98,28.007,7.37
+Nevada,Elko County,2020-03-01,32.738,,,8.467,19.664,3.307
+Nevada,Elko County,2020-03-02,38.65,,,6.87,-0.511,3.877
+Nevada,Elko County,2020-03-03,39.843,,,9.288,2.284,2.237
+Nevada,Elko County,2020-03-04,34.343,,,9.339,17.655,3.217
+Nevada,Elko County,2020-03-05,35.92,,,6.853,17.438,4.196
+Nevada,Elko County,2020-03-06,36.578,,,2.107,15.715,2.429
+Nevada,Elko County,2020-03-07,40.439,,,7.695,24.568,9.827
+Nevada,Elko County,2020-03-08,51.091,,,12.405,26.042,2.756
+Nevada,Elko County,2020-03-09,42.421,,,6.684,18.893,4.394
+Nevada,Elko County,2020-03-10,50.883,,,8.559,20.102,3.729
+Nevada,Elko County,2020-03-11,37.755,,,9.159,15.89,3.217
+Nevada,Elko County,2020-03-12,49.389,,,7.881,26.156,1.728
+Nevada,Elko County,2020-03-13,54.866,,,3.424,17.062,4.048
+Nevada,Elko County,2020-03-14,57.588,,,5.13,11.792,6.879
+Nevada,Elko County,2020-03-15,73.413,,,10.436,19.133,3.858
+Nevada,Elko County,2020-03-16,71.173,,,4.456,2.553,-9.564
+Nevada,Elko County,2020-03-17,61.924,,,-4.917,-0.457,-12.182
+Nevada,Elko County,2020-03-18,54.13,,,-17.241,12.359,-21.031
+Nevada,Elko County,2020-03-19,44.899,,,-25.185,16.979,-27.152
+Nevada,Elko County,2020-03-20,38.168,,,-36.61,-4.041,-33.193
+Nevada,Elko County,2020-03-21,30.488,,,-45.172,13.758,-32.921
+Nevada,Elko County,2020-03-22,16.865,,,-41.549,1.063,-36.376
+Nevada,Elko County,2020-03-23,28.752,,,-31.194,-3.064,-35.153
+Nevada,Elko County,2020-03-24,22.561,,,-35.511,-4.569,-35.054
+Nevada,Elko County,2020-03-25,14.101,,,-34.842,-6.621,-38.104
+Nevada,Elko County,2020-03-26,18.409,,,-36.15,-7.342,-37.767
+Nevada,Elko County,2020-03-27,20.674,,,-45.96,-10.776,-39.13
+Nevada,Elko County,2020-03-28,17.573,,,-44.175,9.336,-34.395
+Nevada,Elko County,2020-03-29,10.417,,,-41.155,-11.692,-36.376
+Nevada,Humboldt County,2020-02-16,32.552,,,1.701,-2.778,5.208
+Nevada,Humboldt County,2020-02-17,30.431,,,8.821,-11.029,-28.549
+Nevada,Humboldt County,2020-02-18,35.485,,,5.764,20.833,5.208
+Nevada,Humboldt County,2020-02-19,33.565,,,5.0,6.649,5.91
+Nevada,Humboldt County,2020-02-20,27.778,,,5.053,17.556,5.135
+Nevada,Humboldt County,2020-02-21,39.191,,,2.885,7.675,-1.59
+Nevada,Humboldt County,2020-02-22,46.165,,,7.038,12.175,2.854
+Nevada,Humboldt County,2020-02-23,40.365,,,6.378,13.889,3.472
+Nevada,Humboldt County,2020-02-24,28.09,,,4.2,1.225,2.315
+Nevada,Humboldt County,2020-02-25,25.183,,,10.705,14.706,5.952
+Nevada,Humboldt County,2020-02-26,40.509,,,22.083,14.406,2.216
+Nevada,Humboldt County,2020-02-27,46.296,,,22.932,23.408,5.135
+Nevada,Humboldt County,2020-02-28,47.442,,,20.833,2.193,1.59
+Nevada,Humboldt County,2020-02-29,42.614,,,32.728,14.881,1.427
+Nevada,Humboldt County,2020-03-01,45.573,,,24.235,27.778,6.944
+Nevada,Humboldt County,2020-03-02,38.624,,,10.921,-2.451,3.858
+Nevada,Humboldt County,2020-03-03,38.919,,,5.764,14.706,2.232
+Nevada,Humboldt County,2020-03-04,43.981,,,16.667,2.216,2.955
+Nevada,Humboldt County,2020-03-05,49.769,,,22.544,23.408,5.135
+Nevada,Humboldt County,2020-03-06,34.035,,,5.769,10.965,-1.59
+Nevada,Humboldt County,2020-03-07,41.43,,,5.631,18.939,-1.427
+Nevada,Humboldt County,2020-03-08,48.177,,,8.503,29.167,12.153
+Nevada,Humboldt County,2020-03-09,46.816,,,7.56,15.931,2.315
+Nevada,Humboldt County,2020-03-10,35.485,,,6.588,22.059,3.72
+Nevada,Humboldt County,2020-03-11,49.769,,,17.083,11.082,4.433
+Nevada,Humboldt County,2020-03-12,53.241,,,12.826,16.386,3.668
+Nevada,Humboldt County,2020-03-13,58.787,,,8.974,12.061,1.59
+Nevada,Humboldt County,2020-03-14,71.023,,,7.742,-1.353,-1.427
+Nevada,Humboldt County,2020-03-15,79.427,,,3.401,2.778,10.417
+Nevada,Humboldt County,2020-03-16,64.373,,,3.78,-12.255,-17.747
+Nevada,Humboldt County,2020-03-17,38.919,,,-9.058,17.157,-14.137
+Nevada,Humboldt County,2020-03-18,65.972,,,-14.583,1.108,-19.947
+Nevada,Humboldt County,2020-03-19,42.824,,,-27.985,7.022,-24.208
+Nevada,Humboldt County,2020-03-20,51.568,,,-28.205,-5.482,-28.626
+Nevada,Humboldt County,2020-03-21,39.062,,,-40.47,14.881,-17.123
+Nevada,Humboldt County,2020-03-22,28.646,,,-32.738,-6.944,-8.681
+Nevada,Humboldt County,2020-03-23,19.897,,,-33.182,-3.676,-27.006
+Nevada,Humboldt County,2020-03-24,21.749,,,-30.056,12.255,-28.274
+Nevada,Humboldt County,2020-03-25,21.991,,,-32.5,-3.324,-28.073
+Nevada,Humboldt County,2020-03-26,25.463,,,-34.981,-36.283,-30.81
+Nevada,Humboldt County,2020-03-27,16.502,,,-41.346,-41.667,-34.192
+Nevada,Humboldt County,2020-03-28,22.491,,,-46.805,-41.937,-25.685
+Nevada,Humboldt County,2020-03-29,-1.302,,,-47.619,-41.667,-20.833
+Nevada,Lyon County,2020-02-16,9.632,,,7.348,8.785,0.545
+Nevada,Lyon County,2020-02-17,12.879,,,5.811,-8.275,-34.207
+Nevada,Lyon County,2020-02-18,6.696,,,-0.626,15.676,2.751
+Nevada,Lyon County,2020-02-19,7.209,,,4.093,8.161,1.603
+Nevada,Lyon County,2020-02-20,12.213,,,5.514,7.44,3.227
+Nevada,Lyon County,2020-02-21,9.747,,,7.652,2.765,4.364
+Nevada,Lyon County,2020-02-22,5.334,,,6.456,11.698,4.696
+Nevada,Lyon County,2020-02-23,14.269,,,9.509,17.57,4.908
+Nevada,Lyon County,2020-02-24,19.318,,,5.165,3.894,4.638
+Nevada,Lyon County,2020-02-25,10.417,,,6.263,10.619,4.035
+Nevada,Lyon County,2020-02-26,13.697,,,9.823,6.24,3.383
+Nevada,Lyon County,2020-02-27,14.368,,,8.664,9.766,3.048
+Nevada,Lyon County,2020-02-28,16.143,,,14.434,7.375,3.605
+Nevada,Lyon County,2020-02-29,15.688,,,14.308,12.812,3.415
+Nevada,Lyon County,2020-03-01,12.842,,,6.267,19.453,-1.091
+Nevada,Lyon County,2020-03-02,23.864,,,11.191,-1.46,5.218
+Nevada,Lyon County,2020-03-03,20.461,,,12.943,1.517,4.218
+Nevada,Lyon County,2020-03-04,13.336,,,12.484,8.161,3.027
+Nevada,Lyon County,2020-03-05,17.241,,,10.436,8.836,3.765
+Nevada,Lyon County,2020-03-06,8.833,,,10.26,5.531,4.174
+Nevada,Lyon County,2020-03-07,13.178,,,8.201,8.356,4.269
+Nevada,Lyon County,2020-03-08,18.193,,,13.615,20.08,5.454
+Nevada,Lyon County,2020-03-09,21.212,,,5.596,10.222,4.445
+Nevada,Lyon County,2020-03-10,21.205,,,12.108,16.687,3.668
+Nevada,Lyon County,2020-03-11,12.976,,,6.958,11.041,3.561
+Nevada,Lyon County,2020-03-12,23.348,,,9.058,4.185,1.614
+Nevada,Lyon County,2020-03-13,30.763,,,15.477,4.148,1.138
+Nevada,Lyon County,2020-03-14,30.748,,,6.979,-5.57,-0.854
+Nevada,Lyon County,2020-03-15,36.744,,,15.344,5.02,
+Nevada,Lyon County,2020-03-16,47.348,,,3.874,-3.407,-17.393
+Nevada,Lyon County,2020-03-17,25.298,,,-3.549,-2.528,-17.606
+Nevada,Lyon County,2020-03-18,28.114,,,-10.642,-4.8,-22.258
+Nevada,Lyon County,2020-03-19,10.776,,,-18.707,-7.44,-28.865
+Nevada,Lyon County,2020-03-20,12.792,,,-15.999,-19.819,-30.358
+Nevada,Lyon County,2020-03-21,,,,-22.334,-14.483,-21.346
+Nevada,Lyon County,2020-03-22,-2.14,,,-13.399,-8.785,-21.815
+Nevada,Lyon County,2020-03-23,2.273,,,-19.8,-18.497,-30.342
+Nevada,Lyon County,2020-03-24,-3.348,,,-23.38,-16.181,-34.844
+Nevada,Lyon County,2020-03-25,-7.93,,,-28.037,-12.961,-34.366
+Nevada,Lyon County,2020-03-26,-7.543,,,-25.796,-16.276,-35.678
+Nevada,Lyon County,2020-03-27,-10.66,,,-18.607,-17.054,-36.43
+Nevada,Lyon County,2020-03-28,-11.295,,,-21.636,-17.825,-29.03
+Nevada,Lyon County,2020-03-29,-4.994,,,-14.48,-10.04,-27.814
+Nevada,Nye County,2020-02-16,5.401,,,13.938,,-4.711
+Nevada,Nye County,2020-02-17,2.595,,,7.059,,-25.0
+Nevada,Nye County,2020-02-18,-1.73,,,8.957,,1.315
+Nevada,Nye County,2020-02-19,1.447,,,5.093,,4.723
+Nevada,Nye County,2020-02-20,3.555,,,6.923,,3.149
+Nevada,Nye County,2020-02-21,-3.948,,,8.717,,
+Nevada,Nye County,2020-02-22,-9.56,,,2.028,,-1.414
+Nevada,Nye County,2020-02-23,5.787,,,13.938,,-2.094
+Nevada,Nye County,2020-02-24,2.595,,,3.099,,6.111
+Nevada,Nye County,2020-02-25,-4.153,,,2.488,,-2.104
+Nevada,Nye County,2020-02-26,6.872,,,15.116,,5.248
+Nevada,Nye County,2020-02-27,3.555,,,11.431,,4.461
+Nevada,Nye County,2020-02-28,2.126,,,9.443,,1.934
+Nevada,Nye County,2020-02-29,1.648,,,7.968,,6.127
+Nevada,Nye County,2020-03-01,6.944,,,13.204,,-2.094
+Nevada,Nye County,2020-03-02,9.267,,,12.397,,5.833
+Nevada,Nye County,2020-03-03,4.499,,,17.914,,3.157
+Nevada,Nye County,2020-03-04,13.383,,,14.623,,6.56
+Nevada,Nye County,2020-03-05,7.11,,,14.973,,3.149
+Nevada,Nye County,2020-03-06,-0.304,,,11.187,,0.276
+Nevada,Nye County,2020-03-07,-6.263,,,7.968,,0.943
+Nevada,Nye County,2020-03-08,6.559,,,11.004,,-1.57
+Nevada,Nye County,2020-03-09,10.38,,,8.781,,-7.222
+Nevada,Nye County,2020-03-10,-0.346,,,5.971,,-12.1
+Nevada,Nye County,2020-03-11,10.489,,,6.079,,-11.02
+Nevada,Nye County,2020-03-12,8.888,,,5.152,,-11.807
+Nevada,Nye County,2020-03-13,6.074,,,2.324,,-16.026
+Nevada,Nye County,2020-03-14,21.097,,,3.477,,-3.771
+Nevada,Nye County,2020-03-15,30.864,,,15.588,,-3.664
+Nevada,Nye County,2020-03-16,37.07,,,11.708,,-11.389
+Nevada,Nye County,2020-03-17,18.342,,,-1.327,,-17.098
+Nevada,Nye County,2020-03-18,28.573,,,-13.473,,-23.615
+Nevada,Nye County,2020-03-19,9.243,,,-24.472,,-33.585
+Nevada,Nye County,2020-03-20,8.503,,,-23.826,,-36.748
+Nevada,Nye County,2020-03-21,-1.648,,,-30.424,,-34.408
+Nevada,Nye County,2020-03-22,-6.944,,,-26.592,,-39.782
+Nevada,Nye County,2020-03-23,-1.483,,,-30.992,,-40.0
+Nevada,Nye County,2020-03-24,-12.805,,,-30.188,,-43.666
+Nevada,Nye County,2020-03-25,-3.255,,,-32.039,,-41.457
+Nevada,Nye County,2020-03-26,-11.732,,,-29.302,,-41.982
+Nevada,Nye County,2020-03-27,-14.881,,,-31.09,,-41.446
+Nevada,Nye County,2020-03-28,-19.449,,,-33.901,,-37.236
+Nevada,Nye County,2020-03-29,-15.432,,,-26.775,,-41.876
+Nevada,Overall,2020-02-16,3.465,35.915,-0.579,6.22,0.846,-0.474
+Nevada,Overall,2020-02-17,0.329,31.02,5.793,4.905,-2.086,-28.387
+Nevada,Overall,2020-02-18,1.366,6.164,-0.081,2.116,4.247,0.715
+Nevada,Overall,2020-02-19,1.23,11.427,0.129,0.932,7.536,1.129
+Nevada,Overall,2020-02-20,0.771,7.63,-0.313,3.513,3.587,0.651
+Nevada,Overall,2020-02-21,1.875,13.499,-0.193,2.408,1.63,1.353
+Nevada,Overall,2020-02-22,-2.898,-12.499,1.009,-0.338,-1.504,-2.332
+Nevada,Overall,2020-02-23,4.318,26.927,-0.555,4.88,5.074,-0.327
+Nevada,Overall,2020-02-24,2.62,13.688,-0.279,3.344,3.704,2.56
+Nevada,Overall,2020-02-25,2.705,6.465,0.605,4.878,2.036,-2.075
+Nevada,Overall,2020-02-26,6.15,12.447,-1.157,8.739,5.684,1.53
+Nevada,Overall,2020-02-27,5.097,11.627,-0.94,7.957,4.529,1.133
+Nevada,Overall,2020-02-28,3.824,11.763,-0.923,5.741,2.467,1.615
+Nevada,Overall,2020-02-29,6.071,4.102,-1.087,6.921,4.001,-0.203
+Nevada,Overall,2020-03-01,3.782,2.515,-0.061,6.575,0.487,-1.096
+Nevada,Overall,2020-03-02,6.845,0.889,-0.309,6.124,-1.43,2.646
+Nevada,Overall,2020-03-03,11.181,9.138,-0.875,8.52,-0.679,1.635
+Nevada,Overall,2020-03-04,9.398,13.933,-0.76,6.61,3.628,1.462
+Nevada,Overall,2020-03-05,10.058,13.444,-0.789,6.014,0.575,1.194
+Nevada,Overall,2020-03-06,7.234,14.172,-0.323,2.58,-1.909,1.807
+Nevada,Overall,2020-03-07,4.892,0.027,-0.156,1.706,-0.153,-0.258
+Nevada,Overall,2020-03-08,6.766,21.601,-0.215,3.823,0.461,0.229
+Nevada,Overall,2020-03-09,7.86,15.199,1.352,4.286,-0.469,-6.989
+Nevada,Overall,2020-03-10,6.636,-4.526,1.067,1.823,-6.333,-0.831
+Nevada,Overall,2020-03-11,10.78,10.917,0.523,5.129,-0.787,-0.374
+Nevada,Overall,2020-03-12,13.006,-3.27,1.108,2.285,-8.346,-1.486
+Nevada,Overall,2020-03-13,23.759,-7.724,2.613,1.01,-11.089,-3.705
+Nevada,Overall,2020-03-14,22.366,-19.308,3.168,-5.585,-9.302,-5.342
+Nevada,Overall,2020-03-15,21.246,-1.516,3.198,-6.284,-16.76,-7.41
+Nevada,Overall,2020-03-16,27.819,-14.088,6.943,-4.531,-19.223,-20.485
+Nevada,Overall,2020-03-17,21.177,-25.301,9.406,-11.517,-22.795,-26.019
+Nevada,Overall,2020-03-18,11.899,-36.448,14.29,-26.673,-28.901,-35.653
+Nevada,Overall,2020-03-19,-1.514,-39.081,17.311,-35.599,-44.602,-42.922
+Nevada,Overall,2020-03-20,-3.191,-42.268,19.527,-37.602,-49.526,-44.838
+Nevada,Overall,2020-03-21,-12.556,-41.051,15.126,-46.238,-48.037,-46.192
+Nevada,Overall,2020-03-22,-18.977,-23.709,12.86,-46.43,-56.969,-48.582
+Nevada,Overall,2020-03-23,-15.885,-36.797,18.364,-41.082,-54.247,-47.65
+Nevada,Overall,2020-03-24,-14.29,-35.99,19.346,-39.825,-50.867,-49.956
+Nevada,Overall,2020-03-25,-14.635,-41.8,20.061,-40.952,-50.697,-50.569
+Nevada,Overall,2020-03-26,-16.075,-42.674,20.539,-41.655,-55.615,-51.518
+Nevada,Overall,2020-03-27,-16.817,-43.614,22.235,-42.911,-57.334,-51.625
+Nevada,Overall,2020-03-28,-19.217,-49.557,16.254,-47.093,-54.407,-50.191
+Nevada,Overall,2020-03-29,-23.089,-37.579,14.145,-46.773,-61.864,-52.164
+Nevada,Washoe County,2020-02-16,2.933,39.748,-1.051,13.275,-4.036,-1.384
+Nevada,Washoe County,2020-02-17,2.937,57.462,6.94,11.711,-8.22,-33.021
+Nevada,Washoe County,2020-02-18,0.898,17.275,-0.631,3.237,6.664,0.494
+Nevada,Washoe County,2020-02-19,-0.167,18.635,0.155,1.084,0.864,1.287
+Nevada,Washoe County,2020-02-20,2.716,14.78,-0.718,3.925,0.811,0.559
+Nevada,Washoe County,2020-02-21,9.916,19.851,-0.517,1.74,1.625,3.107
+Nevada,Washoe County,2020-02-22,7.595,40.733,-1.129,1.994,4.496,0.506
+Nevada,Washoe County,2020-02-23,10.753,48.363,-0.971,4.678,2.883,-0.692
+Nevada,Washoe County,2020-02-24,8.05,29.387,-0.546,2.928,2.371,2.997
+Nevada,Washoe County,2020-02-25,9.939,35.324,-0.178,4.155,-1.052,-1.105
+Nevada,Washoe County,2020-02-26,12.075,32.731,-1.178,6.841,4.491,1.779
+Nevada,Washoe County,2020-02-27,15.522,39.884,-1.49,8.747,3.732,1.421
+Nevada,Washoe County,2020-02-28,13.416,14.53,-1.057,5.365,2.512,2.688
+Nevada,Washoe County,2020-02-29,14.672,11.753,-1.022,8.454,-0.562,0.281
+Nevada,Washoe County,2020-03-01,6.897,-19.384,1.289,-0.927,-3.075,-4.291
+Nevada,Washoe County,2020-03-02,13.708,16.268,-0.427,6.328,-0.632,3.295
+Nevada,Washoe County,2020-03-03,17.689,33.003,-1.168,7.076,-2.104,2.139
+Nevada,Washoe County,2020-03-04,14.468,40.377,-0.723,5.713,1.382,2.551
+Nevada,Washoe County,2020-03-05,17.186,38.476,-1.176,7.371,1.136,1.607
+Nevada,Washoe County,2020-03-06,15.068,16.781,-0.316,2.332,-2.216,3.058
+Nevada,Washoe County,2020-03-07,5.944,-7.728,0.782,-1.711,0.562,1.236
+Nevada,Washoe County,2020-03-08,11.731,23.496,0.093,2.739,-2.691,1.038
+Nevada,Washoe County,2020-03-09,11.151,29.649,0.08,3.736,-2.213,3.419
+Nevada,Washoe County,2020-03-10,15.386,45.637,-0.404,4.155,-4.559,0.987
+Nevada,Washoe County,2020-03-11,15.247,39.421,-0.168,3.882,-1.9,1.545
+Nevada,Washoe County,2020-03-12,23.893,39.414,-0.518,6.734,-1.46,
+Nevada,Washoe County,2020-03-13,27.901,26.604,0.529,1.776,-4.137,-0.69
+Nevada,Washoe County,2020-03-14,11.653,-25.116,4.558,-15.027,-16.112,-7.079
+Nevada,Washoe County,2020-03-15,7.169,-15.664,4.705,-18.038,-23.639,-10.936
+Nevada,Washoe County,2020-03-16,24.423,10.758,7.838,-4.758,-20.707,-21.576
+Nevada,Washoe County,2020-03-17,14.6,,10.891,-20.776,-28.935,-27.851
+Nevada,Washoe County,2020-03-18,7.178,-12.662,14.048,-32.198,-36.45,-31.695
+Nevada,Washoe County,2020-03-19,2.938,5.161,15.954,-34.104,-46.567,-37.307
+Nevada,Washoe County,2020-03-20,3.937,7.367,17.714,-35.939,-49.498,-38.347
+Nevada,Washoe County,2020-03-21,-11.983,2.576,13.069,-47.958,-48.336,-36.913
+Nevada,Washoe County,2020-03-22,-16.184,39.356,10.329,-44.631,-56.119,-39.037
+Nevada,Washoe County,2020-03-23,-12.783,9.971,16.86,-37.147,-55.008,-40.849
+Nevada,Washoe County,2020-03-24,-12.017,-1.031,18.245,-37.337,-55.415,-43.74
+Nevada,Washoe County,2020-03-25,-12.743,-2.867,18.962,-39.185,-55.97,-44.499
+Nevada,Washoe County,2020-03-26,-11.974,-5.865,19.405,-39.477,-60.034,-44.992
+Nevada,Washoe County,2020-03-27,-10.548,15.553,20.625,-40.035,-59.693,-44.808
+Nevada,Washoe County,2020-03-28,-19.626,-10.787,14.793,-48.616,-58.828,-42.139
+Nevada,Washoe County,2020-03-29,-22.104,5.874,12.223,-45.656,-66.498,-43.674
+Nevada,White Pine County,2020-02-16,3.931,,,,,
+Nevada,White Pine County,2020-02-17,11.574,,,,,
+Nevada,White Pine County,2020-02-18,-1.894,,,,,
+Nevada,White Pine County,2020-02-19,11.574,,,,,
+Nevada,White Pine County,2020-02-20,-5.58,,,,,
+Nevada,White Pine County,2020-02-21,3.36,,,,,
+Nevada,White Pine County,2020-02-22,3.655,,,,,
+Nevada,White Pine County,2020-02-23,-1.965,,,,,
+Nevada,White Pine County,2020-02-24,9.645,,,,,
+Nevada,White Pine County,2020-02-25,-7.576,,,,,
+Nevada,White Pine County,2020-02-26,9.645,,,,,
+Nevada,White Pine County,2020-02-27,-3.72,,,,,
+Nevada,White Pine County,2020-02-28,3.36,,,,,
+Nevada,White Pine County,2020-02-29,12.792,,,,,
+Nevada,White Pine County,2020-03-01,-15.723,,,,,
+Nevada,White Pine County,2020-03-02,17.361,,,,,
+Nevada,White Pine County,2020-03-03,9.47,,,,,
+Nevada,White Pine County,2020-03-04,15.432,,,,,
+Nevada,White Pine County,2020-03-05,5.58,,,,,
+Nevada,White Pine County,2020-03-06,21.841,,,,,
+Nevada,White Pine County,2020-03-07,12.792,,,,,
+Nevada,White Pine County,2020-03-08,9.827,,,,,
+Nevada,White Pine County,2020-03-09,11.574,,,,,
+Nevada,White Pine County,2020-03-10,3.788,,,,,
+Nevada,White Pine County,2020-03-11,11.574,,,,,
+Nevada,White Pine County,2020-03-12,26.042,,,,,
+Nevada,White Pine County,2020-03-13,20.161,,,,,
+Nevada,White Pine County,2020-03-14,31.067,,,,,
+Nevada,White Pine County,2020-03-15,29.481,,,,,
+Nevada,White Pine County,2020-03-16,38.58,,,,,
+Nevada,White Pine County,2020-03-17,41.667,,,,,
+Nevada,White Pine County,2020-03-18,28.935,,,,,
+Nevada,White Pine County,2020-03-19,13.021,,,,,
+Nevada,White Pine County,2020-03-20,18.481,,,,,
+Nevada,White Pine County,2020-03-21,16.447,,,,,
+Nevada,White Pine County,2020-03-23,9.645,,,,,
+Nevada,White Pine County,2020-03-24,3.788,,,,,
+Nevada,White Pine County,2020-03-25,3.858,,,,,
+Nevada,White Pine County,2020-03-26,-9.301,,,,,
+Nevada,White Pine County,2020-03-27,5.04,,,,,
+Nevada,White Pine County,2020-03-28,5.482,,,,,
+Nevada,White Pine County,2020-03-29,-3.931,,,,,

@@ -1,0 +1,726 @@
+state,county,date,grocery/pharmacy,parks,residential,retail/recreation,transitstations,workplace
+Montana,Broadwater County,2020-02-16,11.393,,,,,
+Montana,Broadwater County,2020-02-17,21.841,,,,,
+Montana,Broadwater County,2020-02-18,-2.976,,,,,
+Montana,Broadwater County,2020-02-19,4.401,,,,,
+Montana,Broadwater County,2020-02-20,2.854,,,,,
+Montana,Broadwater County,2020-02-22,19.444,,,,,
+Montana,Broadwater County,2020-02-23,6.51,,,,,
+Montana,Broadwater County,2020-02-24,6.72,,,,,
+Montana,Broadwater County,2020-02-25,-1.488,,,,,
+Montana,Broadwater County,2020-02-26,-4.401,,,,,
+Montana,Broadwater County,2020-02-27,11.416,,,,,
+Montana,Broadwater County,2020-02-28,6.593,,,,,
+Montana,Broadwater County,2020-02-29,11.111,,,,,
+Montana,Broadwater County,2020-03-01,17.904,,,,,
+Montana,Broadwater County,2020-03-02,16.801,,,,,
+Montana,Broadwater County,2020-03-03,4.464,,,,,
+Montana,Broadwater County,2020-03-04,8.803,,,,,
+Montana,Broadwater County,2020-03-05,7.135,,,,,
+Montana,Broadwater County,2020-03-06,23.734,,,,,
+Montana,Broadwater County,2020-03-07,27.778,,,,,
+Montana,Broadwater County,2020-03-08,17.904,,,,,
+Montana,Broadwater County,2020-03-09,11.761,,,,,
+Montana,Broadwater County,2020-03-10,16.369,,,,,
+Montana,Broadwater County,2020-03-11,22.007,,,,,
+Montana,Broadwater County,2020-03-12,15.696,,,,,
+Montana,Broadwater County,2020-03-13,14.504,,,,,
+Montana,Broadwater County,2020-03-14,1.389,,,,,
+Montana,Broadwater County,2020-03-16,18.481,,,,,
+Montana,Broadwater County,2020-03-17,17.857,,,,,
+Montana,Broadwater County,2020-03-18,11.737,,,,,
+Montana,Broadwater County,2020-03-19,11.416,,,,,
+Montana,Broadwater County,2020-03-21,11.111,,,,,
+Montana,Broadwater County,2020-03-22,17.904,,,,,
+Montana,Broadwater County,2020-03-23,15.121,,,,,
+Montana,Broadwater County,2020-03-24,-4.464,,,,,
+Montana,Broadwater County,2020-03-25,-4.401,,,,,
+Montana,Broadwater County,2020-03-26,5.708,,,,,
+Montana,Broadwater County,2020-03-27,2.637,,,,,
+Montana,Broadwater County,2020-03-28,-11.111,,,,,
+Montana,Broadwater County,2020-03-29,-3.255,,,,,
+Montana,Cascade County,2020-02-16,-0.956,,0.178,5.428,,
+Montana,Cascade County,2020-02-17,2.131,,7.203,6.381,,-30.662
+Montana,Cascade County,2020-02-18,-8.681,,1.195,-2.864,,2.72
+Montana,Cascade County,2020-02-19,-2.496,,0.468,0.522,,2.554
+Montana,Cascade County,2020-02-20,2.875,,-0.625,7.017,,1.482
+Montana,Cascade County,2020-02-21,-0.202,,0.136,3.175,,2.146
+Montana,Cascade County,2020-02-22,6.497,,-0.425,-1.742,,0.694
+Montana,Cascade County,2020-02-23,0.239,,-0.588,3.276,,5.144
+Montana,Cascade County,2020-02-24,-4.735,,0.93,-7.01,,1.68
+Montana,Cascade County,2020-02-25,0.914,,0.531,5.548,,2.584
+Montana,Cascade County,2020-02-26,8.624,,-0.611,13.999,,3.091
+Montana,Cascade County,2020-02-27,5.529,,-1.375,21.218,,3.369
+Montana,Cascade County,2020-02-28,3.432,,-1.407,15.118,,3.005
+Montana,Cascade County,2020-02-29,8.803,,-2.489,14.469,,2.778
+Montana,Cascade County,2020-03-01,14.335,,-1.256,17.876,,4.715
+Montana,Cascade County,2020-03-02,2.841,,-0.238,6.381,,3.5
+Montana,Cascade County,2020-03-03,8.909,,-0.91,13.066,,2.856
+Montana,Cascade County,2020-03-04,4.085,,0.147,5.478,,2.285
+Montana,Cascade County,2020-03-05,13.491,,-1.228,11.361,,1.752
+Montana,Cascade County,2020-03-06,9.892,,-1.314,8.491,,2.576
+Montana,Cascade County,2020-03-07,7.336,,-1.912,6.9,,4.514
+Montana,Cascade County,2020-03-08,4.539,,0.443,6.083,,3.429
+Montana,Cascade County,2020-03-09,7.102,,-0.27,6.381,,1.26
+Montana,Cascade County,2020-03-10,7.995,,-0.112,8.233,,0.816
+Montana,Cascade County,2020-03-11,11.801,,-0.008,4.869,,0.403
+Montana,Cascade County,2020-03-12,18.356,,-0.901,10.191,,-1.078
+Montana,Cascade County,2020-03-13,19.784,,4.866,-8.215,,-12.735
+Montana,Cascade County,2020-03-14,-17.186,,7.55,-40.595,,-10.417
+Montana,Cascade County,2020-03-15,3.106,,4.225,-16.004,,-3.429
+Montana,Cascade County,2020-03-16,29.119,,4.874,-4.943,,-12.041
+Montana,Cascade County,2020-03-17,14.62,,6.54,-6.175,,-16.998
+Montana,Cascade County,2020-03-18,12.709,,8.404,-15.129,,-20.43
+Montana,Cascade County,2020-03-19,8.183,,10.054,-16.289,,-23.987
+Montana,Cascade County,2020-03-20,10.497,,13.381,-33.135,,-28.76
+Montana,Cascade County,2020-03-21,3.563,,8.281,-41.533,,-24.653
+Montana,Cascade County,2020-03-22,-7.406,,7.764,-40.806,,-25.291
+Montana,Cascade County,2020-03-23,-9.47,,12.031,-33.794,,-31.922
+Montana,Cascade County,2020-03-24,-9.137,,13.839,-32.843,,-33.589
+Montana,Cascade County,2020-03-25,-6.127,,13.361,-29.128,,-35.484
+Montana,Cascade County,2020-03-26,4.202,,13.566,-29.153,,-35.71
+Montana,Cascade County,2020-03-27,7.267,,15.593,-33.204,,-36.773
+Montana,Cascade County,2020-03-28,-29.552,,12.021,-58.615,,-36.458
+Montana,Cascade County,2020-03-29,-27.475,,,-49.51,,-33.436
+Montana,Custer County,2020-02-16,,,,0.576,,
+Montana,Custer County,2020-02-17,,,,2.495,,
+Montana,Custer County,2020-02-18,,,,-3.415,,
+Montana,Custer County,2020-02-19,,,,7.883,,
+Montana,Custer County,2020-02-20,,,,25.236,,
+Montana,Custer County,2020-02-21,,,,9.549,,
+Montana,Custer County,2020-02-22,,,,19.707,,
+Montana,Custer County,2020-02-23,,,,7.482,,
+Montana,Custer County,2020-02-24,,,,1.871,,
+Montana,Custer County,2020-02-25,,,,7.969,,
+Montana,Custer County,2020-02-26,,,,11.824,,
+Montana,Custer County,2020-02-27,,,,8.054,,
+Montana,Custer County,2020-02-28,,,,9.115,,
+Montana,Custer County,2020-02-29,,,,-4.223,,
+Montana,Custer County,2020-03-01,,,,5.755,,
+Montana,Custer County,2020-03-02,,,,8.109,,
+Montana,Custer County,2020-03-03,,,,11.954,,
+Montana,Custer County,2020-03-04,,,,26.464,,
+Montana,Custer County,2020-03-05,,,,32.753,,
+Montana,Custer County,2020-03-06,,,,16.927,,
+Montana,Custer County,2020-03-07,,,,19.238,,
+Montana,Custer County,2020-03-08,,,,3.453,,
+Montana,Custer County,2020-03-09,,,,13.099,,
+Montana,Custer County,2020-03-10,,,,18.215,,
+Montana,Custer County,2020-03-11,,,,6.757,,
+Montana,Custer County,2020-03-12,,,,9.128,,
+Montana,Custer County,2020-03-13,,,,-2.17,,
+Montana,Custer County,2020-03-14,,,,-2.815,,
+Montana,Custer County,2020-03-15,,,,-17.265,,
+Montana,Custer County,2020-03-16,,,,1.871,,
+Montana,Custer County,2020-03-17,,,,1.138,,
+Montana,Custer County,2020-03-18,,,,-16.892,,
+Montana,Custer County,2020-03-19,,,,-27.921,,
+Montana,Custer County,2020-03-20,,,,-27.778,,
+Montana,Custer County,2020-03-21,,,,-36.13,,
+Montana,Custer County,2020-03-22,,,,-43.738,,
+Montana,Custer County,2020-03-23,,,,-23.703,,
+Montana,Custer County,2020-03-24,,,,-30.168,,
+Montana,Custer County,2020-03-25,,,,-33.221,,
+Montana,Custer County,2020-03-26,,,,-36.512,,
+Montana,Custer County,2020-03-27,,,,-29.948,,
+Montana,Custer County,2020-03-28,,,,-51.145,,
+Montana,Custer County,2020-03-29,,,,-49.494,,
+Montana,Flathead County,2020-02-16,4.332,17.857,-1.053,20.087,11.775,-1.384
+Montana,Flathead County,2020-02-17,0.379,19.248,4.11,10.619,-2.461,-21.87
+Montana,Flathead County,2020-02-18,1.328,22.866,-0.825,9.393,-2.404,2.514
+Montana,Flathead County,2020-02-19,-0.372,26.355,-1.053,5.303,-2.216,1.922
+Montana,Flathead County,2020-02-20,3.354,1.145,-0.486,4.96,2.17,1.557
+Montana,Flathead County,2020-02-21,-0.847,2.976,-1.456,5.486,0.699,1.774
+Montana,Flathead County,2020-02-22,1.074,-19.616,-1.511,10.735,5.447,2.583
+Montana,Flathead County,2020-02-23,3.507,-38.69,-0.8,15.4,0.906,1.73
+Montana,Flathead County,2020-02-24,1.705,-37.364,-0.49,1.264,1.64,3.54
+Montana,Flathead County,2020-02-25,-2.656,-6.352,-1.326,10.064,0.801,2.754
+Montana,Flathead County,2020-02-26,-1.674,-13.805,-0.989,11.477,1.478,4.085
+Montana,Flathead County,2020-02-27,-5.218,-12.592,-0.434,10.597,2.894,2.874
+Montana,Flathead County,2020-02-28,0.339,12.897,-2.569,12.758,5.593,2.028
+Montana,Flathead County,2020-02-29,4.117,-30.438,-1.92,18.024,8.17,4.878
+Montana,Flathead County,2020-03-01,6.601,-27.53,-1.809,26.496,7.246,4.153
+Montana,Flathead County,2020-03-02,-1.326,-24.909,-0.939,11.546,-1.64,5.057
+Montana,Flathead County,2020-03-03,4.554,2.541,-1.292,20.045,9.615,3.472
+Montana,Flathead County,2020-03-04,2.046,-3.765,-0.231,10.527,2.955,3.364
+Montana,Flathead County,2020-03-05,9.317,-5.723,-0.498,10.597,7.957,3.352
+Montana,Flathead County,2020-03-06,0.169,-2.976,-1.206,8.293,2.796,3.041
+Montana,Flathead County,2020-03-07,-0.537,-17.587,-0.957,11.795,3.404,4.878
+Montana,Flathead County,2020-03-08,2.063,-32.738,-0.478,20.374,,2.076
+Montana,Flathead County,2020-03-09,1.326,-9.058,-0.996,8.933,13.123,4.172
+Montana,Flathead County,2020-03-10,-1.328,-6.352,-0.452,15.013,5.609,2.634
+Montana,Flathead County,2020-03-11,0.372,-10.04,-0.17,8.469,1.478,2.763
+Montana,Flathead County,2020-03-12,10.808,-5.723,-0.505,9.169,0.723,1.437
+Montana,Flathead County,2020-03-13,15.075,-32.738,0.579,3.508,2.796,-0.38
+Montana,Flathead County,2020-03-14,5.011,-68.317,3.839,-8.084,3.404,-5.165
+Montana,Flathead County,2020-03-15,13.408,-36.458,0.948,9.47,10.87,-2.076
+Montana,Flathead County,2020-03-16,26.136,5.661,3.879,3.624,12.303,-15.423
+Montana,Flathead County,2020-03-17,11.764,31.758,6.709,-5.535,-1.603,-18.08
+Montana,Flathead County,2020-03-18,0.558,46.436,7.061,-18.205,-14.037,-21.386
+Montana,Flathead County,2020-03-19,-0.932,,9.926,-23.749,-16.638,-22.749
+Montana,Flathead County,2020-03-20,2.033,12.897,11.396,-33.106,-13.982,-27.626
+Montana,Flathead County,2020-03-21,-6.443,-0.676,7.542,-42.276,-29.956,-26.113
+Montana,Flathead County,2020-03-22,-12.17,12.649,6.136,-36.444,-33.514,-35.299
+Montana,Flathead County,2020-03-23,-14.205,-14.719,11.068,-35.818,-27.067,-32.362
+Montana,Flathead County,2020-03-24,-12.523,,13.28,-36.651,-25.641,-36.518
+Montana,Flathead County,2020-03-25,-16.741,-3.765,13.25,-38.944,-39.155,-36.524
+Montana,Flathead County,2020-03-26,-8.386,-1.145,14.168,-36.977,-33.999,-37.117
+Montana,Flathead County,2020-03-27,3.557,-22.817,15.467,-37.444,-24.469,-38.144
+Montana,Flathead County,2020-03-28,-31.143,-44.643,13.172,-62.288,-58.551,-38.166
+Montana,Flathead County,2020-03-29,-30.322,-36.458,10.308,-55.096,-51.63,-43.951
+Montana,Gallatin County,2020-02-16,-1.042,12.703,-0.311,2.587,1.827,0.308
+Montana,Gallatin County,2020-02-17,-0.83,20.518,4.642,8.992,-6.548,-24.887
+Montana,Gallatin County,2020-02-18,-2.888,1.653,-0.899,0.278,-7.608,3.613
+Montana,Gallatin County,2020-02-19,-0.814,7.548,-0.436,2.85,4.817,5.435
+Montana,Gallatin County,2020-02-20,3.287,7.336,-1.013,6.741,8.961,3.111
+Montana,Gallatin County,2020-02-21,3.03,26.709,-0.878,1.86,-0.56,3.101
+Montana,Gallatin County,2020-02-22,2.485,20.616,-1.668,5.802,3.434,4.146
+Montana,Gallatin County,2020-02-23,3.75,22.866,-0.662,5.447,5.482,3.39
+Montana,Gallatin County,2020-02-24,2.075,-15.783,-0.352,-1.798,-1.786,3.99
+Montana,Gallatin County,2020-02-25,0.619,13.228,-0.895,3.958,7.608,1.405
+Montana,Gallatin County,2020-02-26,2.645,-3.019,-0.79,7.804,7.828,4.529
+Montana,Gallatin County,2020-02-27,5.136,13.204,-0.791,9.464,5.6,2.107
+Montana,Gallatin County,2020-02-28,4.924,25.374,-0.674,7.706,3.92,2.246
+Montana,Gallatin County,2020-02-29,4.587,-15.191,-0.362,4.756,12.019,1.555
+Montana,Gallatin County,2020-03-01,6.458,17.785,-1.534,10.349,7.31,6.78
+Montana,Gallatin County,2020-03-02,4.565,3.157,-0.722,4.316,0.595,5.355
+Montana,Gallatin County,2020-03-03,2.269,13.228,-0.31,4.097,7.608,3.312
+Montana,Gallatin County,2020-03-04,4.476,-1.51,0.474,5.497,2.408,3.623
+Montana,Gallatin County,2020-03-05,7.602,10.27,-1.125,6.352,5.04,3.011
+Montana,Gallatin County,2020-03-06,8.333,37.393,-0.48,3.986,2.8,2.139
+Montana,Gallatin County,2020-03-07,8.028,20.616,-1.327,9.878,8.013,4.146
+Montana,Gallatin County,2020-03-08,2.083,-2.541,-0.034,3.676,1.218,1.849
+Montana,Gallatin County,2020-03-09,3.113,1.578,-0.464,2.734,-1.19,4.2
+Montana,Gallatin County,2020-03-10,2.063,24.802,-1.146,4.028,-2.341,3.412
+Montana,Gallatin County,2020-03-11,5.086,9.058,-0.667,4.886,4.817,2.818
+Montana,Gallatin County,2020-03-12,18.286,13.204,-1.138,7.714,5.6,0.201
+Montana,Gallatin County,2020-03-13,27.083,-14.69,1.068,-3.348,6.16,-2.995
+Montana,Gallatin County,2020-03-14,17.393,-50.998,4.791,-20.436,-1.717,-6.996
+Montana,Gallatin County,2020-03-15,-0.833,-31.758,4.276,-27.097,-8.528,-9.246
+Montana,Gallatin County,2020-03-16,26.353,,6.544,-10.071,-11.31,-21.421
+Montana,Gallatin County,2020-03-17,4.744,24.802,9.933,-33.681,-18.727,-28.601
+Montana,Gallatin County,2020-03-18,-9.155,-3.019,13.778,-41.87,-31.31,-34.018
+Montana,Gallatin County,2020-03-19,-9.04,-14.671,15.653,-45.569,-42.003,-37.03
+Montana,Gallatin County,2020-03-20,-6.061,37.393,16.488,-44.165,-34.162,-38.822
+Montana,Gallatin County,2020-03-21,-12.232,59.679,9.653,-53.521,-41.781,-37.313
+Montana,Gallatin County,2020-03-22,-17.708,62.246,8.32,-51.198,-51.17,-44.071
+Montana,Gallatin County,2020-03-23,-16.393,17.361,15.201,-41.652,-51.786,-37.592
+Montana,Gallatin County,2020-03-24,-20.833,-13.228,19.578,-47.222,-47.987,-41.346
+Montana,Gallatin County,2020-03-25,-21.769,-7.548,20.057,-48.521,-46.363,-41.969
+Montana,Gallatin County,2020-03-26,-8.629,22.007,19.388,-42.393,-50.963,-43.252
+Montana,Gallatin County,2020-03-27,-6.439,2.671,21.192,-47.513,-56.564,-43.421
+Montana,Gallatin County,2020-03-28,-39.564,-11.936,17.878,-70.716,-65.82,-49.751
+Montana,Gallatin County,2020-03-29,-40.625,63.516,12.609,-65.7,-68.835,-53.008
+Montana,Glacier County,2020-02-16,5.208,,,,,
+Montana,Glacier County,2020-02-17,-7.774,,,,,
+Montana,Glacier County,2020-02-18,-4.529,,,,,
+Montana,Glacier County,2020-02-19,-14.077,,,,,
+Montana,Glacier County,2020-02-20,1.427,,,,,
+Montana,Glacier County,2020-02-21,-13.021,,,,,
+Montana,Glacier County,2020-02-22,-8.401,,,,,
+Montana,Glacier County,2020-02-23,-8.681,,,,,
+Montana,Glacier County,2020-02-24,-13.993,,,,,
+Montana,Glacier County,2020-02-25,-13.587,,,,,
+Montana,Glacier County,2020-02-26,-4.223,,,,,
+Montana,Glacier County,2020-02-27,-8.562,,,,,
+Montana,Glacier County,2020-02-28,-11.719,,,,,
+Montana,Glacier County,2020-02-29,-15.121,,,,,
+Montana,Glacier County,2020-03-01,1.736,,,,,
+Montana,Glacier County,2020-03-03,4.529,,,,,
+Montana,Glacier County,2020-03-04,-1.408,,,,,
+Montana,Glacier County,2020-03-05,-1.427,,,,,
+Montana,Glacier County,2020-03-06,-10.417,,,,,
+Montana,Glacier County,2020-03-07,-10.081,,,,,
+Montana,Glacier County,2020-03-08,3.472,,,,,
+Montana,Glacier County,2020-03-09,7.774,,,,,
+Montana,Glacier County,2020-03-11,7.038,,,,,
+Montana,Glacier County,2020-03-12,4.281,,,,,
+Montana,Glacier County,2020-03-13,-2.604,,,,,
+Montana,Glacier County,2020-03-14,-10.081,,,,,
+Montana,Glacier County,2020-03-15,12.153,,,,,
+Montana,Glacier County,2020-03-16,15.547,,,,,
+Montana,Glacier County,2020-03-17,12.077,,,,,
+Montana,Glacier County,2020-03-18,-9.854,,,,,
+Montana,Glacier County,2020-03-19,-7.135,,,,,
+Montana,Glacier County,2020-03-20,-6.51,,,,,
+Montana,Glacier County,2020-03-22,-15.625,,,,,
+Montana,Glacier County,2020-03-23,3.109,,,,,
+Montana,Glacier County,2020-03-24,-1.51,,,,,
+Montana,Glacier County,2020-03-25,-9.854,,,,,
+Montana,Glacier County,2020-03-26,-2.854,,,,,
+Montana,Glacier County,2020-03-27,-5.208,,,,,
+Montana,Glacier County,2020-03-28,-16.801,,,,,
+Montana,Glacier County,2020-03-29,-29.514,,,,,
+Montana,Hill County,2020-02-16,-6.127,,,10.337,,2.264
+Montana,Hill County,2020-02-17,-16.234,,,5.376,,-33.397
+Montana,Hill County,2020-02-18,-10.417,,,-7.911,,6.996
+Montana,Hill County,2020-02-19,-1.335,,,3.882,,4.735
+Montana,Hill County,2020-02-20,-8.785,,,4.143,,
+Montana,Hill County,2020-02-21,-5.482,,,,,-3.281
+Montana,Hill County,2020-02-22,3.634,,,-2.709,,-5.297
+Montana,Hill County,2020-02-23,-1.532,,,23.855,,6.793
+Montana,Hill County,2020-02-24,-4.058,,,-5.376,,-1.59
+Montana,Hill County,2020-02-25,,,,4.615,,
+Montana,Hill County,2020-02-26,2.671,,,17.469,,2.367
+Montana,Hill County,2020-02-27,16.315,,,11.245,,0.777
+Montana,Hill County,2020-02-28,9.868,,,5.556,,-1.64
+Montana,Hill County,2020-02-29,1.211,,,7.141,,
+Montana,Hill County,2020-03-01,21.446,,,31.807,,2.264
+Montana,Hill County,2020-03-02,5.411,,,11.425,,0.795
+Montana,Hill County,2020-03-03,5.208,,,25.053,,1.555
+Montana,Hill County,2020-03-04,13.355,,,12.94,,5.524
+Montana,Hill County,2020-03-05,17.57,,,16.572,,1.555
+Montana,Hill County,2020-03-06,9.868,,,6.481,,3.281
+Montana,Hill County,2020-03-07,6.056,,,1.231,,
+Montana,Hill County,2020-03-08,9.191,,,26.24,,4.529
+Montana,Hill County,2020-03-09,10.823,,,12.769,,-0.795
+Montana,Hill County,2020-03-10,9.115,,,9.23,,
+Montana,Hill County,2020-03-11,16.026,,,16.175,,4.735
+Montana,Hill County,2020-03-12,21.335,,,13.613,,1.555
+Montana,Hill County,2020-03-13,7.675,,,-0.694,,-0.82
+Montana,Hill County,2020-03-14,,,,-37.185,,-7.062
+Montana,Hill County,2020-03-15,4.596,,,-11.927,,-9.058
+Montana,Hill County,2020-03-16,24.351,,,,,-18.289
+Montana,Hill County,2020-03-17,19.531,,,-12.526,,-25.653
+Montana,Hill County,2020-03-18,12.019,,,-32.35,,-26.042
+Montana,Hill County,2020-03-19,7.53,,,-34.328,,-27.208
+Montana,Hill County,2020-03-20,1.096,,,-35.185,,-24.606
+Montana,Hill County,2020-03-21,-6.056,,,-43.095,,-22.952
+Montana,Hill County,2020-03-22,9.191,,,-30.216,,-22.645
+Montana,Hill County,2020-03-23,,,,-28.226,,-30.216
+Montana,Hill County,2020-03-24,-5.208,,,-27.69,,-31.095
+Montana,Hill County,2020-03-25,-1.335,,,-30.409,,-28.409
+Montana,Hill County,2020-03-26,-11.295,,,-36.103,,-31.095
+Montana,Hill County,2020-03-27,3.289,,,-34.722,,-31.168
+Montana,Hill County,2020-03-28,-19.38,,,-57.378,,-33.545
+Montana,Hill County,2020-03-29,-4.596,,,-43.734,,-24.909
+Montana,Lake County,2020-02-16,3.472,,,4.655,,-3.109
+Montana,Lake County,2020-02-17,2.976,,,1.401,,-14.955
+Montana,Lake County,2020-02-18,6.068,,,4.493,,2.468
+Montana,Lake County,2020-02-19,0.956,,,6.917,,1.474
+Montana,Lake County,2020-02-20,-1.911,,,2.367,,0.489
+Montana,Lake County,2020-02-21,-1.781,,,5.688,,1.108
+Montana,Lake County,2020-02-22,7.716,,,12.431,,
+Montana,Lake County,2020-02-23,,,,11.639,,10.883
+Montana,Lake County,2020-02-24,0.992,,,4.671,,4.641
+Montana,Lake County,2020-02-25,7.079,,,-4.085,,0.494
+Montana,Lake County,2020-02-26,-0.956,,,11.393,,0.983
+Montana,Lake County,2020-02-27,9.557,,,19.729,,0.489
+Montana,Lake County,2020-02-28,8.013,,,22.753,,-4.433
+Montana,Lake County,2020-02-29,6.752,,,30.007,,
+Montana,Lake County,2020-03-01,11.574,,,32.007,,7.774
+Montana,Lake County,2020-03-02,9.921,,,17.75,,3.094
+Montana,Lake County,2020-03-03,16.181,,,10.212,,2.468
+Montana,Lake County,2020-03-04,7.645,,,14.242,,3.439
+Montana,Lake County,2020-03-05,21.024,,,7.497,,1.467
+Montana,Lake County,2020-03-06,5.342,,,20.265,,2.77
+Montana,Lake County,2020-03-07,5.787,,,28.292,,5.208
+Montana,Lake County,2020-03-08,2.315,,,19.204,,3.109
+Montana,Lake County,2020-03-09,5.952,,,15.882,,
+Montana,Lake County,2020-03-10,13.147,,,7.761,,1.481
+Montana,Lake County,2020-03-11,6.69,,,6.917,,0.983
+Montana,Lake County,2020-03-12,8.601,,,5.524,,-2.934
+Montana,Lake County,2020-03-13,18.697,,,3.911,,-7.757
+Montana,Lake County,2020-03-14,9.645,,,-3.858,,-1.302
+Montana,Lake County,2020-03-15,25.463,,,11.639,,
+Montana,Lake County,2020-03-16,24.802,,,7.941,,-25.784
+Montana,Lake County,2020-03-17,25.283,,,-8.578,,-22.709
+Montana,Lake County,2020-03-18,0.956,,,-12.207,,-31.447
+Montana,Lake County,2020-03-19,3.823,,,-14.205,,-32.766
+Montana,Lake County,2020-03-20,9.793,,,-15.287,,-29.92
+Montana,Lake County,2020-03-21,9.645,,,-22.719,,-19.531
+Montana,Lake County,2020-03-22,5.787,,,-6.983,,-24.876
+Montana,Lake County,2020-03-23,-2.976,,,-7.474,,-34.55
+Montana,Lake County,2020-03-24,3.034,,,-22.876,,-36.039
+Montana,Lake County,2020-03-25,,,,-31.738,,-36.36
+Montana,Lake County,2020-03-26,13.379,,,-22.885,,-39.124
+Montana,Lake County,2020-03-27,5.342,,,-21.687,,-36.569
+Montana,Lake County,2020-03-28,-19.29,,,-41.581,,-27.344
+Montana,Lake County,2020-03-29,-23.148,,,-42.481,,-32.649
+Montana,Lewis and Clark County,2020-02-16,1.367,,,13.194,,0.529
+Montana,Lewis and Clark County,2020-02-17,2.441,,,6.628,,-46.728
+Montana,Lewis and Clark County,2020-02-18,-0.282,,,2.312,,2.395
+Montana,Lewis and Clark County,2020-02-19,6.21,,,0.928,,0.893
+Montana,Lewis and Clark County,2020-02-20,1.611,,,6.924,,2.533
+Montana,Lewis and Clark County,2020-02-21,1.672,,,6.939,,1.27
+Montana,Lewis and Clark County,2020-02-22,5.433,,,11.695,,0.459
+Montana,Lewis and Clark County,2020-02-23,6.835,,,12.269,,
+Montana,Lewis and Clark County,2020-02-24,-4.883,,,-1.988,,-0.776
+Montana,Lewis and Clark County,2020-02-25,-0.282,,,7.818,,0.299
+Montana,Lewis and Clark County,2020-02-26,3.67,,,12.17,,1.19
+Montana,Lewis and Clark County,2020-02-27,1.879,,,15.579,,0.596
+Montana,Lewis and Clark County,2020-02-28,5.495,,,13.201,,0.476
+Montana,Lewis and Clark County,2020-02-29,2.362,,,11.194,,-1.377
+Montana,Lewis and Clark County,2020-03-01,3.554,,,21.759,,3.173
+Montana,Lewis and Clark County,2020-03-02,1.899,,,9.279,,
+Montana,Lewis and Clark County,2020-03-03,8.727,,,16.627,,0.15
+Montana,Lewis and Clark County,2020-03-04,8.751,,,9.695,,1.19
+Montana,Lewis and Clark County,2020-03-05,14.229,,,13.543,,0.894
+Montana,Lewis and Clark County,2020-03-06,4.3,,,12.27,,0.794
+Montana,Lewis and Clark County,2020-03-07,4.724,,,17.96,,1.377
+Montana,Lewis and Clark County,2020-03-08,12.85,,,25.926,,2.115
+Montana,Lewis and Clark County,2020-03-09,5.154,,,8.837,,1.087
+Montana,Lewis and Clark County,2020-03-10,6.194,,,9.91,,0.299
+Montana,Lewis and Clark County,2020-03-11,15.808,,,10.107,,-0.595
+Montana,Lewis and Clark County,2020-03-12,14.766,,,10.997,,-1.043
+Montana,Lewis and Clark County,2020-03-13,19.352,,,-2.539,,-1.747
+Montana,Lewis and Clark County,2020-03-14,-3.543,,,-27.733,,-8.26
+Montana,Lewis and Clark County,2020-03-15,3.007,,,-14.583,,-4.759
+Montana,Lewis and Clark County,2020-03-16,26.584,,,2.651,,-15.524
+Montana,Lewis and Clark County,2020-03-17,14.921,,,-21.912,,-24.994
+Montana,Lewis and Clark County,2020-03-18,2.823,,,-31.972,,-29.464
+Montana,Lewis and Clark County,2020-03-19,-5.906,,,-31.26,,-32.785
+Montana,Lewis and Clark County,2020-03-20,-0.478,,,-30.378,,-33.822
+Montana,Lewis and Clark County,2020-03-21,-4.015,,,-38.927,,-30.286
+Montana,Lewis and Clark County,2020-03-22,-13.944,,,-35.532,,-30.14
+Montana,Lewis and Clark County,2020-03-23,-16.819,,,-32.697,,-37.724
+Montana,Lewis and Clark County,2020-03-24,-7.038,,,-31.162,,-41.158
+Montana,Lewis and Clark County,2020-03-25,-11.009,,,-35.479,,-43.75
+Montana,Lewis and Clark County,2020-03-26,7.786,,,-25.558,,-43.962
+Montana,Lewis and Clark County,2020-03-27,8.362,,,-30.294,,-44.62
+Montana,Lewis and Clark County,2020-03-28,-33.777,,,-59.56,,-40.382
+Montana,Lewis and Clark County,2020-03-29,-34.996,,,-53.472,,-38.6
+Montana,Lincoln County,2020-02-16,8.013,,,6.944,,
+Montana,Lincoln County,2020-02-17,4.281,,,-8.601,,-25.55
+Montana,Lincoln County,2020-02-18,,,,5.734,,4.735
+Montana,Lincoln County,2020-02-19,-1.467,,,4.569,,2.694
+Montana,Lincoln County,2020-02-20,,,,8.152,,4.609
+Montana,Lincoln County,2020-02-21,4.96,,,3.642,,5.008
+Montana,Lincoln County,2020-02-22,2.778,,,1.796,,-3.931
+Montana,Lincoln County,2020-02-23,-1.603,,,11.574,,-2.216
+Montana,Lincoln County,2020-02-24,2.854,,,0.956,,0.983
+Montana,Lincoln County,2020-02-25,,,,0.956,,1.894
+Montana,Lincoln County,2020-02-26,14.671,,,8.224,,0.898
+Montana,Lincoln County,2020-02-27,-1.302,,,12.681,,
+Montana,Lincoln County,2020-02-28,11.161,,,8.013,,-3.005
+Montana,Lincoln County,2020-02-29,11.111,,,2.694,,5.896
+Montana,Lincoln County,2020-03-01,14.423,,,27.006,,2.216
+Montana,Lincoln County,2020-03-02,17.123,,,2.867,,-5.896
+Montana,Lincoln County,2020-03-03,19.977,,,21.024,,-4.735
+Montana,Lincoln County,2020-03-04,17.606,,,16.447,,-7.184
+Montana,Lincoln County,2020-03-05,19.531,,,11.775,,-1.844
+Montana,Lincoln County,2020-03-06,7.44,,,5.099,,-4.006
+Montana,Lincoln County,2020-03-07,23.611,,,25.144,,1.965
+Montana,Lincoln County,2020-03-08,9.615,,,0.772,,-6.649
+Montana,Lincoln County,2020-03-09,8.562,,,2.867,,4.914
+Montana,Lincoln County,2020-03-10,8.562,,,12.424,,10.417
+Montana,Lincoln County,2020-03-11,7.336,,,5.482,,4.49
+Montana,Lincoln County,2020-03-12,10.417,,,9.058,,5.531
+Montana,Lincoln County,2020-03-13,12.401,,,-2.914,,2.003
+Montana,Lincoln County,2020-03-14,1.389,,,-17.96,,-5.896
+Montana,Lincoln County,2020-03-15,17.628,,,-23.92,,-4.433
+Montana,Lincoln County,2020-03-16,31.393,,,-2.867,,-11.792
+Montana,Lincoln County,2020-03-17,18.55,,,-2.867,,-14.205
+Montana,Lincoln County,2020-03-18,22.007,,,-1.827,,-17.96
+Montana,Lincoln County,2020-03-19,7.812,,,-9.058,,-18.437
+Montana,Lincoln County,2020-03-20,6.2,,,-22.217,,-18.029
+Montana,Lincoln County,2020-03-21,19.444,,,-36.818,,-17.689
+Montana,Lincoln County,2020-03-22,8.013,,,-42.438,,-24.379
+Montana,Lincoln County,2020-03-23,8.562,,,-43.005,,-27.516
+Montana,Lincoln County,2020-03-24,-1.427,,,-48.739,,-29.356
+Montana,Lincoln County,2020-03-25,-1.467,,,-41.118,,-33.226
+Montana,Lincoln County,2020-03-26,-9.115,,,-47.101,,-35.03
+Montana,Lincoln County,2020-03-27,1.24,,,-53.904,,-35.056
+Montana,Lincoln County,2020-03-28,-27.778,,,-69.145,,-37.343
+Montana,Lincoln County,2020-03-29,-30.449,,,-82.562,,-39.894
+Montana,Madison County,2020-02-16,,,,-4.032,,
+Montana,Madison County,2020-02-17,,,,5.787,,
+Montana,Madison County,2020-02-18,,,,6.083,,
+Montana,Madison County,2020-02-19,,,,8.929,,
+Montana,Madison County,2020-02-20,,,,19.133,,
+Montana,Madison County,2020-02-21,,,,18.382,,
+Montana,Madison County,2020-02-22,,,,9.973,,
+Montana,Madison County,2020-02-23,,,,18.145,,
+Montana,Madison County,2020-02-24,,,,22.425,,
+Montana,Madison County,2020-02-25,,,,33.455,,
+Montana,Madison County,2020-02-26,,,,23.065,,
+Montana,Madison County,2020-02-27,,,,34.722,,
+Montana,Madison County,2020-02-28,,,,34.926,,
+Montana,Madison County,2020-02-29,,,,23.271,,
+Montana,Madison County,2020-03-01,,,,22.849,,
+Montana,Madison County,2020-03-02,,,,23.148,,
+Montana,Madison County,2020-03-03,,,,22.81,,
+Montana,Madison County,2020-03-04,,,,4.464,,
+Montana,Madison County,2020-03-05,,,,33.305,,
+Montana,Madison County,2020-03-06,,,,22.672,,
+Montana,Madison County,2020-03-07,,,,12.19,,
+Montana,Madison County,2020-03-08,,,,12.097,,
+Montana,Madison County,2020-03-09,,,,-2.17,,
+Montana,Madison County,2020-03-10,,,,24.331,,
+Montana,Madison County,2020-03-11,,,,2.976,,
+Montana,Madison County,2020-03-12,,,,13.464,,
+Montana,Madison County,2020-03-13,,,,6.74,,
+Montana,Madison County,2020-03-14,,,,-71.753,,
+Montana,Madison County,2020-03-15,,,,-73.253,,
+Montana,Madison County,2020-03-16,,,,-77.402,,
+Montana,Madison County,2020-03-17,,,,-74.513,,
+Montana,Madison County,2020-03-18,,,,-92.262,,
+Montana,Madison County,2020-03-19,,,,-92.12,,
+Montana,Madison County,2020-03-20,,,,-93.75,,
+Montana,Madison County,2020-03-21,,,,-93.639,,
+Montana,Madison County,2020-03-22,,,,-104.167,,
+Montana,Madison County,2020-03-23,,,,-92.593,,
+Montana,Madison County,2020-03-24,,,,-92.001,,
+Montana,Madison County,2020-03-25,,,,-94.494,,
+Montana,Madison County,2020-03-26,,,,-90.703,,
+Montana,Madison County,2020-03-27,,,,-93.75,,
+Montana,Madison County,2020-03-28,,,,-97.241,,
+Montana,Madison County,2020-03-29,,,,-104.167,,
+Montana,Missoula County,2020-02-16,4.421,20.161,-0.846,9.801,10.739,1.866
+Montana,Missoula County,2020-02-17,,,7.797,-0.354,-7.469,-31.49
+Montana,Missoula County,2020-02-18,4.109,-11.837,0.293,-1.223,7.525,2.13
+Montana,Missoula County,2020-02-19,5.293,3.289,-0.246,3.459,,2.214
+Montana,Missoula County,2020-02-20,7.118,8.013,-0.413,5.442,7.659,1.664
+Montana,Missoula County,2020-02-21,6.404,9.218,-0.175,4.168,11.614,3.741
+Montana,Missoula County,2020-02-22,7.066,30.864,-1.313,4.945,5.342,4.288
+Montana,Missoula County,2020-02-23,7.184,4.48,-0.205,12.132,12.35,5.286
+Montana,Missoula County,2020-02-24,3.194,-9.259,0.392,-1.473,6.682,6.698
+Montana,Missoula County,2020-02-25,3.867,31.96,-0.888,4.6,7.525,2.13
+Montana,Missoula County,2020-02-26,6.495,3.289,-0.441,6.238,5.661,1.845
+Montana,Missoula County,2020-02-27,5.932,13.736,-1.446,9.949,10.723,2.773
+Montana,Missoula County,2020-02-28,9.606,34.108,-1.074,10.536,18.148,0.197
+Montana,Missoula County,2020-02-29,12.536,64.622,-1.897,16.896,16.471,4.288
+Montana,Missoula County,2020-03-01,17.407,11.201,-1.224,14.164,22.015,5.908
+Montana,Missoula County,2020-03-02,11.547,-15.046,-0.118,2.651,1.179,6.398
+Montana,Missoula County,2020-03-03,10.393,14.205,-0.89,8.734,9.506,1.389
+Montana,Missoula County,2020-03-04,9.863,-1.096,0.087,8.336,-0.377,1.753
+Montana,Missoula County,2020-03-05,13.525,28.617,-1.511,9.235,9.574,2.033
+Montana,Missoula County,2020-03-06,11.1,48.857,-1.299,8.429,11.977,1.772
+Montana,Missoula County,2020-03-07,9.801,24.113,-1.1,6.456,8.903,2.522
+Montana,Missoula County,2020-03-08,14.92,50.403,-0.552,9.443,23.088,3.731
+Montana,Missoula County,2020-03-09,10.81,16.204,-0.324,3.771,5.11,5.098
+Montana,Missoula County,2020-03-10,6.767,24.858,-1.22,6.987,3.961,1.667
+Montana,Missoula County,2020-03-11,12.51,-1.096,-0.378,5.557,-0.755,1.661
+Montana,Missoula County,2020-03-12,20.406,27.473,-0.545,10.224,8.042,-1.849
+Montana,Missoula County,2020-03-13,20.705,-23.046,2.667,-0.046,2.178,-6.006
+Montana,Missoula County,2020-03-14,12.536,-33.758,3.444,-15.247,-12.464,-5.297
+Montana,Missoula County,2020-03-15,17.96,-11.201,3.32,-16.256,4.832,-7.152
+Montana,Missoula County,2020-03-16,28.99,20.833,6.002,-7.954,-5.11,-20.793
+Montana,Missoula County,2020-03-17,6.767,42.614,9.676,-26.202,7.525,-32.407
+Montana,Missoula County,2020-03-18,-4.09,19.737,12.778,-31.641,-15.097,-36.26
+Montana,Missoula County,2020-03-19,-6.407,30.907,12.774,-33.751,-13.404,-39.19
+Montana,Missoula County,2020-03-20,-2.775,37.795,15.026,-36.555,-14.881,-39.284
+Montana,Missoula County,2020-03-21,-8.662,48.225,8.013,-46.795,-11.129,-31.023
+Montana,Missoula County,2020-03-22,-8.565,107.527,6.025,-42.073,-5.369,-31.095
+Montana,Missoula County,2020-03-23,-11.547,4.63,14.536,-36.058,-22.013,-36.688
+Montana,Missoula County,2020-03-24,-10.151,1.184,16.54,-36.741,-19.011,-42.5
+Montana,Missoula County,2020-03-25,-13.231,3.289,17.432,-38.106,-22.645,-43.457
+Montana,Missoula County,2020-03-26,-3.085,5.723,17.238,-34.741,-22.595,-44.181
+Montana,Missoula County,2020-03-27,4.269,1.844,18.507,-36.188,-27.221,-43.813
+Montana,Missoula County,2020-03-28,-29.176,23.148,13.241,-62.546,-34.277,-41.112
+Montana,Missoula County,2020-03-29,-31.499,32.482,11.519,-56.775,-28.995,-37.002
+Montana,Park County,2020-02-16,9.375,,,23.634,,-3.858
+Montana,Park County,2020-02-17,6.649,,,-3.858,,-12.926
+Montana,Park County,2020-02-18,3.255,,,2.264,,-0.709
+Montana,Park County,2020-02-19,3.034,,,9.673,,-0.713
+Montana,Park County,2020-02-20,3.289,,,,,0.734
+Montana,Park County,2020-02-21,5.952,,,-3.324,,3.916
+Montana,Park County,2020-02-22,5.787,,,8.633,,1.628
+Montana,Park County,2020-02-23,3.125,,,3.501,,5.787
+Montana,Park County,2020-02-24,7.757,,,,,3.041
+Montana,Park County,2020-02-25,4.34,,,-2.264,,2.834
+Montana,Park County,2020-02-26,-2.023,,,15.997,,4.281
+Montana,Park County,2020-02-27,3.289,,,10.702,,1.467
+Montana,Park County,2020-02-28,3.968,,,-0.554,,-3.916
+Montana,Park County,2020-02-29,0.965,,,5.18,,-6.51
+Montana,Park County,2020-03-01,3.125,,,7.003,,5.787
+Montana,Park County,2020-03-02,8.865,,,6.944,,1.521
+Montana,Park County,2020-03-03,11.936,,,10.568,,-2.126
+Montana,Park County,2020-03-04,4.045,,,23.065,,2.14
+Montana,Park County,2020-03-05,2.193,,,8.562,,
+Montana,Park County,2020-03-06,17.857,,,17.73,,2.35
+Montana,Park County,2020-03-07,7.716,,,12.661,,-4.883
+Montana,Park County,2020-03-08,6.25,,,4.377,,1.929
+Montana,Park County,2020-03-09,2.216,,,2.315,,3.041
+Montana,Park County,2020-03-10,8.681,,,12.832,,-3.543
+Montana,Park County,2020-03-11,5.057,,,14.137,,
+Montana,Park County,2020-03-12,21.93,,,9.989,,-2.934
+Montana,Park County,2020-03-13,27.778,,,-7.203,,-6.266
+Montana,Park County,2020-03-14,17.361,,,-17.265,,-6.51
+Montana,Park County,2020-03-15,3.125,,,-25.385,,-11.574
+Montana,Park County,2020-03-16,34.353,,,-6.944,,-17.488
+Montana,Park County,2020-03-17,29.297,,,-14.342,,-20.55
+Montana,Park County,2020-03-18,2.023,,,-24.554,,-24.971
+Montana,Park County,2020-03-19,4.386,,,-28.539,,-29.343
+Montana,Park County,2020-03-20,16.865,,,-32.691,,-28.979
+Montana,Park County,2020-03-21,-0.965,,,-48.918,,-30.924
+Montana,Park County,2020-03-22,-11.458,,,-44.643,,-32.793
+Montana,Park County,2020-03-23,-1.108,,,-40.895,,-37.257
+Montana,Park County,2020-03-24,-5.425,,,-43.025,,-43.226
+Montana,Park County,2020-03-25,-14.159,,,-45.387,,-40.668
+Montana,Park County,2020-03-26,6.579,,,-44.949,,-40.346
+Montana,Park County,2020-03-27,12.897,,,-43.218,,-38.377
+Montana,Park County,2020-03-28,-26.042,,,-68.485,,-43.945
+Montana,Park County,2020-03-29,-30.208,,,-56.022,,-46.296
+Montana,Ravalli County,2020-02-16,2.591,,,3.876,,1.911
+Montana,Ravalli County,2020-02-17,-1.827,,,-1.887,,-21.474
+Montana,Ravalli County,2020-02-18,1.395,,,4.325,,-0.606
+Montana,Ravalli County,2020-02-19,-1.371,,,2.422,,0.906
+Montana,Ravalli County,2020-02-20,0.91,,,6.635,,0.925
+Montana,Ravalli County,2020-02-21,-3.78,,,1.389,,4.781
+Montana,Ravalli County,2020-02-22,12.8,,,10.636,,-4.006
+Montana,Ravalli County,2020-02-23,-3.628,,,9.69,,-3.823
+Montana,Ravalli County,2020-02-24,-1.371,,,3.774,,2.564
+Montana,Ravalli County,2020-02-25,-3.72,,,8.651,,1.211
+Montana,Ravalli County,2020-02-26,-1.827,,,7.267,,0.302
+Montana,Ravalli County,2020-02-27,5.459,,,8.294,,
+Montana,Ravalli County,2020-02-28,8.401,,,14.167,,-0.342
+Montana,Ravalli County,2020-02-29,8.828,,,18.769,,-0.801
+Montana,Ravalli County,2020-03-01,4.664,,,26.647,,3.823
+Montana,Ravalli County,2020-03-02,1.827,,,5.284,,2.885
+Montana,Ravalli County,2020-03-03,7.906,,,10.453,,
+Montana,Ravalli County,2020-03-04,3.198,,,11.42,,1.812
+Montana,Ravalli County,2020-03-05,18.195,,,11.279,,4.623
+Montana,Ravalli County,2020-03-06,5.46,,,8.056,,4.098
+Montana,Ravalli County,2020-03-07,2.207,,,12.825,,1.603
+Montana,Ravalli County,2020-03-08,9.328,,,20.349,,3.823
+Montana,Ravalli County,2020-03-09,-1.371,,,6.416,,3.526
+Montana,Ravalli County,2020-03-10,7.906,,,14.778,,2.725
+Montana,Ravalli County,2020-03-11,1.371,,,6.921,,3.019
+Montana,Ravalli County,2020-03-12,7.733,,,7.962,,2.157
+Montana,Ravalli County,2020-03-13,21.001,,,5.833,,0.342
+Montana,Ravalli County,2020-03-14,24.718,,,-3.441,,-6.41
+Montana,Ravalli County,2020-03-15,20.73,,,-2.422,,-7.645
+Montana,Ravalli County,2020-03-16,24.214,,,-4.529,,-13.141
+Montana,Ravalli County,2020-03-17,16.276,,,-7.93,,-20.288
+Montana,Ravalli County,2020-03-18,2.284,,,-16.957,,-20.531
+Montana,Ravalli County,2020-03-19,-1.365,,,-12.938,,-21.881
+Montana,Ravalli County,2020-03-20,15.961,,,-15.0,,-20.833
+Montana,Ravalli County,2020-03-21,4.414,,,-38.163,,-20.833
+Montana,Ravalli County,2020-03-22,-3.628,,,-36.337,,-31.537
+Montana,Ravalli County,2020-03-23,-11.422,,,-37.364,,-26.603
+Montana,Ravalli County,2020-03-24,-8.371,,,-38.927,,-30.281
+Montana,Ravalli County,2020-03-25,-6.396,,,-37.029,,-33.213
+Montana,Ravalli County,2020-03-26,3.184,,,-39.145,,-32.668
+Montana,Ravalli County,2020-03-27,15.541,,,-38.333,,-31.421
+Montana,Ravalli County,2020-03-28,-18.538,,,-50.363,,-32.853
+Montana,Ravalli County,2020-03-29,-20.73,,,-51.357,,-40.138
+Montana,Richland County,2020-02-16,-1.302,,,13.889,,
+Montana,Richland County,2020-02-17,8.479,,,8.865,,
+Montana,Richland County,2020-02-18,1.157,,,3.094,,
+Montana,Richland County,2020-02-19,-2.289,,,15.625,,
+Montana,Richland County,2020-02-20,-2.24,,,19.404,,
+Montana,Richland County,2020-02-21,2.104,,,16.667,,
+Montana,Richland County,2020-02-22,5.6,,,21.219,,
+Montana,Richland County,2020-02-23,11.719,,,16.667,,
+Montana,Richland County,2020-02-24,-1.211,,,8.865,,
+Montana,Richland County,2020-02-25,-6.944,,,-2.063,,
+Montana,Richland County,2020-02-26,1.145,,,6.25,,
+Montana,Richland County,2020-02-27,-6.72,,,9.191,,
+Montana,Richland County,2020-02-28,-1.052,,,9.167,,
+Montana,Richland County,2020-02-29,8.961,,,31.829,,
+Montana,Richland County,2020-03-01,5.208,,,19.444,,
+Montana,Richland County,2020-03-02,-1.211,,,5.541,,
+Montana,Richland County,2020-03-03,-2.315,,,11.345,,
+Montana,Richland County,2020-03-04,,,,18.75,,
+Montana,Richland County,2020-03-05,2.24,,,21.446,,
+Montana,Richland County,2020-03-06,2.104,,,19.167,,
+Montana,Richland County,2020-03-07,1.12,,,27.006,,
+Montana,Richland County,2020-03-08,,,,18.056,,
+Montana,Richland County,2020-03-09,4.845,,,7.757,,
+Montana,Richland County,2020-03-10,4.63,,,3.094,,
+Montana,Richland County,2020-03-11,3.434,,,17.708,,
+Montana,Richland County,2020-03-12,11.201,,,14.297,,
+Montana,Richland County,2020-03-13,10.522,,,,,
+Montana,Richland County,2020-03-14,4.48,,,4.823,,
+Montana,Richland County,2020-03-15,-1.302,,,-8.333,,
+Montana,Richland County,2020-03-16,21.802,,,3.324,,
+Montana,Richland County,2020-03-17,6.944,,,-8.251,,
+Montana,Richland County,2020-03-18,1.145,,,-11.458,,
+Montana,Richland County,2020-03-19,-1.12,,,-21.446,,
+Montana,Richland County,2020-03-20,11.574,,,-21.667,,
+Montana,Richland County,2020-03-21,-5.6,,,-38.58,,
+Montana,Richland County,2020-03-22,-11.719,,,-41.667,,
+Montana,Richland County,2020-03-23,-3.634,,,-29.92,,
+Montana,Richland County,2020-03-24,-15.046,,,-34.035,,
+Montana,Richland County,2020-03-25,-13.736,,,-37.5,,
+Montana,Richland County,2020-03-26,-12.321,,,-30.637,,
+Montana,Richland County,2020-03-27,9.47,,,-28.333,,
+Montana,Richland County,2020-03-28,-25.762,,,-49.19,,
+Montana,Richland County,2020-03-29,-23.438,,,-37.5,,
+Montana,Silver Bow County,2020-02-16,2.765,,,2.14,11.161,-2.765
+Montana,Silver Bow County,2020-02-17,2.671,,,3.834,,-19.874
+Montana,Silver Bow County,2020-02-18,-13.695,,,-3.452,,3.255
+Montana,Silver Bow County,2020-02-19,-3.255,,,-4.923,-1.021,-0.647
+Montana,Silver Bow County,2020-02-20,5.081,,,3.894,-5.208,2.272
+Montana,Silver Bow County,2020-02-21,11.837,,,8.001,-6.69,-2.07
+Montana,Silver Bow County,2020-02-22,11.574,,,14.368,-1.052,3.109
+Montana,Silver Bow County,2020-02-23,0.922,,,15.221,13.641,
+Montana,Silver Bow County,2020-02-24,-9.793,,,-1.491,3.324,2.399
+Montana,Silver Bow County,2020-02-25,8.715,,,1.624,-3.222,0.977
+Montana,Silver Bow County,2020-02-26,18.717,,,11.421,1.021,-1.941
+Montana,Silver Bow County,2020-02-27,19.478,,,11.098,6.25,0.325
+Montana,Silver Bow County,2020-02-28,27.62,,,11.681,0.956,-0.69
+Montana,Silver Bow County,2020-02-29,12.401,,,10.263,-1.052,-1.555
+Montana,Silver Bow County,2020-03-01,18.437,,,22.831,18.601,-2.765
+Montana,Silver Bow County,2020-03-02,23.148,,,10.651,-5.541,1.371
+Montana,Silver Bow County,2020-03-03,19.505,,,16.65,7.517,1.953
+Montana,Silver Bow County,2020-03-04,20.345,,,5.71,-1.021,0.647
+Montana,Silver Bow County,2020-03-05,22.866,,,14.798,8.333,1.298
+Montana,Silver Bow County,2020-03-06,30.777,,,4.96,7.645,-2.759
+Montana,Silver Bow County,2020-03-07,17.361,,,2.224,6.313,-0.777
+Montana,Silver Bow County,2020-03-08,26.733,,,7.135,14.881,-1.844
+Montana,Silver Bow County,2020-03-09,32.051,,,0.426,-2.216,3.084
+Montana,Silver Bow County,2020-03-10,26.145,,,4.873,11.813,-1.953
+Montana,Silver Bow County,2020-03-11,18.717,,,6.498,11.234,0.323
+Montana,Silver Bow County,2020-03-12,44.038,,,32.126,26.042,1.298
+Montana,Silver Bow County,2020-03-13,61.553,,,20.801,2.867,-5.519
+Montana,Silver Bow County,2020-03-14,57.044,,,-11.289,,-6.219
+Montana,Silver Bow County,2020-03-15,23.046,,,-15.934,9.921,-6.453
+Montana,Silver Bow County,2020-03-16,65.883,,,-9.799,5.541,-18.846
+Montana,Silver Bow County,2020-03-17,30.295,,,-30.255,7.517,-26.693
+Montana,Silver Bow County,2020-03-18,12.207,,,-35.444,5.106,-28.468
+Montana,Silver Bow County,2020-03-19,25.407,,,-32.126,7.292,-30.179
+Montana,Silver Bow County,2020-03-20,28.409,,,-32.482,3.823,-35.527
+Montana,Silver Bow County,2020-03-21,19.015,,,-36.091,21.044,-25.653
+Montana,Silver Bow County,2020-03-22,14.749,,,-29.966,4.96,-26.733
+Montana,Silver Bow County,2020-03-23,8.903,,,-31.101,-14.406,-29.468
+Montana,Silver Bow County,2020-03-24,12.865,,,-36.55,-4.296,-32.227
+Montana,Silver Bow County,2020-03-25,9.766,,,-37.61,-6.127,-36.232
+Montana,Silver Bow County,2020-03-26,33.028,,,-29.984,-10.417,-35.047
+Montana,Silver Bow County,2020-03-27,37.09,,,-36.162,-14.335,-40.701
+Montana,Silver Bow County,2020-03-28,-17.361,,,-58.583,-16.835,-41.2
+Montana,Silver Bow County,2020-03-29,-15.671,,,-47.089,-21.081,-38.717
+Montana,Yellowstone County,2020-02-16,7.663,8.479,-0.829,5.487,8.591,2.055
+Montana,Yellowstone County,2020-02-17,2.678,-5.411,3.74,9.656,7.645,-18.783
+Montana,Yellowstone County,2020-02-18,-1.889,-18.939,1.131,-7.09,4.823,1.198
+Montana,Yellowstone County,2020-02-19,-2.525,-18.939,0.476,-0.937,6.453,2.241
+Montana,Yellowstone County,2020-02-20,1.568,5.274,-0.752,8.419,7.375,2.239
+Montana,Yellowstone County,2020-02-21,5.593,-8.844,0.28,5.176,8.469,2.356
+Montana,Yellowstone County,2020-02-22,10.632,36.02,-2.179,14.387,11.458,1.905
+Montana,Yellowstone County,2020-02-23,14.759,56.928,-1.376,7.56,6.443,2.465
+Montana,Yellowstone County,2020-02-24,3.213,12.175,-1.421,3.504,7.645,4.762
+Montana,Yellowstone County,2020-02-25,3.238,11.837,-0.428,3.363,,3.657
+Montana,Yellowstone County,2020-02-26,3.409,-11.574,-1.123,11.913,11.062,2.802
+Montana,Yellowstone County,2020-02-27,9.149,35.601,-1.543,16.721,7.375,1.928
+Montana,Yellowstone County,2020-02-28,10.487,27.516,-0.954,13.279,12.703,3.141
+Montana,Yellowstone County,2020-02-29,15.41,54.517,-3.554,21.125,15.625,4.287
+Montana,Yellowstone County,2020-03-01,18.307,59.351,-2.0,15.851,11.813,6.369
+Montana,Yellowstone County,2020-03-02,8.301,24.351,-2.089,11.835,11.468,4.63
+Montana,Yellowstone County,2020-03-03,14.573,13.021,-0.224,10.413,12.539,1.45
+Montana,Yellowstone County,2020-03-04,5.556,2.104,-0.596,9.1,11.062,2.117
+Montana,Yellowstone County,2020-03-05,15.815,65.928,-2.028,17.342,2.765,2.114
+Montana,Yellowstone County,2020-03-06,12.817,55.031,-1.097,14.018,6.775,2.879
+Montana,Yellowstone County,2020-03-07,15.649,84.696,-3.119,17.695,3.125,1.112
+Montana,Yellowstone County,2020-03-08,15.185,6.056,-0.796,8.901,3.222,3.698
+Montana,Yellowstone County,2020-03-09,12.853,44.643,-2.009,11.066,11.468,4.696
+Montana,Yellowstone County,2020-03-10,13.223,48.532,-0.852,11.344,,1.892
+Montana,Yellowstone County,2020-03-11,9.848,23.148,-0.641,6.679,5.531,2.117
+Montana,Yellowstone County,2020-03-12,25.355,43.513,-0.748,12.57,3.687,0.995
+Montana,Yellowstone County,2020-03-13,31.926,-11.792,1.851,4.159,0.847,0.523
+Montana,Yellowstone County,2020-03-14,36.076,,1.26,-1.639,-8.333,0.159
+Montana,Yellowstone County,2020-03-15,18.875,-19.38,3.932,-20.89,-16.108,-2.876
+Montana,Yellowstone County,2020-03-16,44.05,9.47,3.576,2.136,-9.557,-10.384
+Montana,Yellowstone County,2020-03-17,29.955,41.43,8.714,-23.297,-13.503,-20.115
+Montana,Yellowstone County,2020-03-18,11.49,-24.2,11.391,-31.285,-23.046,-22.788
+Montana,Yellowstone County,2020-03-19,10.064,-6.593,12.87,-33.364,-23.046,-26.306
+Montana,Yellowstone County,2020-03-20,16.312,17.689,14.754,-35.492,-38.957,-28.005
+Montana,Yellowstone County,2020-03-21,10.99,98.326,7.432,-40.064,-18.75,-22.866
+Montana,Yellowstone County,2020-03-22,-2.838,72.674,7.491,-43.122,-37.586,-23.833
+Montana,Yellowstone County,2020-03-23,4.284,112.284,9.096,-29.011,-42.049,-27.646
+Montana,Yellowstone County,2020-03-24,2.699,22.491,14.011,-32.494,-39.545,-31.654
+Montana,Yellowstone County,2020-03-25,-7.576,-1.052,14.752,-36.519,-37.795,-32.564
+Montana,Yellowstone County,2020-03-26,13.723,67.247,13.273,-28.36,-37.795,-32.525
+Montana,Yellowstone County,2020-03-27,18.526,45.204,14.73,-31.395,-50.813,-32.454
+Montana,Yellowstone County,2020-03-28,-22.816,12.656,12.588,-60.734,-43.75,-32.711
+Montana,Yellowstone County,2020-03-29,-21.429,118.702,8.22,-50.925,-47.251,-33.489

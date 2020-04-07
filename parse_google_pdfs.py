@@ -453,10 +453,18 @@ df = parse_list_of_places(places, args)
 
 # Now going to drop information we no longer need / is only useful for checking validity
 df.drop(labels=['page', 'change', 'changecalc'], axis=1, inplace=True)
+# df['date'] = pd.to_datetime(df['date']).dt.strftime('%d-%m-%Y')
 
-df.set_index(['state', 'county', 'category'], inplace=True)
-df = df.pivot(columns='date')
-df.columns = df.columns.levels[1]
+df_normal = deepcopy(df)
+
+df_normal.set_index(['state', 'county', 'category'], inplace=True)
+df_normal = df_normal.pivot(columns='date')
+df_normal.columns = df_normal.columns.levels[1] # remove redundant column labels
+
+df_covariates = deepcopy(df)
+
+df_covariates = df_covariates.set_index(['state', 'county', 'date']).pivot(columns='category')
+df_covariates.columns = df_covariates.columns.levels[1] # remove redundant column labels
 
 if len(places)==1:
     outdir = os.path.join(args.outdir, places[0])
@@ -480,6 +488,8 @@ if args.aggregate_only:
 if args.no_aggregate:
     file_name += "_no_aggregate"
 
-df.reset_index().to_json(os.path.join(outdir, file_name + '.json'), indent=2)
-# Seems to be some bug with CSV and this data
-# df.reset_index().to_csv('out.csv', index=False, sep=',', escapechar='\\', header=False)
+df_normal.reset_index().to_json(os.path.join(outdir, file_name + '_normal.json'), indent=2)
+df_covariates.reset_index().to_json(os.path.join(outdir, file_name + '_covariates.json'), indent=2)
+
+df_normal.reset_index().to_csv(os.path.join(outdir, file_name + '_normal.csv'), index=False)
+df_covariates.reset_index().to_csv(os.path.join(outdir, file_name + '_covariates.csv'), index=False)

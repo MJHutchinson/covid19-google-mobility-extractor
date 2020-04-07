@@ -1,0 +1,128 @@
+state,county,date,grocery/pharmacy,parks,residential,retail/recreation,transitstations,workplace
+Alaska,Anchorage,2020-02-16,3.375,45.17,-1.491,15.175,6.641,3.109
+Alaska,Anchorage,2020-02-17,0.088,-1.894,10.491,3.787,-10.104,-37.841
+Alaska,Anchorage,2020-02-18,-1.416,-19.928,2.306,-4.972,3.142,1.484
+Alaska,Anchorage,2020-02-19,-2.619,-8.082,0.834,-1.041,5.495,1.118
+Alaska,Anchorage,2020-02-20,4.191,-0.906,-0.548,3.436,1.386,3.212
+Alaska,Anchorage,2020-02-21,-1.926,-5.741,0.779,-1.959,2.065,4.102
+Alaska,Anchorage,2020-02-22,2.924,12.559,-0.667,6.161,3.35,2.883
+Alaska,Anchorage,2020-02-23,4.688,32.264,-0.833,12.645,1.748,4.198
+Alaska,Anchorage,2020-02-24,3.074,-0.947,-0.402,3.932,3.849,3.679
+Alaska,Anchorage,2020-02-25,2.301,3.623,-0.076,7.134,1.692,3.993
+Alaska,Anchorage,2020-02-26,6.025,3.592,-0.822,11.412,6.451,3.862
+Alaska,Anchorage,2020-02-27,8.033,16.304,-1.067,10.605,10.856,3.161
+Alaska,Anchorage,2020-02-28,6.472,17.224,-1.819,13.457,8.03,5.235
+Alaska,Anchorage,2020-02-29,10.275,8.865,-1.766,15.952,16.143,2.883
+Alaska,Anchorage,2020-03-01,15.377,17.515,-1.447,20.786,21.323,5.908
+Alaska,Anchorage,2020-03-02,7.466,9.47,0.073,5.971,7.458,-0.368
+Alaska,Anchorage,2020-03-03,11.771,-8.152,-0.265,11.35,4.834,3.583
+Alaska,Anchorage,2020-03-04,8.906,3.592,-0.692,9.747,7.645,3.303
+Alaska,Anchorage,2020-03-05,8.382,3.623,-1.237,8.755,1.848,3.314
+Alaska,Anchorage,2020-03-06,3.621,1.64,2.335,11.151,9.407,-5.289
+Alaska,Anchorage,2020-03-07,12.112,19.947,-0.713,19.107,10.051,0.655
+Alaska,Anchorage,2020-03-08,6.188,34.108,-0.83,13.08,11.186,1.71
+Alaska,Anchorage,2020-03-09,5.533,,3.101,8.119,5.533,-12.403
+Alaska,Anchorage,2020-03-10,8.408,8.152,2.539,12.935,2.659,-9.163
+Alaska,Anchorage,2020-03-11,10.216,10.776,2.602,10.614,2.15,-8.892
+Alaska,Anchorage,2020-03-12,24.623,10.87,2.774,10.836,-3.003,-9.28
+Alaska,Anchorage,2020-03-13,20.417,6.562,4.069,4.409,-3.212,-10.741
+Alaska,Anchorage,2020-03-14,21.301,23.641,1.866,-3.125,0.609,-2.358
+Alaska,Anchorage,2020-03-15,16.502,64.528,1.318,0.593,6.991,-2.799
+Alaska,Anchorage,2020-03-16,28.106,31.25,5.333,-0.546,-7.217,-13.349
+Alaska,Anchorage,2020-03-17,10.886,-0.906,9.853,-20.826,-11.359,-18.12
+Alaska,Anchorage,2020-03-18,6.287,5.388,12.184,-25.738,-11.707,-23.78
+Alaska,Anchorage,2020-03-19,5.763,-0.906,13.496,-30.89,-25.407,-27.89
+Alaska,Anchorage,2020-03-20,8.013,24.606,14.917,-29.42,-25.927,-30.171
+Alaska,Anchorage,2020-03-21,5.43,-10.343,10.386,-38.244,-22.844,-26.599
+Alaska,Anchorage,2020-03-22,-1.5,112.463,7.127,-32.364,-29.362,-26.586
+Alaska,Anchorage,2020-03-23,-10.188,19.886,18.309,-41.324,-38.972,-42.676
+Alaska,Anchorage,2020-03-24,-13.187,19.928,20.788,-42.625,-41.812,-47.348
+Alaska,Anchorage,2020-03-25,-14.407,10.776,21.551,-43.463,-42.766,-49.136
+Alaska,Anchorage,2020-03-26,-11.526,48.007,21.291,-43.841,-45.732,-49.916
+Alaska,Anchorage,2020-03-27,-16.026,-1.64,23.832,-47.862,-52.772,-49.547
+Alaska,Anchorage,2020-03-28,-17.626,22.902,13.955,-51.875,-51.17,-39.701
+Alaska,Anchorage,2020-03-29,-25.878,53.466,11.33,-50.542,-54.88,-40.889
+Alaska,Kenai Peninsula Borough,2020-02-16,2.252,,,13.021,,
+Alaska,Kenai Peninsula Borough,2020-02-17,-8.342,,,-2.793,,-19.355
+Alaska,Kenai Peninsula Borough,2020-02-18,-8.531,,,-4.209,,2.003
+Alaska,Kenai Peninsula Borough,2020-02-19,-11.885,,,-1.814,,
+Alaska,Kenai Peninsula Borough,2020-02-20,-1.62,,,0.751,,1.984
+Alaska,Kenai Peninsula Borough,2020-02-21,-9.179,,,-9.179,,2.09
+Alaska,Kenai Peninsula Borough,2020-02-22,-5.631,,,3.858,,-0.709
+Alaska,Kenai Peninsula Borough,2020-02-23,5.631,,,17.948,,-0.906
+Alaska,Kenai Peninsula Borough,2020-02-24,-4.96,,,7.819,,2.815
+Alaska,Kenai Peninsula Borough,2020-02-25,-6.286,,,6.576,,
+Alaska,Kenai Peninsula Borough,2020-02-26,0.699,,,10.365,,4.689
+Alaska,Kenai Peninsula Borough,2020-02-27,,,,7.512,,3.307
+Alaska,Kenai Peninsula Borough,2020-02-28,9.179,,,11.1,,4.529
+Alaska,Kenai Peninsula Borough,2020-02-29,0.469,,,6.752,,-0.709
+Alaska,Kenai Peninsula Borough,2020-03-01,1.689,,,9.502,,7.246
+Alaska,Kenai Peninsula Borough,2020-03-02,0.902,,,10.891,,5.279
+Alaska,Kenai Peninsula Borough,2020-03-03,3.592,,,11.311,,3.005
+Alaska,Kenai Peninsula Borough,2020-03-04,4.894,,,11.142,,3.349
+Alaska,Kenai Peninsula Borough,2020-03-05,1.852,,,9.515,,1.323
+Alaska,Kenai Peninsula Borough,2020-03-06,,,,2.775,,-8.361
+Alaska,Kenai Peninsula Borough,2020-03-07,4.223,,,2.17,,-0.709
+Alaska,Kenai Peninsula Borough,2020-03-08,-1.126,,,3.519,,
+Alaska,Kenai Peninsula Borough,2020-03-09,3.608,,,14.522,,-10.909
+Alaska,Kenai Peninsula Borough,2020-03-10,7.184,,,18.15,,-12.687
+Alaska,Kenai Peninsula Borough,2020-03-11,14.215,,,13.733,,-11.053
+Alaska,Kenai Peninsula Borough,2020-03-12,18.981,,,12.77,,-12.235
+Alaska,Kenai Peninsula Borough,2020-03-13,15.964,,,4.483,,-16.026
+Alaska,Kenai Peninsula Borough,2020-03-14,24.399,,,4.823,,-2.126
+Alaska,Kenai Peninsula Borough,2020-03-15,18.581,,,16.892,,0.906
+Alaska,Kenai Peninsula Borough,2020-03-16,15.783,,,6.702,,-13.021
+Alaska,Kenai Peninsula Borough,2020-03-17,6.286,,,-12.626,,-12.687
+Alaska,Kenai Peninsula Borough,2020-03-18,11.419,,,-14.252,,-14.402
+Alaska,Kenai Peninsula Borough,2020-03-19,2.315,,,-26.292,,-21.164
+Alaska,Kenai Peninsula Borough,2020-03-20,-4.39,,,-26.895,,-22.993
+Alaska,Kenai Peninsula Borough,2020-03-21,-6.569,,,-37.616,,-15.59
+Alaska,Kenai Peninsula Borough,2020-03-22,-2.252,,,-23.93,,-13.587
+Alaska,Kenai Peninsula Borough,2020-03-23,-9.921,,,-24.576,,-29.561
+Alaska,Kenai Peninsula Borough,2020-03-24,-11.674,,,-33.407,,-32.051
+Alaska,Kenai Peninsula Borough,2020-03-25,-16.079,,,-37.313,,-34.164
+Alaska,Kenai Peninsula Borough,2020-03-26,-20.37,,,-36.809,,-34.061
+Alaska,Kenai Peninsula Borough,2020-03-27,-11.973,,,-36.928,,-33.445
+Alaska,Kenai Peninsula Borough,2020-03-28,-11.261,,,-42.197,,-24.802
+Alaska,Kenai Peninsula Borough,2020-03-29,-28.716,,,-51.028,,-25.362
+Alaska,Ketchikan Gateway,2020-02-16,,,,5.081,,
+Alaska,Ketchikan Gateway,2020-02-17,,,,5.369,,
+Alaska,Ketchikan Gateway,2020-02-18,,,,-1.021,,
+Alaska,Ketchikan Gateway,2020-02-19,,,,-6.127,,
+Alaska,Ketchikan Gateway,2020-02-20,,,,-0.965,,
+Alaska,Ketchikan Gateway,2020-02-21,,,,3.472,,
+Alaska,Ketchikan Gateway,2020-02-22,,,,22.69,,
+Alaska,Ketchikan Gateway,2020-02-24,,,,-5.369,,
+Alaska,Ketchikan Gateway,2020-02-26,,,,1.021,,
+Alaska,Ketchikan Gateway,2020-02-27,,,,2.894,,
+Alaska,Ketchikan Gateway,2020-02-28,,,,14.757,,
+Alaska,Ketchikan Gateway,2020-02-29,,,,27.847,,
+Alaska,Ketchikan Gateway,2020-03-01,,,,11.433,,
+Alaska,Ketchikan Gateway,2020-03-02,,,,21.478,,
+Alaska,Ketchikan Gateway,2020-03-03,,,,18.382,,
+Alaska,Ketchikan Gateway,2020-03-04,,,,11.234,,
+Alaska,Ketchikan Gateway,2020-03-05,,,,20.255,,
+Alaska,Ketchikan Gateway,2020-03-06,,,,23.438,,
+Alaska,Ketchikan Gateway,2020-03-07,,,,41.254,,
+Alaska,Ketchikan Gateway,2020-03-08,,,,20.325,,
+Alaska,Ketchikan Gateway,2020-03-09,,,,10.739,,
+Alaska,Ketchikan Gateway,2020-03-10,,,,19.404,,
+Alaska,Ketchikan Gateway,2020-03-11,,,,20.425,,
+Alaska,Ketchikan Gateway,2020-03-12,,,,16.397,,
+Alaska,Ketchikan Gateway,2020-03-13,,,,14.757,,
+Alaska,Ketchikan Gateway,2020-03-14,,,,24.752,,
+Alaska,Ketchikan Gateway,2020-03-15,,,,21.596,,
+Alaska,Ketchikan Gateway,2020-03-16,,,,20.404,,
+Alaska,Ketchikan Gateway,2020-03-17,,,,17.361,,
+Alaska,Ketchikan Gateway,2020-03-18,,,,-1.021,,
+Alaska,Ketchikan Gateway,2020-03-19,,,,-15.914,,
+Alaska,Ketchikan Gateway,2020-03-20,,,,-13.021,,
+Alaska,Ketchikan Gateway,2020-03-21,,,,-6.188,,
+Alaska,Ketchikan Gateway,2020-03-22,,,,-34.299,,
+Alaska,Ketchikan Gateway,2020-03-23,,,,-32.216,,
+Alaska,Ketchikan Gateway,2020-03-24,,,,-32.68,,
+Alaska,Ketchikan Gateway,2020-03-25,,,,-41.871,,
+Alaska,Ketchikan Gateway,2020-03-26,,,,-45.332,,
+Alaska,Ketchikan Gateway,2020-03-27,,,,-39.931,,
+Alaska,Ketchikan Gateway,2020-03-28,,,,-41.254,,
+Alaska,Ketchikan Gateway,2020-03-29,,,,-49.543,,
