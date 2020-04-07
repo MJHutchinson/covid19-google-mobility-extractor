@@ -113,8 +113,10 @@ def parse_page(doc, ipage, verbose=False):
     for i,xref in enumerate(xrefs):
         stream = doc.xrefStream(xref[0]).decode()
         info = parse_stream(stream)
-        if not info["good"]: continue
-        goodplots.append(info)
+        if not info["good"]: 
+            goodplots.append(None)
+        else:
+            goodplots.append(info)
     if verbose:
         print(len(goodplots))
     
@@ -125,6 +127,7 @@ def parse_page(doc, ipage, verbose=False):
     
     
     for m,g in zip(tomatch,goodplots):
+        if g == None: continue 
         xs = g["data"][:,0]
         ys = g["data"][:,1]
         maxys = ys[np.where(xs==xs.max())[0]]
