@@ -447,28 +447,12 @@ if args.aggregate_only & args.no_aggregate:
 
 os.makedirs(args.outdir, exist_ok=True)
 
-places = [x.split("_Mobility",1)[0].split("_",2)[2] for x in glob.glob(os.path.join(args.pdfdir, "*.pdf"))]
+places = sorted([x.split("_Mobility",1)[0].split("_",2)[2] for x in glob.glob(os.path.join(args.pdfdir, "*.pdf"))])
 
 if len(args.place_codes) != 0:
     places = [place for place in places if place in args.place_codes]
 
-df = parse_list_of_places(places, args)
-
-# Now going to drop information we no longer need / is only useful for checking validity
-df.drop(labels=['page', 'change', 'changecalc'], axis=1, inplace=True)
-# df['date'] = pd.to_datetime(df['date']).dt.strftime('%d-%m-%Y')
-
-df_normal = deepcopy(df)
-
-df_normal.set_index(['state', 'county', 'category'], inplace=True)
-df_normal = df_normal.pivot(columns='date')
-df_normal.columns = df_normal.columns.levels[1] # remove redundant column labels
-
-df_covariates = deepcopy(df)
-
-df_covariates = df_covariates.set_index(['state', 'county', 'date']).pivot(columns='category')
-df_covariates.columns = df_covariates.columns.levels[1] # remove redundant column labels
-
+# Setup the output directories
 if len(places)==1:
     outdir = os.path.join(args.outdir, places[0])
 
@@ -484,12 +468,49 @@ else:
     outdir = os.path.join(args.outdir)
     file_name = f"{args.date}_all"
 
+log_file = os.path.join(outdir, 'counties_categories_filled.txt')
+
 os.makedirs(outdir, exist_ok=True)
+if os.path.isfile(log_file):
+    os.remove(log_file)
 
 if args.aggregate_only:
     file_name += "_aggregate_only"
 if args.no_aggregate:
     file_name += "_no_aggregate"
+
+df = parse_list_of_places(places, args)
+
+# Now going to drop information we no longer need / is only useful for checking validity
+df.drop(labels=['page', 'change', 'changecalc'], axis=1, inplace=True)
+# df['date'] = pd.to_datetime(df['date']).dt.strftime('%d-%m-%Y')
+
+# Replace null values for categories in state/county pairs with the national average
+# NB this should really be a neighbour value
+for i, pair in df[['state', 'county']].drop_duplicates().iterrows():
+    pair = list(pair)
+    state, county = pair[0], pair[1]
+    for category in df['category'].unique():
+        if len(df[(df['state'] == state) & (df['county'] == county) & (df['category'] == category)]) == 0:
+            # print(state, county, category)
+            # print(df[(df['state'] == state) & (df['county'] == county) & (df['category'] == category)])
+            # print(df[(df['state'] == state) & (df['county'] == 'Overall') & (df['category'] == category)])
+            overall_copy = deepcopy(df[(df['state'] == state) & (df['county'] == 'Overall') & (df['category'] == category)])
+            overall_copy['county'] = county
+            df = df.append(overall_copy)
+            with open(log_file, 'a') as log:
+                log.write(f'{state} {county} {category}\n')
+
+df_normal = deepcopy(df)
+
+df_normal.set_index(['state', 'county', 'category'], inplace=True)
+df_normal = df_normal.pivot(columns='date')
+df_normal.columns = df_normal.columns.levels[1] # remove redundant column labels
+
+df_covariates = deepcopy(df)
+
+df_covariates = df_covariates.set_index(['state', 'county', 'date']).pivot(columns='category')
+df_covariates.columns = df_covariates.columns.levels[1] # remove redundant column labels
 
 df_normal.reset_index().to_json(os.path.join(outdir, file_name + '_normal.json'), indent=2)
 df_covariates.reset_index().to_json(os.path.join(outdir, file_name + '_covariates.json'), indent=2)

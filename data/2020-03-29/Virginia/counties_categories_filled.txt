@@ -1,0 +1,22 @@
+Virginia Alleghany County grocery/pharmacy
+Virginia Alleghany County parks
+Virginia Alleghany County residential
+Virginia Chesapeake transitstations
+Virginia Lexington retail/recreation
+Virginia Lexington parks
+Virginia Lexington transitstations
+Virginia Lexington workplace
+Virginia Lexington residential
+Virginia New Kent County parks
+Virginia New Kent County residential
+Virginia Roanoke County parks
+Virginia Roanoke County transitstations
+Virginia Roanoke County residential
+Virginia Rockbridge County grocery/pharmacy
+Virginia Rockbridge County parks
+Virginia Rockbridge County residential
+Virginia Southampton County parks
+Virginia Southampton County transitstations
+Virginia Southampton County residential
+Virginia Spotsylvania County parks
+Virginia Spotsylvania County transitstations

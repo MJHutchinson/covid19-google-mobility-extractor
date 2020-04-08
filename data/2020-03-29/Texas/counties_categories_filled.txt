@@ -1,0 +1,43 @@
+Texas Colorado County parks
+Texas Colorado County residential
+Texas Ector County parks
+Texas Gaines County parks
+Texas Gaines County transitstations
+Texas Gaines County residential
+Texas Gray County parks
+Texas Gray County transitstations
+Texas Gray County residential
+Texas Grayson County transitstations
+Texas Jefferson County parks
+Texas Jim Hogg County retail/recreation
+Texas Jim Hogg County parks
+Texas Jim Hogg County transitstations
+Texas Jim Hogg County workplace
+Texas Jim Hogg County residential
+Texas Liberty County parks
+Texas Limestone County parks
+Texas Limestone County transitstations
+Texas Limestone County residential
+Texas Milam County parks
+Texas Milam County transitstations
+Texas Milam County residential
+Texas Nolan County parks
+Texas Nolan County residential
+Texas Panola County parks
+Texas Panola County residential
+Texas Sherman County retail/recreation
+Texas Sherman County grocery/pharmacy
+Texas Sherman County parks
+Texas Sherman County workplace
+Texas Sherman County residential
+Texas Upton County retail/recreation
+Texas Upton County parks
+Texas Upton County transitstations
+Texas Upton County workplace
+Texas Upton County residential
+Texas Uvalde County parks
+Texas Uvalde County transitstations
+Texas Uvalde County residential
+Texas Willacy County parks
+Texas Willacy County transitstations
+Texas Willacy County residential

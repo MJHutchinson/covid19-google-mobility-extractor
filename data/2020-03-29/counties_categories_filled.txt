@@ -1,0 +1,6 @@
+AG Overall residential
+GW Overall grocery/pharmacy
+GW Overall parks
+GW Overall transitstations
+GW Overall residential
+PG Overall residential

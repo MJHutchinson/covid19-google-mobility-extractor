@@ -35,7 +35,8 @@ The second is useful for using this data as a covariate in a model. The format o
 
 State refers to the larger size area, country a smaller region of this. For most places this is the country and then the regions within it. For US states this is the state and the counties in each state (there are files for each US state, and for the US itself, broken down by state).
 
-
+## Nan Filling
+Currently data this is missing is filled with the state level average. Which series have been filled in are logged in the relevant log file in a given directory. 
 
 ## Example
 Here is an example of the data extracted for the United Kingdom. Red line is the nation overall, gray are individual counties (Plot made by [this notebook](plots/test_plots.ipynb)).

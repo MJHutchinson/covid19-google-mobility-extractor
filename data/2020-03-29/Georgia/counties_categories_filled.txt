@@ -1,0 +1,26 @@
+Georgia Banks County grocery/pharmacy
+Georgia Banks County parks
+Georgia Banks County transitstations
+Georgia Banks County residential
+Georgia Barrow County parks
+Georgia Barrow County transitstations
+Georgia Ben Hill County parks
+Georgia Ben Hill County transitstations
+Georgia Ben Hill County residential
+Georgia Chattooga County parks
+Georgia Chattooga County transitstations
+Georgia Chattooga County residential
+Georgia Cherokee County transitstations
+Georgia Clarke County parks
+Georgia Crisp County parks
+Georgia Crisp County residential
+Georgia Dade County parks
+Georgia Dade County residential
+Georgia Franklin County parks
+Georgia Franklin County residential
+Georgia Greene County parks
+Georgia Greene County transitstations
+Georgia Greene County residential
+Georgia Worth County parks
+Georgia Worth County transitstations
+Georgia Worth County residential
