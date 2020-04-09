@@ -1,2 +1,89 @@
 GB Aberdeenshire residential
+GB Ards And North Down residential
+GB Argyll and Bute Council residential
+GB Blaenau Gwent parks
+GB Blaenau Gwent transitstations
+GB Blaenau Gwent residential
+GB Borough of Halton parks
+GB Borough of Halton residential
+GB Bracknell Forest parks
+GB Bracknell Forest residential
+GB Bridgend County Borough parks
+GB Bridgend County Borough residential
+GB Caerphilly County Borough parks
+GB Caerphilly County Borough residential
+GB Carmarthenshire residential
+GB Causeway Coast and Glens parks
+GB Causeway Coast and Glens residential
+GB Ceredigion transitstations
+GB Ceredigion residential
+GB Clackmannanshire parks
+GB Clackmannanshire transitstations
+GB Clackmannanshire residential
+GB Conwy Principal Area residential
+GB Darlington parks
+GB Darlington residential
+GB Denbighshire residential
+GB Derry And Strabane residential
+GB East Ayrshire Council parks
+GB East Ayrshire Council residential
+GB East Dunbartonshire Council parks
+GB East Dunbartonshire Council residential
+GB East Lothian Council parks
+GB East Lothian Council residential
+GB East Renfrewshire Council parks
+GB East Renfrewshire Council transitstations
+GB East Renfrewshire Council residential
+GB Falkirk parks
+GB Falkirk residential
+GB Fermanagh And Omagh parks
+GB Fermanagh And Omagh residential
+GB Flintshire parks
+GB Flintshire residential
+GB Gwynedd residential
+GB Hartlepool parks
+GB Hartlepool residential
+GB Herefordshire residential
+GB Inverclyde parks
+GB Inverclyde residential
+GB Isle of Anglesey parks
+GB Isle of Anglesey residential
+GB Isle of Wight residential
+GB Lisburn and Castlereagh parks
+GB Lisburn and Castlereagh residential
+GB Luton parks
+GB Merthyr Tydfil County Borough parks
+GB Merthyr Tydfil County Borough transitstations
+GB Merthyr Tydfil County Borough residential
+GB Mid And East Antrim parks
+GB Mid And East Antrim residential
+GB Mid Ulster parks
+GB Mid Ulster transitstations
+GB Mid Ulster residential
+GB Middlesbrough parks
+GB Middlesbrough residential
+GB Midlothian parks
+GB Midlothian residential
+GB Monmouthshire residential
+GB Newry and Mourne And Down parks
+GB Newry and Mourne And Down residential
+GB North Lanarkshire parks
+GB North Lincolnshire residential
 GB North Somerset residential
+GB Pembrokeshire residential
+GB Perth and Kinross residential
+GB Peterborough parks
+GB Scottish Borders residential
+GB South Ayrshire Council parks
+GB South Ayrshire Council residential
+GB Southend-on-Sea residential
+GB Torbay residential
+GB Torfaen Principal Area parks
+GB Torfaen Principal Area residential
+GB Warrington parks
+GB West Berkshire residential
+GB West Dunbartonshire Council parks
+GB West Dunbartonshire Council residential
+GB Windsor and Maidenhead residential
+GB Wokingham parks
+GB Wokingham residential

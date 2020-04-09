@@ -1,0 +1,15 @@
+CH Appenzell Ausserrhoden grocery/pharmacy
+CH Appenzell Ausserrhoden parks
+CH Appenzell Ausserrhoden workplace
+CH Appenzell Ausserrhoden residential
+CH Basel City residential
+CH Basel-Landschaft parks
+CH Basel-Landschaft residential
+CH Grisons residential
+CH Jura grocery/pharmacy
+CH Jura parks
+CH Jura residential
+CH Uri grocery/pharmacy
+CH Uri parks
+CH Uri workplace
+CH Uri residential

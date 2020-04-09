@@ -1,0 +1,16 @@
+MU Flacq District parks
+MU Flacq District transitstations
+MU Flacq District residential
+MU Grand Port District parks
+MU Grand Port District residential
+MU Moka District grocery/pharmacy
+MU Moka District parks
+MU Moka District transitstations
+MU Moka District residential
+MU Pamplemousses District parks
+MU Pamplemousses District transitstations
+MU Pamplemousses District residential
+MU Plaines Wilhems District parks
+MU Plaines Wilhems District residential
+MU Port Louis District parks
+MU Port Louis District residential

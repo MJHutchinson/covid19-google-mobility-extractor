@@ -1,3 +1,35 @@
+BG Dobrich Province transitstations
+BG Dobrich Province residential
+BG Gabrovo parks
+BG Gabrovo transitstations
+BG Gabrovo residential
+BG Kardzhali Province transitstations
+BG Kardzhali Province residential
+BG Kyustendil Province parks
+BG Kyustendil Province transitstations
+BG Kyustendil Province residential
+BG Lovec parks
+BG Lovec transitstations
+BG Lovec residential
+BG Montana Province parks
+BG Montana Province transitstations
+BG Montana Province residential
+BG Shumen Province parks
+BG Shumen Province transitstations
+BG Shumen Province residential
+BG Silistra parks
+BG Silistra transitstations
+BG Silistra residential
+BG Sliven Province parks
+BG Sliven Province transitstations
+BG Sliven Province residential
+BG Smoljan transitstations
+BG Smoljan residential
 BG Sofia Province transitstations
 BG Sofia Province residential
 BG Veliko Tarnovo Province residential
+BG Vidin parks
+BG Vidin transitstations
+BG Vidin residential
+BG Vraca transitstations
+BG Vraca residential

@@ -1,3 +1,10 @@
+RO Bistrița-Năsăud County residential
 RO Botoșani County residential
+RO Caraș-Severin County residential
+RO Harghita County residential
+RO Ialomița County residential
+RO Mehedinți County residential
 RO Satu Mare County residential
+RO Sălaj residential
 RO Teleorman County residential
+RO Vrancea County residential

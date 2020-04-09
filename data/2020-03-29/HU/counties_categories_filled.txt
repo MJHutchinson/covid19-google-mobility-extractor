@@ -1,3 +1,6 @@
 HU Baranya parks
+HU Békés County parks
 HU Heves County residential
+HU Nógrád County parks
+HU Nógrád County residential
 HU Zala County residential

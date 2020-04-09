@@ -12,7 +12,7 @@ from copy import deepcopy
 # pip3 install --user PyMuPDF
 import fitz
 
-US_states = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New_Hampshire", "New_Jersey", "New_Mexico", "New_York", "North_Carolina", "North_Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode_Island", "South_Carolina", "South_Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West_Virginia", "Wisconsin", "Wyoming"]
+US_states = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "District_of_Columbia", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New_Hampshire", "New_Jersey", "New_Mexico", "New_York", "North_Carolina", "North_Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode_Island", "South_Carolina", "South_Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West_Virginia", "Wisconsin", "Wyoming"]
 
 def parse_stream(stream):
     data_raw = []
@@ -110,20 +110,25 @@ def parse_page(doc, ipage, verbose=False):
     
     goodplots = []
     xrefs = sorted(doc.getPageXObjectList(ipage), key=lambda x:int(x[1].replace("X","")))
+    bad_plots = []
     for i,xref in enumerate(xrefs):
         stream = doc.xrefStream(xref[0]).decode()
         info = parse_stream(stream)
-        if not info["good"]: 
-            goodplots.append(None)
-        else:
+        if info["good"]: 
             goodplots.append(info)
+        else:
+            bad_plots.append(i)
     if verbose:
         print(len(goodplots))
     
     ret = []
     
     if len(tomatch) != len(goodplots):
-        return ret
+        if len(tomatch) == len(xrefs):
+            for idx in sorted(bad_plots, reverse=True):
+                del tomatch[idx]
+        else:   
+            return ret
     
     
     for m,g in zip(tomatch,goodplots):
@@ -295,18 +300,18 @@ def parse_place(place, pdf_path, args):
     doc = fitz.Document(pdf_path)
     data = []
 
-    if not args.no_aggregate:
-        for entry in parse_front_pages(doc):
-            entry["state"]=place
-            entry["page"]=1
-            entry["county"]="Overall"
+    # if not args.no_aggregate:
+    for entry in parse_front_pages(doc):
+        entry["state"]=place
+        entry["page"]=1
+        entry["county"]="Overall"
+        data.append(entry)
+    # if not args.aggregate_only:
+    for i in range(2,doc.pageCount-1):
+        for entry in parse_page(doc, i):
+            entry["state"] = place
+            entry["page"] = i
             data.append(entry)
-    if not args.aggregate_only:
-        for i in range(2,doc.pageCount-1):
-            for entry in parse_page(doc, i):
-                entry["state"] = place
-                entry["page"] = i
-                data.append(entry)
     # outname = f"data/{place}.json.gz"
     df = pd.DataFrame(data)
     if len(df)==0: return df
@@ -417,16 +422,16 @@ argparser.add_argument(
     help="directory to output data dumps to",
     required=True
 )
-argparser.add_argument(
-    "--aggregate-only",
-    help="Only output the aggregate",
-    action="store_true"
-)
-argparser.add_argument(
-    "--no-aggregate",
-    help="Don't add aggregate level data",
-    action="store_true"
-)
+# argparser.add_argument(
+#     "--aggregate-only",
+#     help="Only output the aggregate",
+#     action="store_true"
+# )
+# argparser.add_argument(
+#     "--no-aggregate",
+#     help="Don't add aggregate level data",
+#     action="store_true"
+# )
 argparser.add_argument(
     "--place-codes",
     nargs='+',
@@ -441,9 +446,9 @@ argparser.add_argument(
 
 args = argparser.parse_args()
 
-if args.aggregate_only & args.no_aggregate:
-    print("Can't have only aggregate and no aggregate")
-    sys.exit(1)
+# if args.aggregate_only & args.no_aggregate:
+#     print("Can't have only aggregate and no aggregate")
+#     sys.exit(1)
 
 os.makedirs(args.outdir, exist_ok=True)
 
@@ -474,10 +479,10 @@ os.makedirs(outdir, exist_ok=True)
 if os.path.isfile(log_file):
     os.remove(log_file)
 
-if args.aggregate_only:
-    file_name += "_aggregate_only"
-if args.no_aggregate:
-    file_name += "_no_aggregate"
+# if args.aggregate_only:
+#     file_name += "_aggregate_only"
+# if args.no_aggregate:
+#     file_name += "_no_aggregate"
 
 df = parse_list_of_places(places, args)
 
@@ -501,19 +506,24 @@ for i, pair in df[['state', 'county']].drop_duplicates().iterrows():
             with open(log_file, 'a') as log:
                 log.write(f'{state} {county} {category}\n')
 
-df_normal = deepcopy(df)
+df_aggregate_only = deepcopy(df.loc[df['county'] == 'Overall'])
+df_no_aggregate = deepcopy(df.loc[df['county'] != 'Overall'])
 
-df_normal.set_index(['state', 'county', 'category'], inplace=True)
-df_normal = df_normal.pivot(columns='date')
-df_normal.columns = df_normal.columns.levels[1] # remove redundant column labels
+for d, file_append in zip([df, df_aggregate_only, df_no_aggregate], ["", "_aggregate_only", "_no_aggregate"]):
+    df_normal = deepcopy(d)
 
-df_covariates = deepcopy(df)
+    df_normal.set_index(['state', 'county', 'category'], inplace=True)
+    df_normal = df_normal.pivot(columns='date')
+    df_normal.columns = df_normal.columns.levels[1] # remove redundant column labels
 
-df_covariates = df_covariates.set_index(['state', 'county', 'date']).pivot(columns='category')
-df_covariates.columns = df_covariates.columns.levels[1] # remove redundant column labels
+    df_normal.reset_index().to_json(os.path.join(outdir, file_name + file_append + '_normal.json'), indent=2)
+    df_normal.reset_index().to_csv(os.path.join(outdir, file_name + file_append + '_normal.csv'), index=False)
 
-df_normal.reset_index().to_json(os.path.join(outdir, file_name + '_normal.json'), indent=2)
-df_covariates.reset_index().to_json(os.path.join(outdir, file_name + '_covariates.json'), indent=2)
+for d, file_append in zip([df, df_aggregate_only, df_no_aggregate], ["", "_aggregate_only", "_no_aggregate"]):
+    df_covariates = deepcopy(d)
 
-df_normal.reset_index().to_csv(os.path.join(outdir, file_name + '_normal.csv'), index=False)
-df_covariates.reset_index().to_csv(os.path.join(outdir, file_name + '_covariates.csv'), index=False)
+    df_covariates = df_covariates.set_index(['state', 'county', 'date']).pivot(columns='category')
+    df_covariates.columns = df_covariates.columns.levels[1] # remove redundant column labels
+
+    df_covariates.reset_index().to_json(os.path.join(outdir, file_name + file_append + '_covariates.json'), indent=2)
+    df_covariates.reset_index().to_csv(os.path.join(outdir, file_name + file_append + '_covariates.csv'), index=False)

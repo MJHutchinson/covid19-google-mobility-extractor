@@ -1,0 +1,43 @@
+Oregon Clatsop County parks
+Oregon Clatsop County transitstations
+Oregon Clatsop County residential
+Oregon Crook County parks
+Oregon Crook County transitstations
+Oregon Crook County residential
+Oregon Curry County parks
+Oregon Curry County transitstations
+Oregon Curry County residential
+Oregon Hood River County grocery/pharmacy
+Oregon Hood River County parks
+Oregon Hood River County transitstations
+Oregon Hood River County residential
+Oregon Jefferson County parks
+Oregon Jefferson County transitstations
+Oregon Jefferson County residential
+Oregon Josephine County transitstations
+Oregon Lincoln County transitstations
+Oregon Lincoln County residential
+Oregon Malheur County parks
+Oregon Malheur County residential
+Oregon Morrow County retail/recreation
+Oregon Morrow County grocery/pharmacy
+Oregon Morrow County parks
+Oregon Morrow County workplace
+Oregon Morrow County residential
+Oregon Polk County parks
+Oregon Polk County transitstations
+Oregon Sherman County retail/recreation
+Oregon Sherman County grocery/pharmacy
+Oregon Sherman County parks
+Oregon Sherman County workplace
+Oregon Sherman County residential
+Oregon Tillamook County parks
+Oregon Tillamook County transitstations
+Oregon Tillamook County residential
+Oregon Union County parks
+Oregon Union County residential
+Oregon Wasco County parks
+Oregon Wasco County transitstations
+Oregon Wasco County residential
+Oregon Yamhill County parks
+Oregon Yamhill County transitstations

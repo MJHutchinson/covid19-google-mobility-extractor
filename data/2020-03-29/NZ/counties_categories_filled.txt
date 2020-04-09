@@ -1,2 +1,17 @@
+NZ Gisborne parks
+NZ Gisborne transitstations
+NZ Gisborne workplace
+NZ Gisborne residential
+NZ Marlborough residential
+NZ Nelson transitstations
+NZ Nelson residential
+NZ Northland residential
+NZ Southland transitstations
+NZ Southland residential
+NZ Taranaki transitstations
+NZ Taranaki residential
 NZ Tasman transitstations
 NZ Tasman residential
+NZ West Coast transitstations
+NZ West Coast workplace
+NZ West Coast residential

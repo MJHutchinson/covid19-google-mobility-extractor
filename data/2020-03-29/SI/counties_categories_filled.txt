@@ -1,0 +1,10 @@
+SI Sežana grocery/pharmacy
+SI Sežana parks
+SI Sežana transitstations
+SI Sežana workplace
+SI Sežana residential
+SI Škofja Loka grocery/pharmacy
+SI Škofja Loka parks
+SI Škofja Loka transitstations
+SI Škofja Loka workplace
+SI Škofja Loka residential
