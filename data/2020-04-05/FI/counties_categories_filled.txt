@@ -1,0 +1,11 @@
+FI Central Ostrobothnia parks
+FI Central Ostrobothnia transitstations
+FI Central Ostrobothnia residential
+FI North Karelia parks
+FI North Karelia transitstations
+FI North Karelia residential
+FI Northern Ostrobothnia parks
+FI Ostrobothnia parks
+FI Ostrobothnia residential
+FI Päijänne Tavastia parks
+FI Satakunta parks

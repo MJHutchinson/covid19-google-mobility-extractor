@@ -1,0 +1,173 @@
+state,county,date,grocery/pharmacy,parks,residential,retail/recreation,transitstations,workplace
+Connecticut,Fairfield County,2020-02-23,-0.334,74.518,-0.815,4.037,18.623,1.585
+Connecticut,Fairfield County,2020-02-24,-0.546,45.782,-0.602,2.159,-1.022,3.524
+Connecticut,Fairfield County,2020-02-25,-2.593,2.715,-0.007,-1.105,-0.877,2.362
+Connecticut,Fairfield County,2020-02-26,1.624,-1.447,-0.233,2.685,0.961,0.41
+Connecticut,Fairfield County,2020-02-27,-1.089,11.982,-0.05,1.342,0.598,2.21
+Connecticut,Fairfield County,2020-02-28,-0.799,4.149,-0.346,1.235,3.171,2.98
+Connecticut,Fairfield County,2020-02-29,0.028,21.253,-1.372,4.957,6.552,2.207
+Connecticut,Fairfield County,2020-03-01,4.673,9.883,-0.595,4.951,10.453,2.171
+Connecticut,Fairfield County,2020-03-02,5.592,38.066,-0.635,3.956,-0.256,3.319
+Connecticut,Fairfield County,2020-03-03,7.977,19.5,-0.555,3.519,0.351,2.428
+Connecticut,Fairfield County,2020-03-04,9.648,28.694,-0.807,5.193,-1.573,1.001
+Connecticut,Fairfield County,2020-03-05,7.787,36.678,-0.818,5.415,1.025,2.393
+Connecticut,Fairfield County,2020-03-06,1.804,1.092,0.98,0.154,0.569,1.237
+Connecticut,Fairfield County,2020-03-07,6.924,48.804,-0.772,6.743,1.444,3.332
+Connecticut,Fairfield County,2020-03-08,3.277,69.774,0.325,4.195,8.41,0.176
+Connecticut,Fairfield County,2020-03-09,5.721,109.825,-0.059,5.528,-5.025,0.992
+Connecticut,Fairfield County,2020-03-10,8.01,30.115,0.885,3.254,-8.067,-0.499
+Connecticut,Fairfield County,2020-03-11,12.897,35.446,1.538,3.945,-11.885,-4.07
+Connecticut,Fairfield County,2020-03-12,35.833,6.847,3.865,0.796,-17.603,-8.775
+Connecticut,Fairfield County,2020-03-13,27.003,25.769,9.981,-9.685,-24.639,-20.112
+Connecticut,Fairfield County,2020-03-14,13.306,115.187,4.466,-14.606,-19.656,-3.981
+Connecticut,Fairfield County,2020-03-15,1.851,73.332,6.253,-20.288,-26.192,-10.739
+Connecticut,Fairfield County,2020-03-16,20.698,12.088,12.308,-12.391,-37.135,-30.468
+Connecticut,Fairfield County,2020-03-17,8.601,1.728,17.389,-29.062,-41.824,-38.853
+Connecticut,Fairfield County,2020-03-18,3.746,51.119,17.145,-30.44,-43.781,-41.096
+Connecticut,Fairfield County,2020-03-19,0.396,5.624,21.172,-36.607,-50.93,-44.056
+Connecticut,Fairfield County,2020-03-20,7.453,33.63,21.565,-36.87,-52.043,-44.093
+Connecticut,Fairfield County,2020-03-21,-0.484,92.097,13.313,-45.268,-48.863,-29.082
+Connecticut,Fairfield County,2020-03-22,-17.174,16.01,13.727,-50.826,-58.992,-34.977
+Connecticut,Fairfield County,2020-03-23,-29.73,-58.385,26.02,-53.506,-66.861,-54.47
+Connecticut,Fairfield County,2020-03-24,-17.531,22.956,24.182,-46.367,-60.589,-55.651
+Connecticut,Fairfield County,2020-03-25,-21.649,-26.042,26.116,-50.776,-63.968,-57.622
+Connecticut,Fairfield County,2020-03-26,-17.752,54.284,25.193,-46.583,-61.782,-56.737
+Connecticut,Fairfield County,2020-03-27,-18.367,54.813,26.236,-47.646,-63.834,-54.846
+Connecticut,Fairfield County,2020-03-28,-24.361,-13.906,18.313,-57.396,-66.076,-41.416
+Connecticut,Fairfield County,2020-03-29,-36.775,-62.46,17.967,-64.02,-74.851,-45.951
+Connecticut,Fairfield County,2020-03-30,-23.173,-5.401,25.305,-48.315,-66.35,-57.874
+Connecticut,Fairfield County,2020-03-31,-21.569,-4.937,25.954,-48.997,-65.586,-59.742
+Connecticut,Fairfield County,2020-04-01,-16.908,26.042,25.528,-46.584,-65.628,-60.019
+Connecticut,Fairfield County,2020-04-02,-17.653,-5.869,27.473,-49.814,-69.302,-60.609
+Connecticut,Fairfield County,2020-04-03,-16.503,-43.676,30.802,-53.154,-71.071,-60.405
+Connecticut,Fairfield County,2020-04-04,-21.056,76.354,17.26,-54.917,-66.076,-44.358
+Connecticut,Fairfield County,2020-04-05,-31.041,6.325,16.292,-58.607,-74.01,-45.599
+Connecticut,Hartford County,2020-02-23,-1.46,84.852,-1.227,8.403,11.878,3.078
+Connecticut,Hartford County,2020-02-24,1.736,60.225,-0.736,4.033,6.024,3.488
+Connecticut,Hartford County,2020-02-25,-1.206,9.047,0.073,2.79,2.42,2.819
+Connecticut,Hartford County,2020-02-26,2.336,2.422,-0.465,7.866,3.512,1.386
+Connecticut,Hartford County,2020-02-27,1.256,-0.967,-0.185,4.296,3.232,2.302
+Connecticut,Hartford County,2020-02-28,-1.328,-2.475,-0.419,5.098,5.537,1.804
+Connecticut,Hartford County,2020-02-29,-1.789,29.499,-1.669,11.074,7.267,2.452
+Connecticut,Hartford County,2020-03-01,3.106,-13.021,-1.15,15.364,8.789,3.176
+Connecticut,Hartford County,2020-03-02,6.944,32.827,-0.916,9.226,3.096,3.669
+Connecticut,Hartford County,2020-03-03,11.206,26.164,-0.942,7.688,5.705,3.514
+Connecticut,Hartford County,2020-03-04,9.73,26.163,-0.556,8.157,5.14,1.906
+Connecticut,Hartford County,2020-03-05,9.693,29.727,-1.188,7.471,3.232,3.561
+Connecticut,Hartford County,2020-03-06,2.462,2.25,0.099,0.944,0.712,2.212
+Connecticut,Hartford County,2020-03-07,3.979,55.002,-1.326,10.657,7.057,2.565
+Connecticut,Hartford County,2020-03-08,3.212,70.747,-0.888,8.643,7.127,2.443
+Connecticut,Hartford County,2020-03-09,8.301,118.124,-1.05,7.737,0.251,2.288
+Connecticut,Hartford County,2020-03-10,10.521,34.722,0.236,4.405,1.642,1.907
+Connecticut,Hartford County,2020-03-11,14.484,32.219,0.162,5.902,-2.142,0.267
+Connecticut,Hartford County,2020-03-12,37.953,10.634,0.836,5.963,-6.381,-0.284
+Connecticut,Hartford County,2020-03-13,33.918,0.9,5.065,-4.182,-15.186,-8.638
+Connecticut,Hartford County,2020-03-14,15.941,102.016,3.3,-8.448,-9.058,-2.565
+Connecticut,Hartford County,2020-03-15,4.539,63.368,4.117,-13.922,-18.292,-6.547
+Connecticut,Hartford County,2020-03-16,25.146,20.161,9.347,-9.207,-25.435,-24.095
+Connecticut,Hartford County,2020-03-17,8.082,-12.226,14.257,-29.8,-30.861,-31.612
+Connecticut,Hartford County,2020-03-18,9.4,50.63,14.659,-28.436,-29.64,-35.335
+Connecticut,Hartford County,2020-03-19,4.014,-26.585,17.775,-36.328,-44.086,-37.38
+Connecticut,Hartford County,2020-03-20,14.243,7.199,18.679,-35.419,-41.92,-38.781
+Connecticut,Hartford County,2020-03-21,0.871,124.754,11.371,-41.649,-37.285,-25.957
+Connecticut,Hartford County,2020-03-22,-15.556,34.939,10.412,-46.208,-47.629,-27.459
+Connecticut,Hartford County,2020-03-23,-24.767,-48.335,20.849,-51.075,-55.639,-46.251
+Connecticut,Hartford County,2020-03-24,-17.37,10.025,21.791,-47.643,-49.447,-49.237
+Connecticut,Hartford County,2020-03-25,-18.909,-22.771,22.776,-49.877,-53.454,-51.024
+Connecticut,Hartford County,2020-03-26,-14.69,62.113,21.661,-45.231,-52.456,-50.499
+Connecticut,Hartford County,2020-03-27,-14.991,67.27,22.883,-45.992,-52.36,-49.8
+Connecticut,Hartford County,2020-03-28,-21.168,49.471,14.94,-51.799,-53.821,-35.087
+Connecticut,Hartford County,2020-03-29,-32.652,-49.696,13.897,-57.967,-63.189,-36.693
+Connecticut,Hartford County,2020-03-30,-21.973,-11.89,21.535,-46.938,-56.225,-50.995
+Connecticut,Hartford County,2020-03-31,-17.726,17.606,22.283,-45.373,-53.683,-52.151
+Connecticut,Hartford County,2020-04-01,-9.372,31.734,22.018,-43.349,-50.798,-52.65
+Connecticut,Hartford County,2020-04-02,-9.884,-2.659,23.469,-47.051,-56.185,-53.112
+Connecticut,Hartford County,2020-04-03,-10.525,-32.397,26.217,-50.314,-59.004,-53.323
+Connecticut,Hartford County,2020-04-04,-16.058,112.77,14.775,-50.617,-52.241,-37.351
+Connecticut,Hartford County,2020-04-05,-25.882,32.335,12.598,-53.089,-57.844,-37.23
+Connecticut,New Haven County,2020-02-23,2.203,59.946,-1.154,7.728,15.614,2.792
+Connecticut,New Haven County,2020-02-24,2.559,32.895,-0.715,1.503,4.761,3.944
+Connecticut,New Haven County,2020-02-25,-0.863,2.213,0.009,1.426,2.475,1.81
+Connecticut,New Haven County,2020-02-26,1.0,2.845,-0.574,5.796,4.085,1.737
+Connecticut,New Haven County,2020-02-27,1.825,2.541,-0.242,5.917,5.923,3.615
+Connecticut,New Haven County,2020-02-28,2.336,3.567,-0.55,4.745,3.384,2.756
+Connecticut,New Haven County,2020-02-29,3.934,22.167,-1.88,11.868,8.463,2.819
+Connecticut,New Haven County,2020-03-01,11.072,4.204,-1.143,12.474,15.386,2.792
+Connecticut,New Haven County,2020-03-02,13.518,24.92,-0.987,7.798,7.236,3.509
+Connecticut,New Haven County,2020-03-03,11.7,13.91,-0.784,9.897,15.645,2.572
+Connecticut,New Haven County,2020-03-04,7.825,17.704,-0.842,8.662,11.671,1.856
+Connecticut,New Haven County,2020-03-05,8.006,26.2,-1.067,9.329,11.752,3.314
+Connecticut,New Haven County,2020-03-06,0.998,2.711,0.705,2.609,8.667,0.157
+Connecticut,New Haven County,2020-03-07,8.311,43.433,-1.44,11.628,19.329,2.302
+Connecticut,New Haven County,2020-03-08,5.379,52.317,-0.426,9.042,17.209,1.241
+Connecticut,New Haven County,2020-03-09,9.965,73.764,-0.876,9.019,12.664,1.258
+Connecticut,New Haven County,2020-03-10,9.765,17.862,0.259,5.486,11.09,-0.404
+Connecticut,New Haven County,2020-03-11,12.767,24.975,0.345,6.085,5.447,-1.44
+Connecticut,New Haven County,2020-03-12,36.115,8.892,1.294,8.34,-4.701,-2.034
+Connecticut,New Haven County,2020-03-13,28.956,2.711,7.079,-4.222,-15.27,-14.739
+Connecticut,New Haven County,2020-03-14,16.493,73.169,3.029,-7.157,-6.896,-3.533
+Connecticut,New Haven County,2020-03-15,5.836,48.891,4.361,-12.84,-16.525,-7.444
+Connecticut,New Haven County,2020-03-16,28.239,4.153,8.759,-6.645,-15.52,-23.184
+Connecticut,New Haven County,2020-03-17,8.365,-16.597,13.881,-25.521,-22.18,-31.347
+Connecticut,New Haven County,2020-03-18,5.236,21.339,13.724,-26.36,-23.537,-33.752
+Connecticut,New Haven County,2020-03-19,2.355,-22.072,17.232,-32.162,-33.093,-36.048
+Connecticut,New Haven County,2020-03-20,12.023,-0.428,18.042,-31.201,-35.905,-37.021
+Connecticut,New Haven County,2020-03-21,2.267,69.204,11.206,-38.83,-33.434,-24.652
+Connecticut,New Haven County,2020-03-22,-12.731,18.529,10.962,-44.385,-45.815,-28.484
+Connecticut,New Haven County,2020-03-23,-23.784,-51.668,20.383,-49.071,-46.942,-44.63
+Connecticut,New Haven County,2020-03-24,-14.468,6.165,20.397,-42.121,-36.538,-47.694
+Connecticut,New Haven County,2020-03-25,-20.798,-31.772,21.888,-46.87,-44.351,-48.675
+Connecticut,New Haven County,2020-03-26,-14.069,30.647,20.814,-40.626,-40.426,-48.054
+Connecticut,New Haven County,2020-03-27,-17.011,32.82,22.426,-42.528,-46.471,-47.729
+Connecticut,New Haven County,2020-03-28,-20.818,3.965,14.982,-50.607,-54.539,-34.974
+Connecticut,New Haven County,2020-03-29,-32.1,-53.874,14.743,-58.101,-64.62,-37.996
+Connecticut,New Haven County,2020-03-30,-18.304,-18.773,20.722,-43.861,-45.704,-49.148
+Connecticut,New Haven County,2020-03-31,-17.862,-12.645,21.853,-42.022,-43.172,-51.223
+Connecticut,New Haven County,2020-04-01,-10.031,10.432,21.199,-38.636,-41.433,-51.927
+Connecticut,New Haven County,2020-04-02,-10.655,-15.561,22.988,-42.873,-45.69,-52.061
+Connecticut,New Haven County,2020-04-03,-10.579,-42.523,25.921,-45.961,-56.045,-52.375
+Connecticut,New Haven County,2020-04-04,-12.063,52.804,14.346,-47.679,-51.404,-36.959
+Connecticut,New Haven County,2020-04-05,-23.66,7.474,13.371,-51.605,-60.403,-39.082
+Connecticut,New London County,2020-02-23,5.093,43.033,-1.04,12.25,14.342,-0.718
+Connecticut,New London County,2020-02-24,1.124,37.64,0.033,5.075,6.861,3.487
+Connecticut,New London County,2020-02-25,1.008,3.193,-0.236,3.006,3.276,3.799
+Connecticut,New London County,2020-02-26,2.779,6.104,-0.78,3.784,0.663,3.34
+Connecticut,New London County,2020-02-27,1.982,0.804,-0.362,,-7.669,2.548
+Connecticut,New London County,2020-02-28,2.443,-1.442,-0.443,-4.668,3.415,4.622
+Connecticut,New London County,2020-02-29,0.602,28.69,-1.299,-1.32,0.681,4.006
+Connecticut,New London County,2020-03-01,8.565,-3.074,-1.13,2.898,1.51,7.04
+Connecticut,New London County,2020-03-02,7.079,27.574,-0.458,0.603,-0.624,5.579
+Connecticut,New London County,2020-03-03,10.081,20.754,-1.117,1.595,0.655,6.039
+Connecticut,New London County,2020-03-04,6.226,19.124,-0.858,2.664,2.654,4.724
+Connecticut,New London County,2020-03-05,7.598,22.523,-1.029,1.505,7.669,2.878
+Connecticut,New London County,2020-03-06,4.104,2.884,-0.02,-4.525,0.569,3.926
+Connecticut,New London County,2020-03-07,5.113,40.166,-0.986,-0.046,1.362,4.235
+Connecticut,New London County,2020-03-08,7.523,37.91,-0.693,3.758,4.529,3.017
+Connecticut,New London County,2020-03-09,11.686,77.906,-0.912,5.646,-0.624,4.982
+Connecticut,New London County,2020-03-10,10.865,17.162,-0.327,1.043,1.965,4.821
+Connecticut,New London County,2020-03-11,11.117,26.855,-0.409,6.357,-1.327,2.004
+Connecticut,New London County,2020-03-12,26.757,12.468,0.227,5.528,-10.225,-0.613
+Connecticut,New London County,2020-03-13,42.409,1.802,4.738,-2.298,-16.507,-8.995
+Connecticut,New London County,2020-03-14,26.969,85.187,3.528,-8.8,-18.382,-3.892
+Connecticut,New London County,2020-03-15,14.468,44.399,4.413,-11.992,-24.909,-10.776
+Connecticut,New London County,2020-03-16,36.071,21.446,8.002,-6.407,-19.336,-19.08
+Connecticut,New London County,2020-03-17,10.193,-11.175,12.936,-29.968,-31.447,-27.612
+Connecticut,New London County,2020-03-18,8.56,52.49,13.427,-29.909,-29.193,-31.875
+Connecticut,New London County,2020-03-19,3.083,-7.642,16.907,-37.047,-38.983,-35.713
+Connecticut,New London County,2020-03-20,14.364,14.778,18.233,-35.385,-29.599,-36.031
+Connecticut,New London County,2020-03-21,2.506,98.429,12.647,-44.302,-42.892,-32.509
+Connecticut,New London County,2020-03-22,-12.153,28.689,11.659,-46.417,-53.593,-35.776
+Connecticut,New London County,2020-03-23,-18.878,-32.826,19.659,-46.723,-46.158,-40.75
+Connecticut,New London County,2020-03-24,-17.361,31.13,19.537,-45.305,-38.653,-44.511
+Connecticut,New London County,2020-03-25,-15.897,-11.393,21.057,-48.163,-37.818,-46.667
+Connecticut,New London County,2020-03-26,-12.223,64.752,19.84,-43.907,-43.456,-46.139
+Connecticut,New London County,2020-03-27,-12.606,69.204,21.699,-44.698,-43.26,-45.324
+Connecticut,New London County,2020-03-28,-17.645,44.138,15.886,-52.5,-57.19,-40.865
+Connecticut,New London County,2020-03-29,-29.398,-47.131,15.35,-58.839,-69.444,-42.529
+Connecticut,New London County,2020-03-30,-14.833,6.127,20.05,-43.741,-46.781,-45.283
+Connecticut,New London County,2020-03-31,-16.017,26.341,20.059,-42.575,-41.274,-46.166
+Connecticut,New London County,2020-04-01,-9.783,27.262,20.526,-41.806,-44.453,-47.479
+Connecticut,New London County,2020-04-02,-13.324,3.218,22.179,-46.193,-49.208,-48.922
+Connecticut,New London County,2020-04-03,-11.824,-25.591,25.644,-50.515,-51.23,-48.604
+Connecticut,New London County,2020-04-04,-12.332,79.008,15.992,-52.593,-56.509,-41.209
+Connecticut,New London County,2020-04-05,-21.181,23.224,13.956,-53.073,-62.651,-40.948

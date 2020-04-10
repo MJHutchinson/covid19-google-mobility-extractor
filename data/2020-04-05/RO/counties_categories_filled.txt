@@ -1,0 +1,15 @@
+RO Alba County residential
+RO Bistrița-Năsăud County residential
+RO Botoșani County residential
+RO Brăila County residential
+RO Caraș-Severin County residential
+RO Covasna County transitstations
+RO Covasna County residential
+RO Călărași County residential
+RO Giurgiu County transitstations
+RO Giurgiu County residential
+RO Ialomița County residential
+RO Mehedinți County residential
+RO Satu Mare County residential
+RO Sălaj residential
+RO Teleorman County residential

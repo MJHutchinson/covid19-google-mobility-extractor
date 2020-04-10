@@ -1,0 +1,388 @@
+state,county,date,grocery/pharmacy,parks,residential,retail/recreation,transitstations,workplace
+New Hampshire,Belknap County,2020-02-23,6.868,40.325,-1.815,13.666,27.857,4.501
+New Hampshire,Belknap County,2020-02-24,4.664,57.985,0.732,6.43,13.329,-13.09
+New Hampshire,Belknap County,2020-02-25,3.109,14.35,1.243,8.607,10.471,-12.885
+New Hampshire,Belknap County,2020-02-26,8.182,-1.188,1.346,16.46,5.632,-12.457
+New Hampshire,Belknap County,2020-02-27,-5.547,-6.097,2.981,5.336,4.65,-14.646
+New Hampshire,Belknap County,2020-02-28,2.292,5.479,1.838,8.139,3.783,-12.523
+New Hampshire,Belknap County,2020-02-29,2.18,8.312,-1.564,13.832,13.184,
+New Hampshire,Belknap County,2020-03-01,14.022,-10.032,-1.448,14.958,23.013,-0.643
+New Hampshire,Belknap County,2020-03-02,10.261,11.462,-0.507,7.073,9.3,2.765
+New Hampshire,Belknap County,2020-03-03,9.639,42.724,-0.637,11.012,16.033,3.811
+New Hampshire,Belknap County,2020-03-04,8.812,-4.159,0.483,9.336,6.884,2.889
+New Hampshire,Belknap County,2020-03-05,12.944,25.352,-0.478,10.904,8.37,5.492
+New Hampshire,Belknap County,2020-03-06,1.783,2.74,0.767,1.463,3.026,4.743
+New Hampshire,Belknap County,2020-03-07,9.69,14.924,-0.874,13.917,9.264,3.345
+New Hampshire,Belknap County,2020-03-08,11.447,44.653,-1.09,12.806,19.783,1.286
+New Hampshire,Belknap County,2020-03-09,10.883,97.428,-0.693,11.703,6.82,2.95
+New Hampshire,Belknap County,2020-03-10,8.085,30.983,0.656,9.366,5.235,0.363
+New Hampshire,Belknap County,2020-03-11,11.329,13.37,0.61,7.984,4.38,3.25
+New Hampshire,Belknap County,2020-03-12,36.982,11.874,1.087,6.264,2.48,4.211
+New Hampshire,Belknap County,2020-03-13,30.308,-22.665,4.029,-5.03,-12.61,-1.897
+New Hampshire,Belknap County,2020-03-14,31.492,23.425,2.427,2.049,-4.276,
+New Hampshire,Belknap County,2020-03-15,37.202,23.999,2.956,3.336,-7.267,2.572
+New Hampshire,Belknap County,2020-03-16,41.667,21.913,7.077,1.415,-11.469,-11.799
+New Hampshire,Belknap County,2020-03-17,26.119,-11.741,12.492,-22.15,-13.743,-19.055
+New Hampshire,Belknap County,2020-03-18,27.064,60.61,13.314,-17.689,-17.209,-23.108
+New Hampshire,Belknap County,2020-03-19,17.875,-23.748,17.181,-31.9,-30.068,-28.01
+New Hampshire,Belknap County,2020-03-20,19.356,10.959,17.933,-33.381,-37.074,-32.066
+New Hampshire,Belknap County,2020-03-21,4.845,37.216,10.679,-35.861,-31.0,-23.891
+New Hampshire,Belknap County,2020-03-22,-3.72,32.064,9.253,-37.126,-37.951,-29.578
+New Hampshire,Belknap County,2020-03-23,1.555,-17.867,17.371,-39.223,-38.128,-34.661
+New Hampshire,Belknap County,2020-03-24,-13.993,-7.175,20.646,-37.465,-35.993,-40.832
+New Hampshire,Belknap County,2020-03-25,2.203,-5.348,20.255,-33.412,-36.295,-37.009
+New Hampshire,Belknap County,2020-03-26,8.013,59.69,19.458,-26.332,-36.268,-36.797
+New Hampshire,Belknap County,2020-03-27,0.509,43.587,20.504,-31.643,-46.91,-36.62
+New Hampshire,Belknap County,2020-03-28,-16.715,24.559,13.342,-44.74,-49.172,-32.97
+New Hampshire,Belknap County,2020-03-29,-29.19,-63.537,13.308,-53.805,-63.386,-36.651
+New Hampshire,Belknap County,2020-03-30,-15.236,-26.295,20.058,-38.323,-49.598,-41.851
+New Hampshire,Belknap County,2020-03-31,-9.017,29.679,20.299,-34.174,-40.574,-42.828
+New Hampshire,Belknap County,2020-04-01,-6.609,8.913,21.147,-32.184,-41.302,-42.244
+New Hampshire,Belknap County,2020-04-02,-7.705,-28.24,23.147,-39.787,-49.598,-42.655
+New Hampshire,Belknap County,2020-04-03,-8.659,-38.605,25.276,-42.161,-58.007,-43.45
+New Hampshire,Belknap County,2020-04-04,-15.504,17.569,13.633,-39.276,-49.528,-32.97
+New Hampshire,Belknap County,2020-04-05,-11.161,15.343,11.211,-38.309,-56.926,-36.651
+New Hampshire,Carroll County,2020-02-23,14.323,40.325,-1.815,24.882,27.857,3.592
+New Hampshire,Carroll County,2020-02-24,5.934,57.985,0.732,16.138,13.329,-2.43
+New Hampshire,Carroll County,2020-02-25,5.176,14.35,1.243,18.615,10.471,-4.377
+New Hampshire,Carroll County,2020-02-26,14.413,-1.188,1.346,19.565,5.632,-3.482
+New Hampshire,Carroll County,2020-02-27,-10.864,-6.097,2.981,-6.298,4.65,-14.548
+New Hampshire,Carroll County,2020-02-28,1.903,5.479,1.838,11.7,3.783,-5.282
+New Hampshire,Carroll County,2020-02-29,1.474,8.312,-1.564,12.414,13.184,1.796
+New Hampshire,Carroll County,2020-03-01,17.578,-10.032,-1.448,19.54,23.013,2.874
+New Hampshire,Carroll County,2020-03-02,7.911,11.462,-0.507,6.786,9.3,6.985
+New Hampshire,Carroll County,2020-03-03,5.823,42.724,-0.637,13.914,16.033,2.626
+New Hampshire,Carroll County,2020-03-04,1.31,-4.159,0.483,7.609,6.884,4.933
+New Hampshire,Carroll County,2020-03-05,8.947,25.352,-0.478,6.808,8.37,4.074
+New Hampshire,Carroll County,2020-03-06,-6.659,2.74,0.767,1.006,3.026,3.521
+New Hampshire,Carroll County,2020-03-07,4.422,14.924,-0.874,10.147,9.264,5.388
+New Hampshire,Carroll County,2020-03-08,14.323,44.653,-1.09,14.479,19.783,-1.437
+New Hampshire,Carroll County,2020-03-09,11.208,97.428,-0.693,9.17,6.82,4.252
+New Hampshire,Carroll County,2020-03-10,,30.983,0.656,5.829,5.235,-0.875
+New Hampshire,Carroll County,2020-03-11,7.206,13.37,0.61,5.797,4.38,3.772
+New Hampshire,Carroll County,2020-03-12,26.201,11.874,1.087,5.617,2.48,-1.164
+New Hampshire,Carroll County,2020-03-13,13.794,-22.665,4.029,-7.926,-12.61,-7.629
+New Hampshire,Carroll County,2020-03-14,28.99,23.425,2.427,-2.267,-4.276,-2.395
+New Hampshire,Carroll County,2020-03-15,46.875,23.999,2.956,-3.655,-7.267,-10.776
+New Hampshire,Carroll County,2020-03-16,48.128,21.913,7.077,-2.567,-11.469,-10.022
+New Hampshire,Carroll County,2020-03-17,21.351,-11.741,12.492,-31.212,-13.743,-22.176
+New Hampshire,Carroll County,2020-03-18,26.861,60.61,13.314,-27.355,-17.209,-23.503
+New Hampshire,Carroll County,2020-03-19,5.112,-23.748,17.181,-39.488,-30.068,-29.679
+New Hampshire,Carroll County,2020-03-20,1.427,10.959,17.933,-47.554,-37.074,-33.744
+New Hampshire,Carroll County,2020-03-21,1.474,37.216,10.679,-53.325,-31.0,-31.729
+New Hampshire,Carroll County,2020-03-22,6.51,32.064,9.253,-54.825,-37.951,-38.793
+New Hampshire,Carroll County,2020-03-23,1.978,-17.867,17.371,-44.381,-38.128,-35.532
+New Hampshire,Carroll County,2020-03-24,-11.646,-7.175,20.646,-49.263,-35.993,-45.81
+New Hampshire,Carroll County,2020-03-25,-5.241,-5.348,20.255,-44.565,-36.295,-40.912
+New Hampshire,Carroll County,2020-03-26,3.195,59.69,19.458,-41.36,-36.268,-40.736
+New Hampshire,Carroll County,2020-03-27,-11.416,43.587,20.504,-49.316,-46.91,-42.547
+New Hampshire,Carroll County,2020-03-28,-22.602,24.559,13.342,-63.687,-49.172,-43.702
+New Hampshire,Carroll County,2020-03-29,-31.25,-63.537,13.308,-72.115,-63.386,-53.161
+New Hampshire,Carroll County,2020-03-30,-15.823,-26.295,20.058,-50.433,-49.598,-42.517
+New Hampshire,Carroll County,2020-03-31,-10.352,29.679,20.299,-40.426,-40.574,-44.643
+New Hampshire,Carroll County,2020-04-01,-4.586,8.913,21.147,-44.022,-41.302,-45.555
+New Hampshire,Carroll County,2020-04-02,-8.947,-28.24,23.147,-52.764,-49.598,-46.264
+New Hampshire,Carroll County,2020-04-03,-26.636,-38.605,25.276,-59.003,-58.007,-48.122
+New Hampshire,Carroll County,2020-04-04,-22.111,17.569,13.633,-61.097,-49.528,-45.498
+New Hampshire,Carroll County,2020-04-05,-5.859,15.343,11.211,-60.588,-56.926,-51.006
+New Hampshire,Cheshire County,2020-02-23,-5.317,40.325,-1.815,5.435,27.857,7.28
+New Hampshire,Cheshire County,2020-02-24,-4.641,57.985,0.732,3.979,13.329,-6.89
+New Hampshire,Cheshire County,2020-02-25,-5.96,14.35,1.243,3.966,10.471,-6.955
+New Hampshire,Cheshire County,2020-02-26,-4.065,-1.188,1.346,7.765,5.632,-7.195
+New Hampshire,Cheshire County,2020-02-27,-4.298,-6.097,2.981,6.727,4.65,-8.507
+New Hampshire,Cheshire County,2020-02-28,-8.838,5.479,1.838,7.383,3.783,-7.132
+New Hampshire,Cheshire County,2020-02-29,-5.928,8.312,-1.564,5.452,13.184,0.879
+New Hampshire,Cheshire County,2020-03-01,-2.417,-10.032,-1.448,10.165,23.013,3.36
+New Hampshire,Cheshire County,2020-03-02,-1.805,11.462,-0.507,8.319,9.3,3.445
+New Hampshire,Cheshire County,2020-03-03,4.923,42.724,-0.637,10.265,16.033,0.948
+New Hampshire,Cheshire County,2020-03-04,,-4.159,0.483,5.658,6.884,1.251
+New Hampshire,Cheshire County,2020-03-05,4.551,25.352,-0.478,10.742,8.37,4.334
+New Hampshire,Cheshire County,2020-03-06,-5.892,2.74,0.767,3.736,3.026,2.986
+New Hampshire,Cheshire County,2020-03-07,-3.599,14.924,-0.874,9.603,9.264,3.956
+New Hampshire,Cheshire County,2020-03-08,0.483,44.653,-1.09,9.159,19.783,8.961
+New Hampshire,Cheshire County,2020-03-09,2.321,97.428,-0.693,12.418,6.82,1.476
+New Hampshire,Cheshire County,2020-03-10,1.814,30.983,0.656,7.815,5.235,-0.158
+New Hampshire,Cheshire County,2020-03-11,4.319,13.37,0.61,8.875,4.38,0.782
+New Hampshire,Cheshire County,2020-03-12,17.951,11.874,1.087,10.525,2.48,0.642
+New Hampshire,Cheshire County,2020-03-13,11.995,-22.665,4.029,8.451,-12.61,0.166
+New Hampshire,Cheshire County,2020-03-14,18.631,23.425,2.427,4.557,-4.276,4.835
+New Hampshire,Cheshire County,2020-03-15,5.075,23.999,2.956,-1.812,-7.267,-3.36
+New Hampshire,Cheshire County,2020-03-16,21.916,21.913,7.077,6.269,-11.469,-11.483
+New Hampshire,Cheshire County,2020-03-17,9.328,-11.741,12.492,-15.747,-13.743,-20.075
+New Hampshire,Cheshire County,2020-03-18,8.892,60.61,13.314,-17.417,-17.209,-23.305
+New Hampshire,Cheshire County,2020-03-19,0.253,-23.748,17.181,-27.995,-30.068,-27.446
+New Hampshire,Cheshire County,2020-03-20,5.892,10.959,17.933,-22.239,-37.074,-28.032
+New Hampshire,Cheshire County,2020-03-21,1.694,37.216,10.679,-29.704,-31.0,-20.218
+New Hampshire,Cheshire County,2020-03-22,-13.534,32.064,9.253,-33.112,-37.951,-20.721
+New Hampshire,Cheshire County,2020-03-23,-15.47,-17.867,17.371,-35.084,-38.128,-33.957
+New Hampshire,Cheshire County,2020-03-24,-19.175,-7.175,20.646,-37.094,-35.993,-39.991
+New Hampshire,Cheshire County,2020-03-25,-11.433,-5.348,20.255,-31.172,-36.295,-38.789
+New Hampshire,Cheshire County,2020-03-26,-6.574,59.69,19.458,-27.778,-36.268,-37.718
+New Hampshire,Cheshire County,2020-03-27,-11.574,43.587,20.504,-30.867,-46.91,-38.98
+New Hampshire,Cheshire County,2020-03-28,-19.902,24.559,13.342,-43.864,-49.172,-29.448
+New Hampshire,Cheshire County,2020-03-29,-37.703,-63.537,13.308,-53.14,-63.386,-35.282
+New Hampshire,Cheshire County,2020-03-30,-24.237,-26.295,20.058,-36.892,-49.598,-41.339
+New Hampshire,Cheshire County,2020-03-31,-16.325,29.679,20.299,-33.361,-40.574,-43.785
+New Hampshire,Cheshire County,2020-04-01,-15.498,8.913,21.147,-30.285,-41.302,-43.481
+New Hampshire,Cheshire County,2020-04-02,-16.434,-28.24,23.147,-36.133,-49.598,-42.694
+New Hampshire,Cheshire County,2020-04-03,-19.36,-38.605,25.276,-38.696,-58.007,-43.458
+New Hampshire,Cheshire County,2020-04-04,-23.501,17.569,13.633,-42.725,-49.528,-33.404
+New Hampshire,Cheshire County,2020-04-05,-21.027,15.343,11.211,-44.585,-56.926,-31.922
+New Hampshire,Coos County,2020-02-23,28.274,40.325,-1.815,28.475,27.857,6.944
+New Hampshire,Coos County,2020-02-24,8.947,57.985,0.732,13.915,13.329,-15.646
+New Hampshire,Coos County,2020-02-25,9.889,14.35,1.243,7.548,10.471,-16.554
+New Hampshire,Coos County,2020-02-26,13.723,-1.188,1.346,14.468,5.632,-13.674
+New Hampshire,Coos County,2020-02-27,-10.356,-6.097,2.981,-21.03,4.65,-19.784
+New Hampshire,Coos County,2020-02-28,15.47,5.479,1.838,6.843,3.783,-13.889
+New Hampshire,Coos County,2020-02-29,15.597,8.312,-1.564,10.571,13.184,2.694
+New Hampshire,Coos County,2020-03-01,26.786,-10.032,-1.448,24.51,23.013,2.315
+New Hampshire,Coos County,2020-03-02,7.03,11.462,-0.507,13.518,9.3,2.059
+New Hampshire,Coos County,2020-03-03,14.504,42.724,-0.637,14.342,16.033,0.807
+New Hampshire,Coos County,2020-03-04,6.861,-4.159,0.483,9.766,6.884,-0.804
+New Hampshire,Coos County,2020-03-05,8.528,25.352,-0.478,9.529,8.37,5.249
+New Hampshire,Coos County,2020-03-06,9.282,2.74,0.767,5.576,3.026,-1.225
+New Hampshire,Coos County,2020-03-07,15.04,14.924,-0.874,21.401,9.264,-0.898
+New Hampshire,Coos County,2020-03-08,27.53,44.653,-1.09,29.916,19.783,4.63
+New Hampshire,Coos County,2020-03-09,11.503,97.428,-0.693,11.53,6.82,
+New Hampshire,Coos County,2020-03-10,8.571,30.983,0.656,3.774,5.235,-0.807
+New Hampshire,Coos County,2020-03-11,4.366,13.37,0.61,2.532,4.38,1.609
+New Hampshire,Coos County,2020-03-12,17.057,11.874,1.087,3.943,2.48,1.615
+New Hampshire,Coos County,2020-03-13,8.766,-22.665,4.029,-8.11,-12.61,-2.451
+New Hampshire,Coos County,2020-03-14,22.839,23.425,2.427,-1.805,-4.276,-1.796
+New Hampshire,Coos County,2020-03-15,45.387,23.999,2.956,9.011,-7.267,3.472
+New Hampshire,Coos County,2020-03-16,31.953,21.913,7.077,0.398,-11.469,-8.235
+New Hampshire,Coos County,2020-03-17,14.504,-11.741,12.492,-23.022,-13.743,-16.957
+New Hampshire,Coos County,2020-03-18,13.723,60.61,13.314,-17.361,-17.209,-21.316
+New Hampshire,Coos County,2020-03-19,12.183,-23.748,17.181,-27.931,-30.068,-18.169
+New Hampshire,Coos County,2020-03-20,,10.959,17.933,-39.791,-37.074,-24.101
+New Hampshire,Coos County,2020-03-21,2.228,37.216,10.679,-37.129,-31.0,-19.756
+New Hampshire,Coos County,2020-03-22,-2.232,32.064,9.253,-36.044,-37.951,-28.935
+New Hampshire,Coos County,2020-03-23,-4.473,-17.867,17.371,-29.024,-38.128,-29.644
+New Hampshire,Coos County,2020-03-24,-16.482,-7.175,20.646,-41.516,-35.993,-35.126
+New Hampshire,Coos County,2020-03-25,-2.495,-5.348,20.255,-33.999,-36.295,-31.773
+New Hampshire,Coos County,2020-03-26,-2.437,59.69,19.458,-30.889,-36.268,-33.107
+New Hampshire,Coos County,2020-03-27,-7.735,43.587,20.504,-38.017,-46.91,-34.722
+New Hampshire,Coos County,2020-03-28,-19.496,24.559,13.342,-45.637,-49.172,-28.736
+New Hampshire,Coos County,2020-03-29,-22.321,-63.537,13.308,-54.066,-63.386,-38.194
+New Hampshire,Coos County,2020-03-30,-9.586,-26.295,20.058,-34.987,-49.598,-39.526
+New Hampshire,Coos County,2020-03-31,-1.319,29.679,20.299,-32.08,-40.574,-38.76
+New Hampshire,Coos County,2020-04-01,-6.861,8.913,21.147,-31.105,-41.302,-38.208
+New Hampshire,Coos County,2020-04-02,-20.102,-28.24,23.147,-43.047,-49.598,-37.952
+New Hampshire,Coos County,2020-04-03,-5.672,-38.605,25.276,-40.805,-58.007,-39.624
+New Hampshire,Coos County,2020-04-04,-12.255,17.569,13.633,-45.38,-49.528,-32.328
+New Hampshire,Coos County,2020-04-05,9.673,15.343,11.211,-41.45,-56.926,-37.037
+New Hampshire,Merrimack County,2020-02-23,-1.349,26.261,-1.726,2.154,30.242,1.17
+New Hampshire,Merrimack County,2020-02-24,-1.309,19.841,1.421,5.598,20.115,-11.809
+New Hampshire,Merrimack County,2020-02-25,-1.179,-4.902,1.864,4.687,6.466,-11.828
+New Hampshire,Merrimack County,2020-02-26,-1.166,-21.658,2.169,7.022,6.898,-11.053
+New Hampshire,Merrimack County,2020-02-27,-7.219,-27.947,3.681,1.732,5.752,-13.771
+New Hampshire,Merrimack County,2020-02-28,-6.441,-16.098,2.774,3.766,13.13,-13.001
+New Hampshire,Merrimack County,2020-02-29,-3.801,-6.361,-1.77,9.59,13.812,3.003
+New Hampshire,Merrimack County,2020-03-01,2.564,-1.751,-0.733,9.67,29.682,2.633
+New Hampshire,Merrimack County,2020-03-02,2.328,-9.921,-0.444,5.078,10.776,3.597
+New Hampshire,Merrimack County,2020-03-03,3.831,8.578,-0.217,8.106,7.184,1.984
+New Hampshire,Merrimack County,2020-03-04,-0.291,-17.533,1.373,4.276,,1.59
+New Hampshire,Merrimack County,2020-03-05,5.893,5.081,-0.078,7.895,5.752,4.154
+New Hampshire,Merrimack County,2020-03-06,-3.344,-16.098,1.4,-0.082,4.377,3.371
+New Hampshire,Merrimack County,2020-03-07,0.119,4.771,-0.993,3.776,6.331,3.926
+New Hampshire,Merrimack County,2020-03-08,3.778,31.513,-1.376,5.266,16.801,3.219
+New Hampshire,Merrimack County,2020-03-09,4.946,31.002,-0.766,7.849,7.184,1.955
+New Hampshire,Merrimack County,2020-03-10,2.799,4.902,0.811,6.838,-1.437,-0.992
+New Hampshire,Merrimack County,2020-03-11,4.225,-9.282,1.086,6.23,-0.69,0.454
+New Hampshire,Merrimack County,2020-03-12,26.668,-2.541,0.674,6.724,1.917,1.077
+New Hampshire,Merrimack County,2020-03-13,27.373,-34.091,3.968,-0.409,-20.133,-2.247
+New Hampshire,Merrimack County,2020-03-14,24.705,3.976,2.037,-2.869,-23.02,2.079
+New Hampshire,Merrimack County,2020-03-15,17.271,-9.629,3.006,-8.138,-19.041,-4.389
+New Hampshire,Merrimack County,2020-03-16,29.824,-8.681,6.389,-0.519,-9.339,-15.328
+New Hampshire,Merrimack County,2020-03-17,16.502,-34.314,11.976,-20.679,-21.552,-25.031
+New Hampshire,Merrimack County,2020-03-18,13.84,-1.031,13.481,-24.867,-23.455,-29.827
+New Hampshire,Merrimack County,2020-03-19,7.072,-38.11,16.963,-32.905,-40.9,-32.542
+New Hampshire,Merrimack County,2020-03-20,12.014,-20.833,18.607,-33.931,-51.208,-34.909
+New Hampshire,Merrimack County,2020-03-21,-3.207,1.59,10.32,-39.228,-49.494,-25.637
+New Hampshire,Merrimack County,2020-03-22,-12.414,12.255,9.237,-41.887,-61.044,-26.627
+New Hampshire,Merrimack County,2020-03-23,-13.094,-38.442,17.409,-39.878,-40.23,-39.962
+New Hampshire,Merrimack County,2020-03-24,-20.627,-28.186,20.605,-44.005,-44.54,-45.253
+New Hampshire,Merrimack County,2020-03-25,-12.238,-34.035,20.429,-40.6,-41.391,-42.545
+New Hampshire,Merrimack County,2020-03-26,3.389,15.244,18.755,-32.04,-44.095,-42.005
+New Hampshire,Merrimack County,2020-03-27,-6.688,-1.894,20.543,-37.492,-59.524,-40.928
+New Hampshire,Merrimack County,2020-03-28,-21.142,7.156,13.057,-52.744,-61.004,-31.412
+New Hampshire,Merrimack County,2020-03-29,-32.383,-61.275,13.633,-60.652,-79.525,-38.038
+New Hampshire,Merrimack County,2020-03-30,-20.368,-38.442,19.893,-44.783,-55.316,-46.296
+New Hampshire,Merrimack County,2020-03-31,-17.386,4.902,20.455,-41.578,-48.132,-48.23
+New Hampshire,Merrimack County,2020-04-01,-11.946,-11.345,21.447,-42.131,-47.599,-48.223
+New Hampshire,Merrimack County,2020-04-02,-12.671,-31.758,23.227,-45.029,-58.154,-48.852
+New Hampshire,Merrimack County,2020-04-03,-16.473,-49.242,25.59,-49.443,-69.153,-48.552
+New Hampshire,Merrimack County,2020-04-04,-20.311,14.313,12.943,-49.195,-63.306,-34.414
+New Hampshire,Merrimack County,2020-04-05,-23.208,17.507,11.161,-49.929,-75.605,-37.746
+New Hampshire,Overall,2020-02-23,-1.684,40.325,-1.815,6.331,27.857,3.97
+New Hampshire,Overall,2020-02-24,-1.621,57.985,0.732,5.492,13.329,-9.492
+New Hampshire,Overall,2020-02-25,-2.673,14.35,1.243,3.872,10.471,-9.543
+New Hampshire,Overall,2020-02-26,0.936,-1.188,1.346,8.032,5.632,-9.709
+New Hampshire,Overall,2020-02-27,-6.607,-6.097,2.981,0.76,4.65,-10.971
+New Hampshire,Overall,2020-02-28,-2.303,5.479,1.838,2.361,3.783,-10.388
+New Hampshire,Overall,2020-02-29,-1.885,8.312,-1.564,4.34,13.184,1.154
+New Hampshire,Overall,2020-03-01,3.338,-10.032,-1.448,9.768,23.013,3.277
+New Hampshire,Overall,2020-03-02,2.879,11.462,-0.507,6.078,9.3,3.256
+New Hampshire,Overall,2020-03-03,6.192,42.724,-0.637,8.506,16.033,2.147
+New Hampshire,Overall,2020-03-04,1.705,-4.159,0.483,5.31,6.884,1.776
+New Hampshire,Overall,2020-03-05,6.542,25.352,-0.478,6.313,8.37,3.983
+New Hampshire,Overall,2020-03-06,-0.882,2.74,0.767,0.597,3.026,2.761
+New Hampshire,Overall,2020-03-07,1.54,14.924,-0.874,6.514,9.264,4.47
+New Hampshire,Overall,2020-03-08,3.368,44.653,-1.09,9.387,19.783,3.277
+New Hampshire,Overall,2020-03-09,5.724,97.428,-0.693,9.293,6.82,1.585
+New Hampshire,Overall,2020-03-10,5.888,30.983,0.656,7.519,5.235,-1.191
+New Hampshire,Overall,2020-03-11,9.427,13.37,0.61,7.193,4.38,0.498
+New Hampshire,Overall,2020-03-12,29.733,11.874,1.087,7.246,2.48,0.895
+New Hampshire,Overall,2020-03-13,31.166,-22.665,4.029,-1.484,-12.61,-2.831
+New Hampshire,Overall,2020-03-14,19.754,23.425,2.427,-4.958,-4.276,-0.24
+New Hampshire,Overall,2020-03-15,10.222,23.999,2.956,-6.233,-7.267,-3.151
+New Hampshire,Overall,2020-03-16,27.563,21.913,7.077,-1.236,-11.469,-16.349
+New Hampshire,Overall,2020-03-17,17.088,-11.741,12.492,-22.009,-13.743,-25.191
+New Hampshire,Overall,2020-03-18,14.743,60.61,13.314,-22.637,-17.209,-29.425
+New Hampshire,Overall,2020-03-19,6.117,-23.748,17.181,-33.348,-30.068,-32.441
+New Hampshire,Overall,2020-03-20,12.654,10.959,17.933,-32.79,-37.074,-34.384
+New Hampshire,Overall,2020-03-21,-2.469,37.216,10.679,-39.483,-31.0,-24.515
+New Hampshire,Overall,2020-03-22,-14.624,32.064,9.253,-41.149,-37.951,-27.851
+New Hampshire,Overall,2020-03-23,-9.794,-17.867,17.371,-37.679,-38.128,-39.45
+New Hampshire,Overall,2020-03-24,-16.513,-7.175,20.646,-42.193,-35.993,-45.199
+New Hampshire,Overall,2020-03-25,-8.926,-5.348,20.255,-38.47,-36.295,-43.084
+New Hampshire,Overall,2020-03-26,-2.159,59.69,19.458,-34.35,-36.268,-42.585
+New Hampshire,Overall,2020-03-27,-5.574,43.587,20.504,-37.214,-46.91,-42.223
+New Hampshire,Overall,2020-03-28,-22.356,24.559,13.342,-50.862,-49.172,-34.176
+New Hampshire,Overall,2020-03-29,-35.187,-63.537,13.308,-57.758,-63.386,-38.185
+New Hampshire,Overall,2020-03-30,-20.68,-26.295,20.058,-42.872,-49.598,-46.359
+New Hampshire,Overall,2020-03-31,-13.298,29.679,20.299,-38.871,-40.574,-47.496
+New Hampshire,Overall,2020-04-01,-11.534,8.913,21.147,-38.774,-41.302,-47.83
+New Hampshire,Overall,2020-04-02,-16.159,-28.24,23.147,-44.314,-49.598,-48.138
+New Hampshire,Overall,2020-04-03,-15.612,-38.605,25.276,-46.996,-58.007,-48.434
+New Hampshire,Overall,2020-04-04,-20.737,17.569,13.633,-48.324,-49.528,-36.195
+New Hampshire,Overall,2020-04-05,-25.585,15.343,11.211,-48.338,-56.926,-37.303
+New Hampshire,Rockingham County,2020-02-23,-2.519,88.716,-1.871,5.397,25.463,4.96
+New Hampshire,Rockingham County,2020-02-24,0.5,156.776,0.346,6.275,12.365,-11.005
+New Hampshire,Rockingham County,2020-02-25,-2.891,29.046,0.909,3.409,18.134,-10.595
+New Hampshire,Rockingham County,2020-02-26,-0.498,9.392,1.189,4.115,10.859,-11.266
+New Hampshire,Rockingham County,2020-02-27,-5.321,27.847,2.093,-0.138,12.255,-12.51
+New Hampshire,Rockingham County,2020-02-28,-0.66,-0.789,1.495,2.143,-1.049,-12.227
+New Hampshire,Rockingham County,2020-02-29,1.908,37.257,-1.585,6.606,27.921,1.387
+New Hampshire,Rockingham County,2020-03-01,3.404,-11.962,-1.083,8.43,22.569,5.131
+New Hampshire,Rockingham County,2020-03-02,5.917,33.67,-0.448,6.223,9.742,3.386
+New Hampshire,Rockingham County,2020-03-03,6.463,109.175,-0.863,7.864,21.508,2.276
+New Hampshire,Rockingham County,2020-03-04,2.658,10.246,0.495,2.736,14.479,1.429
+New Hampshire,Rockingham County,2020-03-05,9.893,71.163,-0.757,5.037,8.578,3.427
+New Hampshire,Rockingham County,2020-03-06,1.981,7.891,0.655,1.761,4.894,2.805
+New Hampshire,Rockingham County,2020-03-07,4.277,63.108,-0.791,10.308,15.034,5.927
+New Hampshire,Rockingham County,2020-03-08,5.242,88.218,-0.66,10.228,19.097,3.592
+New Hampshire,Rockingham County,2020-03-09,11.333,250.421,-0.535,10.768,4.496,1.101
+New Hampshire,Rockingham County,2020-03-10,10.544,84.135,0.52,10.825,10.965,-2.193
+New Hampshire,Rockingham County,2020-03-11,16.115,31.592,0.864,7.565,10.055,0.286
+New Hampshire,Rockingham County,2020-03-12,48.716,36.097,1.295,10.465,3.268,0.248
+New Hampshire,Rockingham County,2020-03-13,50.836,0.789,4.754,2.928,-11.535,-3.988
+New Hampshire,Rockingham County,2020-03-14,26.65,156.63,3.476,-1.647,5.369,-0.883
+New Hampshire,Rockingham County,2020-03-15,7.557,68.78,4.114,-6.589,-12.153,-4.105
+New Hampshire,Rockingham County,2020-03-16,36.917,51.557,9.055,0.516,-18.735,-19.894
+New Hampshire,Rockingham County,2020-03-17,24.235,22.035,14.796,-20.604,-9.7,-29.135
+New Hampshire,Rockingham County,2020-03-18,19.189,151.981,15.522,-23.05,-19.305,-34.328
+New Hampshire,Rockingham County,2020-03-19,12.969,,19.661,-33.442,-30.229,-37.488
+New Hampshire,Rockingham County,2020-03-20,25.895,104.167,20.17,-30.448,-37.752,-38.213
+New Hampshire,Rockingham County,2020-03-21,4.672,241.788,12.174,-38.056,-27.921,-26.105
+New Hampshire,Rockingham County,2020-03-22,-15.727,83.234,10.785,-42.629,-36.458,-30.788
+New Hampshire,Rockingham County,2020-03-23,-2.25,14.731,19.968,-37.416,-41.592,-44.443
+New Hampshire,Rockingham County,2020-03-24,-13.18,54.087,23.455,-43.2,-35.847,-50.035
+New Hampshire,Rockingham County,2020-03-25,-8.141,32.445,23.581,-42.913,-36.197,-49.43
+New Hampshire,Rockingham County,2020-03-26,0.083,184.612,22.35,-36.409,-37.173,-48.512
+New Hampshire,Rockingham County,2020-03-27,-1.54,193.34,22.96,-38.371,-48.588,-47.416
+New Hampshire,Rockingham County,2020-03-28,-21.189,97.324,14.779,-52.508,-54.231,-38.716
+New Hampshire,Rockingham County,2020-03-29,-37.65,-65.291,14.989,-61.914,-62.5,-40.709
+New Hampshire,Rockingham County,2020-03-30,-17.083,-16.835,23.155,-45.189,-52.083,-51.724
+New Hampshire,Rockingham County,2020-03-31,-9.949,56.09,23.248,-40.039,-40.908,-53.221
+New Hampshire,Rockingham County,2020-04-01,-9.054,12.807,24.603,-42.176,-41.023,-53.349
+New Hampshire,Rockingham County,2020-04-02,-13.551,-23.721,26.236,-46.828,-49.837,-54.044
+New Hampshire,Rockingham County,2020-04-03,-13.351,-33.144,28.62,-49.605,-62.57,-53.551
+New Hampshire,Rockingham County,2020-04-04,-19.544,85.918,15.406,-49.502,-54.768,-38.59
+New Hampshire,Rockingham County,2020-04-05,-32.816,14.952,12.859,-52.334,-61.343,-39.854
+New Hampshire,Strafford County,2020-02-23,-3.157,40.325,-2.523,8.865,27.857,2.902
+New Hampshire,Strafford County,2020-02-24,-4.593,57.985,1.279,4.322,13.329,-10.223
+New Hampshire,Strafford County,2020-02-25,-4.642,14.35,1.015,6.072,10.471,-10.77
+New Hampshire,Strafford County,2020-02-26,-1.48,-1.188,1.202,7.806,5.632,-10.204
+New Hampshire,Strafford County,2020-02-27,-4.845,-6.097,2.912,2.777,4.65,-10.677
+New Hampshire,Strafford County,2020-02-28,-6.294,5.479,2.447,3.358,3.783,-11.891
+New Hampshire,Strafford County,2020-02-29,-8.835,8.312,-2.043,3.964,13.184,1.528
+New Hampshire,Strafford County,2020-03-01,1.263,-10.032,-2.279,11.603,23.013,-0.322
+New Hampshire,Strafford County,2020-03-02,1.47,11.462,-0.454,4.981,9.3,3.684
+New Hampshire,Strafford County,2020-03-03,7.242,42.724,-1.01,13.446,16.033,1.854
+New Hampshire,Strafford County,2020-03-04,3.145,-4.159,0.46,6.424,6.884,3.105
+New Hampshire,Strafford County,2020-03-05,11.74,25.352,-0.242,10.633,8.37,4.845
+New Hampshire,Strafford County,2020-03-06,-0.944,2.74,1.12,1.896,3.026,3.995
+New Hampshire,Strafford County,2020-03-07,-1.852,14.924,-0.983,7.326,9.264,9.423
+New Hampshire,Strafford County,2020-03-08,0.789,44.653,-1.527,10.104,19.783,2.257
+New Hampshire,Strafford County,2020-03-09,7.165,97.428,-0.716,9.083,6.82,3.039
+New Hampshire,Strafford County,2020-03-10,9.47,30.983,0.273,8.024,5.235,0.53
+New Hampshire,Strafford County,2020-03-11,10.916,13.37,0.46,6.769,4.38,1.597
+New Hampshire,Strafford County,2020-03-12,32.424,11.874,1.076,12.936,2.48,1.525
+New Hampshire,Strafford County,2020-03-13,37.135,-22.665,4.617,0.325,-12.61,-2.093
+New Hampshire,Strafford County,2020-03-14,16.672,23.425,2.232,-4.416,-4.276,3.566
+New Hampshire,Strafford County,2020-03-15,4.893,23.999,2.495,-4.107,-7.267,-3.87
+New Hampshire,Strafford County,2020-03-16,30.313,21.913,7.254,-4.249,-11.469,-15.749
+New Hampshire,Strafford County,2020-03-17,16.526,-11.741,12.332,-22.337,-13.743,-27.189
+New Hampshire,Strafford County,2020-03-18,19.797,60.61,13.561,-22.104,-17.209,-30.789
+New Hampshire,Strafford County,2020-03-19,12.485,-23.748,18.123,-30.749,-30.068,-35.261
+New Hampshire,Strafford County,2020-03-20,11.644,10.959,19.26,-29.251,-37.074,-37.671
+New Hampshire,Strafford County,2020-03-21,-6.555,37.216,10.327,-36.328,-31.0,-23.686
+New Hampshire,Strafford County,2020-03-22,-17.203,32.064,8.76,-37.091,-37.951,-27.412
+New Hampshire,Strafford County,2020-03-23,-10.104,-17.867,19.148,-37.726,-38.128,-43.656
+New Hampshire,Strafford County,2020-03-24,-18.382,-7.175,21.271,-40.626,-35.993,-48.376
+New Hampshire,Strafford County,2020-03-25,-6.846,-5.348,21.104,-36.818,-36.295,-45.872
+New Hampshire,Strafford County,2020-03-26,0.932,59.69,20.82,-30.004,-36.268,-45.668
+New Hampshire,Strafford County,2020-03-27,-5.193,43.587,21.846,-33.747,-46.91,-46.423
+New Hampshire,Strafford County,2020-03-28,-27.93,24.559,13.144,-48.671,-49.172,-35.401
+New Hampshire,Strafford County,2020-03-29,-39.141,-63.537,13.068,-53.126,-63.386,-39.667
+New Hampshire,Strafford County,2020-03-30,-22.23,-26.295,21.269,-42.56,-49.598,-50.472
+New Hampshire,Strafford County,2020-03-31,-15.226,29.679,20.9,-36.722,-40.574,-51.289
+New Hampshire,Strafford County,2020-04-01,-11.471,8.913,22.701,-36.956,-41.302,-51.728
+New Hampshire,Strafford County,2020-04-02,-16.957,-28.24,25.006,-42.805,-49.598,-52.128
+New Hampshire,Strafford County,2020-04-03,-16.837,-38.605,27.11,-45.827,-58.007,-51.56
+New Hampshire,Strafford County,2020-04-04,-26.932,17.569,13.315,-47.066,-49.528,-35.147
+New Hampshire,Strafford County,2020-04-05,-27.62,15.343,10.937,-44.0,-56.926,-37.732
+New Hampshire,Sullivan County,2020-02-23,3.333,40.325,-1.815,0.215,27.857,1.011
+New Hampshire,Sullivan County,2020-02-24,-3.181,57.985,0.732,8.259,13.329,-7.049
+New Hampshire,Sullivan County,2020-02-25,-1.555,14.35,1.243,11.713,10.471,-7.062
+New Hampshire,Sullivan County,2020-02-26,-10.417,-1.188,1.346,9.667,5.632,-7.028
+New Hampshire,Sullivan County,2020-02-27,-5.482,-6.097,2.981,7.491,4.65,-6.671
+New Hampshire,Sullivan County,2020-02-28,-6.635,5.479,1.838,4.167,3.783,-6.527
+New Hampshire,Sullivan County,2020-02-29,-5.519,8.312,-1.564,9.279,13.184,3.642
+New Hampshire,Sullivan County,2020-03-01,6.667,-10.032,-1.448,10.115,23.013,4.045
+New Hampshire,Sullivan County,2020-03-02,-4.771,11.462,-0.507,15.718,9.3,4.96
+New Hampshire,Sullivan County,2020-03-03,2.332,42.724,-0.637,16.198,16.033,2.018
+New Hampshire,Sullivan County,2020-03-04,-10.417,-4.159,0.483,9.426,6.884,3.263
+New Hampshire,Sullivan County,2020-03-05,9.398,25.352,-0.478,15.684,8.37,4.875
+New Hampshire,Sullivan County,2020-03-06,-6.635,2.74,0.767,0.906,3.026,1.305
+New Hampshire,Sullivan County,2020-03-07,7.588,14.924,-0.874,11.73,9.264,8.013
+New Hampshire,Sullivan County,2020-03-08,15.833,44.653,-1.09,9.47,19.783,4.045
+New Hampshire,Sullivan County,2020-03-09,5.566,97.428,-0.693,15.185,6.82,3.916
+New Hampshire,Sullivan County,2020-03-10,3.109,30.983,0.656,12.959,5.235,-0.504
+New Hampshire,Sullivan County,2020-03-11,-9.673,13.37,0.61,7.734,4.38,2.51
+New Hampshire,Sullivan County,2020-03-12,18.797,11.874,1.087,13.343,2.48,3.592
+New Hampshire,Sullivan County,2020-03-13,19.241,-22.665,4.029,3.08,-12.61,0.522
+New Hampshire,Sullivan County,2020-03-14,26.904,23.425,2.427,11.029,-4.276,0.728
+New Hampshire,Sullivan County,2020-03-15,38.333,23.999,2.956,1.937,-7.267,-3.034
+New Hampshire,Sullivan County,2020-03-16,28.626,21.913,7.077,17.317,-11.469,-8.876
+New Hampshire,Sullivan County,2020-03-17,15.547,-11.741,12.492,-5.482,-13.743,-15.89
+New Hampshire,Sullivan County,2020-03-18,11.161,60.61,13.314,-10.393,-17.209,-18.825
+New Hampshire,Sullivan County,2020-03-19,3.916,-23.748,17.181,-19.663,-30.068,-21.295
+New Hampshire,Sullivan County,2020-03-20,3.317,10.959,17.933,-22.645,-37.074,-27.151
+New Hampshire,Sullivan County,2020-03-21,0.69,37.216,10.679,-19.258,-31.0,-11.655
+New Hampshire,Sullivan County,2020-03-22,3.333,32.064,9.253,-27.763,-37.951,-18.204
+New Hampshire,Sullivan County,2020-03-23,-10.337,-17.867,17.371,-23.977,-38.128,-29.24
+New Hampshire,Sullivan County,2020-03-24,-13.215,-7.175,20.646,-29.904,-35.993,-35.311
+New Hampshire,Sullivan County,2020-03-25,-8.185,-5.348,20.255,-17.643,-36.295,-31.878
+New Hampshire,Sullivan County,2020-03-26,8.615,59.69,19.458,-16.854,-36.268,-31.045
+New Hampshire,Sullivan County,2020-03-27,-3.981,43.587,20.504,-24.457,-46.91,-33.939
+New Hampshire,Sullivan County,2020-03-28,-14.487,24.559,13.342,-35.889,-49.172,-24.767
+New Hampshire,Sullivan County,2020-03-29,-23.333,-63.537,13.308,-46.488,-63.386,-29.328
+New Hampshire,Sullivan County,2020-03-30,-20.674,-26.295,20.058,-27.707,-49.598,-34.722
+New Hampshire,Sullivan County,2020-03-31,-13.993,29.679,20.299,-27.412,-40.574,-36.572
+New Hampshire,Sullivan County,2020-04-01,-13.393,8.913,21.147,-23.202,-41.302,-35.643
+New Hampshire,Sullivan County,2020-04-02,-10.965,-28.24,23.147,-29.494,-49.598,-36.176
+New Hampshire,Sullivan County,2020-04-03,-7.298,-38.605,25.276,-29.891,-58.007,-38.899
+New Hampshire,Sullivan County,2020-04-04,4.139,17.569,13.633,-35.189,-49.528,-28.409
+New Hampshire,Sullivan County,2020-04-05,-9.167,15.343,11.211,-35.942,-56.926,-27.306

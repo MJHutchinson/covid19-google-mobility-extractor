@@ -1,0 +1,20 @@
+NZ Gisborne parks
+NZ Gisborne transitstations
+NZ Gisborne workplace
+NZ Gisborne residential
+NZ Hawke's Bay transitstations
+NZ Hawke's Bay residential
+NZ Manawatu-Wanganui transitstations
+NZ Manawatu-Wanganui residential
+NZ Northland transitstations
+NZ Northland residential
+NZ Otago residential
+NZ Southland transitstations
+NZ Southland residential
+NZ Taranaki transitstations
+NZ Taranaki residential
+NZ Tasman transitstations
+NZ Tasman residential
+NZ West Coast transitstations
+NZ West Coast workplace
+NZ West Coast residential

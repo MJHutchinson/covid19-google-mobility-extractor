@@ -1,0 +1,16 @@
+UY Artigas Department transitstations
+UY Artigas Department residential
+UY Durazno Department transitstations
+UY Durazno Department residential
+UY Flores Department parks
+UY Flores Department transitstations
+UY Flores Department workplace
+UY Flores Department residential
+UY Paysandú Department residential
+UY Rivera Department transitstations
+UY Rivera Department residential
+UY Rocha Department residential
+UY Río Negro Department residential
+UY Soriano Department transitstations
+UY Soriano Department residential
+UY Tacuarembó Department residential

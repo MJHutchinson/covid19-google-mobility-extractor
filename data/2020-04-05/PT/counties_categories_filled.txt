@@ -1,0 +1,9 @@
+PT Azores residential
+PT Beja District transitstations
+PT Beja District residential
+PT Guarda District parks
+PT Guarda District transitstations
+PT Guarda District residential
+PT Madeira residential
+PT Portalegre District transitstations
+PT Portalegre District residential

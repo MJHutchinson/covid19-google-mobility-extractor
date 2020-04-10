@@ -1,0 +1,16 @@
+Alaska Kenai Peninsula Borough parks
+Alaska Kenai Peninsula Borough transitstations
+Alaska Kenai Peninsula Borough residential
+Alaska Ketchikan Gateway grocery/pharmacy
+Alaska Ketchikan Gateway parks
+Alaska Ketchikan Gateway transitstations
+Alaska Ketchikan Gateway workplace
+Alaska Ketchikan Gateway residential
+Alaska Kodiak Island grocery/pharmacy
+Alaska Kodiak Island parks
+Alaska Kodiak Island transitstations
+Alaska Kodiak Island workplace
+Alaska Kodiak Island residential
+Alaska Matanuska-Susitna parks
+Alaska Matanuska-Susitna transitstations
+Alaska Matanuska-Susitna residential
