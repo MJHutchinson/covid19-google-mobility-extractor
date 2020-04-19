@@ -1,6 +1,8 @@
 # Google Mobility data for covid19
 
-![Latest publication from Google](https://badgen.net/badge/Latest%20publication%20from%20Google/March%2029th/green)![Latest repository update](https://badgen.net/badge/Latest%20repository%20update/April%207th/blue)
+![Latest publication from Google](https://badgen.net/badge/Latest%20publication%20from%20Google/April%204th/green)![Latest repository update](https://badgen.net/badge/Latest%20repository%20update/April%2019th/blue)
+
+##### This tootling is now redundant, google is pubisling csv files of all the data [here](https://www.google.com/covid19/mobility/)
 
 This repository contains code to pull data out of the [Google Community Mobility reports](https://www.google.com/covid19/mobility/) pdfs into a usable format for modelling. Currently the exported format is JSON. 
 
