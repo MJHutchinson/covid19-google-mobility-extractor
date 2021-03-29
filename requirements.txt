@@ -44,7 +44,7 @@ pkg-resources==0.0.0
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
-Pygments==2.6.1
+Pygments==2.7.4
 PyMuPDF==1.16.16
 pyparsing==2.4.6
 pyproj==2.6.0
